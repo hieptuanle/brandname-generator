@@ -1,12002 +1,15002 @@
 [
   [
     "THIÊN",
-    "Trời"
+    "Trời",
+    "ngang"
   ],
   [
     "ĐỊA",
-    "Đất"
+    "Đất",
+    "nang"
   ],
   [
     "CỬ",
-    "Cất"
+    "Cất",
+    "hoi"
   ],
   [
     "TỒN",
-    "Còn"
+    "Còn",
+    "huyen"
   ],
   [
     "TỬ",
-    "Con"
+    "Con",
+    "hoi"
   ],
   [
     "TÔN",
-    "Cháu"
+    "Cháu",
+    "ngang"
   ],
   [
     "LỤC",
-    "Sáu"
+    "Sáu",
+    "nang"
   ],
   [
     "TAM",
-    "Ba"
+    "Ba",
+    "ngang"
   ],
   [
     "GIA",
-    "Nhà"
+    "Nhà",
+    "ngang"
   ],
   [
     "QUỐC",
-    "Nước"
+    "Nước",
+    "sac"
   ],
   [
     "TIỀN",
-    "Trước"
+    "Trước",
+    "huyen"
   ],
   [
     "HẬU",
-    "Sau"
+    "Sau",
+    "nang"
   ],
   [
     "NGƯU",
-    "Trâu"
+    "Trâu",
+    "ngang"
   ],
   [
     "MÃ",
-    "Ngựa"
+    "Ngựa",
+    "nga"
   ],
   [
     "CỰ",
-    "Cựa"
+    "Cựa",
+    "nang"
   ],
   [
     "NHA",
-    "Răng"
+    "Răng",
+    "ngang"
   ],
   [
     "VÔ",
-    "Chăng"
+    "Chăng",
+    "ngang"
   ],
   [
     "HỮU",
-    "Có"
+    "Có",
+    "nga"
   ],
   [
     "KHUYỂN",
-    "Chó"
+    "Chó",
+    "hoi"
   ],
   [
     "DƯƠNG",
-    "Dê"
+    "Dê",
+    "ngang"
   ],
   [
     "QUY",
-    "Về"
+    "Về",
+    "ngang"
   ],
   [
     "TẨU",
-    "Chạy"
+    "Chạy",
+    "hoi"
   ],
   [
     "BÁI",
-    "Lạy"
+    "Lạy",
+    "sac"
   ],
   [
     "QUỴ",
-    "Quỳ"
+    "Quỳ",
+    "nang"
   ],
   [
     "KHỨ",
-    "Đi"
+    "Đi",
+    "sac"
   ],
   [
     "LAI",
-    "Lại"
+    "Lại",
+    "ngang"
   ],
   [
     "NỮ",
-    "Gái"
+    "Gái",
+    "nga"
   ],
   [
     "NAM",
-    "Trai"
+    "Trai",
+    "ngang"
   ],
   [
     "ĐÁI",
-    "Đai"
+    "Đai",
+    "sac"
   ],
   [
     "QUAN",
-    "Mũ"
+    "Mũ",
+    "ngang"
   ],
   [
     "TÚC",
-    "Đủ"
+    "Đủ",
+    "sac"
   ],
   [
     "ĐA",
-    "Nhiều"
+    "Nhiều",
+    "ngang"
   ],
   [
     "ÁI",
-    "Yêu"
+    "Yêu",
+    "sac"
   ],
   [
     "TĂNG",
-    "Ghét"
+    "Ghét",
+    "ngang"
   ],
   [
     "THỨC",
-    "Biết"
+    "Biết",
+    "sac"
   ],
   [
     "TRI",
-    "Hay"
+    "Hay",
+    "ngang"
   ],
   [
     "MỘC",
-    "Cây"
+    "Cây",
+    "nang"
   ],
   [
     "CĂN",
-    "Rễ"
+    "Rễ",
+    "ngang"
   ],
   [
     "DỊ",
-    "Dễ"
+    "Dễ",
+    "nang"
   ],
   [
     "NAN",
-    "Khôn (khó)"
+    "Khôn (khó)",
+    "ngang"
   ],
   [
     "CHỈ",
-    "Ngon"
+    "Ngon",
+    "hoi"
   ],
   [
     "CAM",
-    "Ngọt"
+    "Ngọt",
+    "ngang"
   ],
   [
     "TRỤ",
-    "Cột"
+    "Cột",
+    "nang"
   ],
   [
     "LƯƠNG",
-    "Rường"
+    "Rường",
+    "ngang"
   ],
   [
     "SÀNG",
-    "Giường"
+    "Giường",
+    "huyen"
   ],
   [
     "TỊCH",
-    "Chiếu"
+    "Chiếu",
+    "nang"
   ],
   [
     "KHIẾM",
-    "Thiếu"
+    "Thiếu",
+    "sac"
   ],
   [
     "DƯ",
-    "Thừa"
+    "Thừa",
+    "ngang"
   ],
   [
     "SỪ",
-    "Bừa"
+    "Bừa",
+    "huyen"
   ],
   [
     "CÚC",
-    "Cuốc"
+    "Cuốc",
+    "sac"
   ],
   [
     "CHÚC",
-    "Đuốc"
+    "Đuốc",
+    "sac"
   ],
   [
     "ĐĂNG",
-    "Đèn"
+    "Đèn",
+    "ngang"
   ],
   [
     "THĂNG",
-    "Lên"
+    "Lên",
+    "ngang"
   ],
   [
     "GIÁNG",
-    "Xuống"
+    "Xuống",
+    "sac"
   ],
   [
     "ĐIỀN",
-    "Ruộng"
+    "Ruộng",
+    "huyen"
   ],
   [
     "TRẠCH",
-    "Nhà"
+    "Nhà",
+    "nang"
   ],
   [
     "LÃO",
-    "Già"
+    "Già",
+    "nga"
   ],
   [
     "ĐỒNG",
-    "Trẻ"
+    "Trẻ",
+    "huyen"
   ],
   [
     "TƯỚC",
-    "Sẻ (chim Sẻ)"
+    "Sẻ (chim Sẻ)",
+    "sac"
   ],
   [
     "KÊ",
-    "Gà"
+    "Gà",
+    "ngang"
   ],
   [
     "NGÃ",
-    "Ta"
+    "Ta",
+    "nga"
   ],
   [
     "THA",
-    "Khác (người khác)"
+    "Khác (người khác)",
+    "ngang"
   ],
   [
     "BÁ",
-    "Bác"
+    "Bác",
+    "sac"
   ],
   [
     "DI",
-    "Dì"
+    "Dì",
+    "ngang"
   ],
   [
     "DIÊN",
-    "Chì"
+    "Chì",
+    "ngang"
   ],
   [
     "TÍCH",
-    "Thiếc"
+    "Thiếc",
+    "sac"
   ],
   [
     "DỊCH",
-    "Việc"
+    "Việc",
+    "nang"
   ],
   [
     "CÔNG",
-    "Công"
+    "Công",
+    "ngang"
   ],
   [
     "HÀN",
-    "Lông"
+    "Lông",
+    "huyen"
   ],
   [
     "DỰC",
-    "Cánh"
+    "Cánh",
+    "nang"
   ],
   [
     "THÁNH",
-    "Thánh"
+    "Thánh",
+    "sac"
   ],
   [
     "HIỀN",
-    "Hiền"
+    "Hiền",
+    "huyen"
   ],
   [
     "TIÊN",
-    "Tiên"
+    "Tiên",
+    "ngang"
   ],
   [
     "PHẬT",
-    "Bụt"
+    "Bụt",
+    "nang"
   ],
   [
     "LẠO",
-    "Lụt"
+    "Lụt",
+    "nang"
   ],
   [
     "TRIỀU",
-    "Triều"
+    "Triều",
+    "huyen"
   ],
   [
     "DIÊN",
-    "Diều"
+    "Diều",
+    "ngang"
   ],
   [
     "PHƯỢNG",
-    "Phượng"
+    "Phượng",
+    "nang"
   ],
   [
     "TRƯỢNG",
-    "Trượng"
+    "Trượng",
+    "nang"
   ],
   [
     "TẦM",
-    "Tầm"
+    "Tầm",
+    "huyen"
   ],
   [
     "BÀN",
-    "Mâm"
+    "Mâm",
+    "huyen"
   ],
   [
     "TRẢN",
-    "Chén"
+    "Chén",
+    "hoi"
   ],
   [
     "KIỂN",
-    "Kén"
+    "Kén",
+    "hoi"
   ],
   [
     "TY",
-    "Tơ"
+    "Tơ",
+    "ngang"
   ],
   [
     "MAI",
-    "Mơ"
+    "Mơ",
+    "ngang"
   ],
   [
     "LÝ",
-    "Mận"
+    "Mận",
+    "sac"
   ],
   [
     "TỬ",
-    "Cặn"
+    "Cặn",
+    "hoi"
   ],
   [
     "THANH",
-    "Trong"
+    "Trong",
+    "ngang"
   ],
   [
     "HUNG",
-    "Lòng"
+    "Lòng",
+    "ngang"
   ],
   [
     "ỨC",
-    "Ngực"
+    "Ngực",
+    "sac"
   ],
   [
     "MẶC",
-    "Mực"
+    "Mực",
+    "nang"
   ],
   [
     "CHU",
-    "Son"
+    "Son",
+    "ngang"
   ],
   [
     "KIỀU",
-    "Non"
+    "Non",
+    "huyen"
   ],
   [
     "THỤC",
-    "Chín"
+    "Chín",
+    "nang"
   ],
   [
     "THẬN",
-    "Ghín"
+    "Ghín",
+    "nang"
   ],
   [
     "LIÊM",
-    "Ngay"
+    "Ngay",
+    "ngang"
   ],
   [
     "TỬ",
-    "Tây"
+    "Tây",
+    "hoi"
   ],
   [
     "MỘ",
-    "Mến"
+    "Mến",
+    "nang"
   ],
   [
     "CHÍ",
-    "Đến"
+    "Đến",
+    "sac"
   ],
   [
     "HỒI",
-    "Về"
+    "Về",
+    "huyen"
   ],
   [
     "HƯƠNG",
-    "Quê"
+    "Quê",
+    "ngang"
   ],
   [
     "THỊ",
-    "Chợ"
+    "Chợ",
+    "nang"
   ],
   [
     "PHỤ",
-    "Vợ"
+    "Vợ",
+    "nang"
   ],
   [
     "PHU",
-    "Chồng"
+    "Chồng",
+    "ngang"
   ],
   [
     "NỘI",
-    "Trong"
+    "Trong",
+    "nang"
   ],
   [
     "TRUNG",
-    "Giữa"
+    "Giữa",
+    "ngang"
   ],
   [
     "MÔN",
-    "Cửa"
+    "Cửa",
+    "ngang"
   ],
   [
     "ỐC",
-    "Nhà"
+    "Nhà",
+    "sac"
   ],
   [
     "ANH",
-    "Hoa"
+    "Hoa",
+    "ngang"
   ],
   [
     "ĐẾ",
-    "Rễ"
+    "Rễ",
+    "sac"
   ],
   [
     "PHỈ",
-    "Hẹ"
+    "Hẹ",
+    "hoi"
   ],
   [
     "THÔNG",
-    "Hành"
+    "Hành",
+    "ngang"
   ],
   [
     "THƯƠNG",
-    "Xanh"
+    "Xanh",
+    "ngang"
   ],
   [
     "BẠCH",
-    "Trắng"
+    "Trắng",
+    "nang"
   ],
   [
     "KHỔ",
-    "Đắng"
+    "Đắng",
+    "hoi"
   ],
   [
     "TOAN",
-    "Chua"
+    "Chua",
+    "ngang"
   ],
   [
     "SÔ",
-    "Ngựa"
+    "Ngựa",
+    "ngang"
   ],
   [
     "GIÁ",
-    "xe giá"
+    "xe giá",
+    "sac"
   ],
   [
     "THẠCH",
-    "Đá"
+    "Đá",
+    "nang"
   ],
   [
     "KIM",
-    "Vàng"
+    "Vàng",
+    "ngang"
   ],
   [
     "CÙ",
-    "Đường"
+    "Đường",
+    "huyen"
   ],
   [
     "HẠNG",
-    "Ngõ"
+    "Ngõ",
+    "nang"
   ],
   [
     "ĐẠC",
-    "Mõ"
+    "Mõ",
+    "nang"
   ],
   [
     "CHUNG",
-    "Chuông"
+    "Chuông",
+    "ngang"
   ],
   [
     "PHƯƠNG",
-    "Vuông"
+    "Vuông",
+    "ngang"
   ],
   [
     "TRỰC",
-    "Thẳng"
+    "Thẳng",
+    "nang"
   ],
   [
     "TRÁC",
-    "Đẳng"
+    "Đẳng",
+    "sac"
   ],
   [
     "HÀM",
-    "Hòm"
+    "Hòm",
+    "huyen"
   ],
   [
     "KHUY",
-    "Dòm"
+    "Dòm",
+    "ngang"
   ],
   [
     "SÁT",
-    "xét"
+    "xét",
+    "sac"
   ],
   [
     "MIỆN",
-    "Lét"
+    "Lét",
+    "nang"
   ],
   [
     "CHIÊM",
-    "Xem"
+    "Xem",
+    "ngang"
   ],
   [
     "MUỘI",
-    "Em"
+    "Em",
+    "nang"
   ],
   [
     "TỶ ",
-    "Chị"
+    "Chị",
+    "hoi"
   ],
   [
     "THỊ",
-    "Thị"
+    "Thị",
+    "nang"
   ],
   [
     "ĐÀO",
-    ""
+    "",
+    "huyen"
   ],
   [
     "CÂN",
-    ""
+    "",
+    "ngang"
   ],
   [
     "PHỦ",
-    "Búa"
+    "Búa",
+    "hoi"
   ],
   [
     "CỐC",
-    "Lúa"
+    "Lúa",
+    "sac"
   ],
   [
     "MA",
-    "Vừng"
+    "Vừng",
+    "ngang"
   ],
   [
     "KHƯƠNG",
-    "Gừng"
+    "Gừng",
+    "ngang"
   ],
   [
     "GIỚI",
-    ""
+    "",
+    "sac"
   ],
   [
     "THỊ",
-    "Phải"
+    "Phải",
+    "nang"
   ],
   [
     "PHI",
-    "Chăng"
+    "Chăng",
+    "ngang"
   ],
   [
     "DUẪN",
-    "Măng"
+    "Măng",
+    "nga"
   ],
   [
     "NHA",
-    "Mống"
+    "Mống",
+    "ngang"
   ],
   [
     "CỔ",
-    "Trống"
+    "Trống",
+    "hoi"
   ],
   [
     "CHINH",
-    "Chiêng"
+    "Chiêng",
+    "ngang"
   ],
   [
     "KHUYNH",
-    "Nghiêng"
+    "Nghiêng",
+    "ngang"
   ],
   [
     "NGƯỠNG",
-    "Ngửa"
+    "Ngửa",
+    "nga"
   ],
   [
     "BÁN",
-    "Nửa"
+    "Nửa",
+    "sac"
   ],
   [
     "SONG",
-    "Đôi"
+    "Đôi",
+    "ngang"
   ],
   [
     "NHĨ",
-    "Mồi"
+    "Mồi",
+    "nga"
   ],
   [
     "LUÂN",
-    "Chỉ"
+    "Chỉ",
+    "ngang"
   ],
   [
     "HẦU",
-    "Khỉ"
+    "Khỉ",
+    "huyen"
   ],
   [
     "HỔ",
-    "Hùm"
+    "Hùm",
+    "hoi"
   ],
   [
     "ĐÀM",
-    "Chum"
+    "Chum",
+    "huyen"
   ],
   [
     "CỮU",
-    "Cối"
+    "Cối",
+    "nga"
   ],
   [
     "MỘ ",
-    ""
+    "",
+    "nang"
   ],
   [
     "TRIÊU",
-    "Mai"
+    "Mai",
+    "ngang"
   ],
   [
     "TRƯỜNG",
-    "Dài"
+    "Dài",
+    "huyen"
   ],
   [
     "ĐOẢN",
-    "Ngắn"
+    "Ngắn",
+    "hoi"
   ],
   [
     "XÀ",
-    "Rắn"
+    "Rắn",
+    "huyen"
   ],
   [
     "TƯỢNG",
-    "Voi"
+    "Voi",
+    "nang"
   ],
   [
     "VỊ ",
-    ""
+    "",
+    "nang"
   ],
   [
     "GIAI",
-    "Thứ"
+    "Thứ",
+    "ngang"
   ],
   [
     "CỨ",
-    "Cứ"
+    "Cứ",
+    "sac"
   ],
   [
     "Y",
-    ""
+    "",
+    "ngang"
   ],
   [
     "QUỲ",
-    "Rau Quỳ"
+    "Rau Quỳ",
+    "huyen"
   ],
   [
     "HOẮC",
-    "Rau Hoắc"
+    "Rau Hoắc",
+    "sac"
   ],
   [
     "CÁC",
-    "Gác"
+    "Gác",
+    "sac"
   ],
   [
     "LÂU",
-    "Lầu"
+    "Lầu",
+    "ngang"
   ],
   [
     "THỊ",
-    "Chầu"
+    "Chầu",
+    "nang"
   ],
   [
     "CA",
-    "Hát"
+    "Hát",
+    "ngang"
   ],
   [
     "PHIẾN",
-    "Quạt"
+    "Quạt",
+    "sac"
   ],
   [
     "DU",
-    "Dù"
+    "Dù",
+    "ngang"
   ],
   [
     "THU",
-    "Mùa Thu"
+    "Mùa Thu",
+    "ngang"
   ],
   [
     "HẠ",
-    "Mùa Hạ"
+    "Mùa Hạ",
+    "nang"
   ],
   [
     "BĂNG",
-    "Giá"
+    "Giá",
+    "ngang"
   ],
   [
     "VŨ",
-    "Mưa"
+    "Mưa",
+    "nga"
   ],
   [
     "TIỄN",
-    "Đưa"
+    "Đưa",
+    "nga"
   ],
   [
     "NGHINH",
-    ""
+    "",
+    "ngang"
   ],
   [
     "THUỶ",
-    "Nước"
+    "Nước",
+    "hoi"
   ],
   [
     "NÊ",
-    "Bùn"
+    "Bùn",
+    "ngang"
   ],
   [
     "KHỐI",
-    "Hòn"
+    "Hòn",
+    "sac"
   ],
   [
     "ĐÔI",
-    "Đống"
+    "Đống",
+    "ngang"
   ],
   [
     "KHIẾM",
-    "Súng"
+    "Súng",
+    "sac"
   ],
   [
     "LIÊN ",
-    ""
+    "",
+    "ngang"
   ],
   [
     "DANH",
-    "Tên"
+    "Tên",
+    "ngang"
   ],
   [
     "TÁNH",
-    "Họ"
+    "Họ",
+    "sac"
   ],
   [
     "CẤU",
-    "Đó"
+    "Đó",
+    "sac"
   ],
   [
     "THUYỀN",
-    "Nơm"
+    "Nơm",
+    "huyen"
   ],
   [
     "PHẠN",
-    "Cơm"
+    "Cơm",
+    "nang"
   ],
   [
     "TƯƠNG",
-    "Nước tương"
+    "Nước tương",
+    "ngang"
   ],
   [
     "XÍCH",
-    "Thước"
+    "Thước",
+    "sac"
   ],
   [
     "PHÂN",
-    "Phân"
+    "Phân",
+    "ngang"
   ],
   [
     "CÂN",
-    "Cân"
+    "Cân",
+    "ngang"
   ],
   [
     "ĐẨU",
-    "Đấu"
+    "Đấu",
+    "hoi"
   ],
   [
     "HÙNG",
-    "Gấu"
+    "Gấu",
+    "huyen"
   ],
   [
     "BÁO",
-    "Beo"
+    "Beo",
+    "sac"
   ],
   [
     "MIÊU",
-    "Mèo"
+    "Mèo",
+    "ngang"
   ],
   [
     "THỬ",
-    "Chuột"
+    "Chuột",
+    "hoi"
   ],
   [
     "TRÀNG",
-    "Ruột"
+    "Ruột",
+    "huyen"
   ],
   [
     "BỐI",
-    "Lưng"
+    "Lưng",
+    "sac"
   ],
   [
     "LÂM",
-    "Rừng"
+    "Rừng",
+    "ngang"
   ],
   [
     "HẢI",
-    "Bể"
+    "Bể",
+    "hoi"
   ],
   [
     "TRÍ",
-    "Để"
+    "Để",
+    "sac"
   ],
   [
     "BÀI",
-    "Bày"
+    "Bày",
+    "huyen"
   ],
   [
     "CHÍNH",
-    "Ngay"
+    "Ngay",
+    "sac"
   ],
   [
     "TÀ",
-    "Vạy"
+    "Vạy",
+    "huyen"
   ],
   [
     "THỊ",
-    "Cậy"
+    "Cậy",
+    "nang"
   ],
   [
     "KIỀU",
-    "Nhờ"
+    "Nhờ",
+    "huyen"
   ],
   [
     "KỲ",
-    "Cờ"
+    "Cờ",
+    "huyen"
   ],
   [
     "BÁC",
-    "Bạc"
+    "Bạc",
+    "sac"
   ],
   [
     "LÃN",
-    "Nhác"
+    "Nhác",
+    "nga"
   ],
   [
     "TRẮC",
-    "Nghiêng"
+    "Nghiêng",
+    "sac"
   ],
   [
     "TRÌNH",
-    "Chiềng"
+    "Chiềng",
+    "huyen"
   ],
   [
     "THUYẾT",
-    "Nói"
+    "Nói",
+    "sac"
   ],
   [
     "HÔ",
-    "Gọi"
+    "Gọi",
+    "ngang"
   ],
   [
     "TRIỆU",
-    "Vời"
+    "Vời",
+    "nang"
   ],
   [
     "SÁI",
-    "Phơi"
+    "Phơi",
+    "sac"
   ],
   [
     "CHƯNG",
-    "Nấu"
+    "Nấu",
+    "ngang"
   ],
   [
     "DUỆ",
-    "Gấu (áo)"
+    "Gấu (áo)",
+    "nang"
   ],
   [
     "KHÂM",
-    "Tay (áo)"
+    "Tay (áo)",
+    "ngang"
   ],
   [
     "PHÙNG",
-    "May"
+    "May",
+    "huyen"
   ],
   [
     "CHỨC",
-    "Dệt"
+    "Dệt",
+    "sac"
   ],
   [
     "HÀI",
-    "Miệt"
+    "Miệt",
+    "huyen"
   ],
   [
     "LÝ",
-    "Giày"
+    "Giày",
+    "sac"
   ],
   [
     "SƯ",
-    "Thầy"
+    "Thầy",
+    "ngang"
   ],
   [
     "HỮU",
-    "Bạn"
+    "Bạn",
+    "nga"
   ],
   [
     "HẠC",
-    "Cạn"
+    "Cạn",
+    "nang"
   ],
   [
     "DẬT",
-    "Đầy"
+    "Đầy",
+    "nang"
   ],
   [
     "MY",
-    "Mày"
+    "Mày",
+    "ngang"
   ],
   [
     "MỤC",
-    "Mắt"
+    "Mắt",
+    "nang"
   ],
   [
     "DIỆN",
-    "Mặt"
+    "Mặt",
+    "nang"
   ],
   [
     "ĐẦU",
-    "Đầu"
+    "Đầu",
+    "huyen"
   ],
   [
     "TU",
-    "Râu"
+    "Râu",
+    "ngang"
   ],
   [
     "PHÁT",
-    "Tóc"
+    "Tóc",
+    "sac"
   ],
   [
     "THIỀM",
-    "Cóc"
+    "Cóc",
+    "huyen"
   ],
   [
     "THIỆN",
-    "Lươn"
+    "Lươn",
+    "nang"
   ],
   [
     "OÁN",
-    "Hờn"
+    "Hờn",
+    "sac"
   ],
   [
     "HUYÊN",
-    "Dứt"
+    "Dứt",
+    "ngang"
   ],
   [
     "CHỨC",
-    "chức"
+    "chức",
+    "sac"
   ],
   [
     "QUAN",
-    "Quan"
+    "Quan",
+    "ngang"
   ],
   [
     "LAN",
-    "Hoa Lan"
+    "Hoa Lan",
+    "ngang"
   ],
   [
     "HUỆ",
-    "Hoa Huệ"
+    "Hoa Huệ",
+    "nang"
   ],
   [
     "GIÁ",
-    "Mía"
+    "Mía",
+    "sac"
   ],
   [
     "DA",
-    "Dừa"
+    "Dừa",
+    "ngang"
   ],
   [
     "QUA",
-    "Dưa"
+    "Dưa",
+    "ngang"
   ],
   [
     "LỆ",
-    "Vải"
+    "Vải",
+    "nang"
   ],
   [
     "NGẢI",
-    "Ngải"
+    "Ngải",
+    "hoi"
   ],
   [
     "BỒ",
-    "Bồ"
+    "Bồ",
+    "huyen"
   ],
   [
     "MÃI",
-    "Mua"
+    "Mua",
+    "nga"
   ],
   [
     "MẠI",
-    "Bán"
+    "Bán",
+    "nang"
   ],
   [
     "VẠN",
-    "Vạn"
+    "Vạn",
+    "nang"
   ],
   [
     "THIÊN",
-    "Nghìn"
+    "Nghìn",
+    "ngang"
   ],
   [
     "THƯỜNG",
-    "Đền"
+    "Đền",
+    "huyen"
   ],
   [
     "BÁO",
-    "Trả"
+    "Trả",
+    "sac"
   ],
   [
     "THUÝ",
-    "Chim Trả"
+    "Chim Trả",
+    "sac"
   ],
   [
     "ÂU",
-    "Cò"
+    "Cò",
+    "ngang"
   ],
   [
     "LAO",
-    "Bò"
+    "Bò",
+    "ngang"
   ],
   [
     "THÁI",
-    "Rái"
+    "Rái",
+    "sac"
   ],
   [
     "NGỐC",
-    "Dại"
+    "Dại",
+    "sac"
   ],
   [
     "NGU",
-    "Ngây"
+    "Ngây",
+    "ngang"
   ],
   [
     "THẰNG",
-    "Dây"
+    "Dây",
+    "huyen"
   ],
   [
     "TUYẾN",
-    "Sợi"
+    "Sợi",
+    "sac"
   ],
   [
     "TÂN",
-    "Mới"
+    "Mới",
+    "ngang"
   ],
   [
     "CỬU",
-    "Lâu"
+    "Lâu",
+    "hoi"
   ],
   [
     "THÂM",
-    "Sâu"
+    "Sâu",
+    "ngang"
   ],
   [
     "THIỂN",
-    "Cạn"
+    "Cạn",
+    "hoi"
   ],
   [
     "KHOÁN",
-    "Khoán"
+    "Khoán",
+    "sac"
   ],
   [
     "BI",
-    "Bia"
+    "Bia",
+    "ngang"
   ],
   [
     "BỈ",
-    "Kia"
+    "Kia",
+    "hoi"
   ],
   [
     "Y",
-    "Ấy"
+    "Ấy",
+    "ngang"
   ],
   [
     "KIẾN",
-    "Thấy"
+    "Thấy",
+    "sac"
   ],
   [
     "QUAN",
-    "Xem"
+    "Xem",
+    "ngang"
   ],
   [
     "TU",
-    "Nem"
+    "Nem",
+    "ngang"
   ],
   [
     "BÍNH",
-    "Bánh"
+    "Bánh",
+    "sac"
   ],
   [
     "TỴ",
-    "Lánh"
+    "Lánh",
+    "nang"
   ],
   [
     "HỒI",
-    "Về"
+    "Về",
+    "huyen"
   ],
   [
     "PHIỆT",
-    "Bè"
+    "Bè",
+    "nang"
   ],
   [
     "TÙNG",
-    "Bụi"
+    "Bụi",
+    "huyen"
   ],
   [
     "PHỤ",
-    "Đội"
+    "Đội",
+    "nang"
   ],
   [
     "ĐỀ",
-    "Cầm"
+    "Cầm",
+    "huyen"
   ],
   [
     "NGOẠ",
-    "Nằm"
+    "Nằm",
+    "nang"
   ],
   [
     "XU",
-    "Rảo"
+    "Rảo",
+    "ngang"
   ],
   [
     "HIẾU",
-    "Thảo"
+    "Thảo",
+    "sac"
   ],
   [
     "TRUNG",
-    "Ngay"
+    "Ngay",
+    "ngang"
   ],
   [
     "THẦN",
-    "Ngày"
+    "Ngày",
+    "huyen"
   ],
   [
     "KHẮC",
-    "Khắc"
+    "Khắc",
+    "sac"
   ],
   [
     "BẮC",
-    "Bắc"
+    "Bắc",
+    "sac"
   ],
   [
     "NAM",
-    "Nam"
+    "Nam",
+    "ngang"
   ],
   [
     "CAM",
-    "Cam"
+    "Cam",
+    "ngang"
   ],
   [
     "QUẤT",
-    "Quýt"
+    "Quýt",
+    "sac"
   ],
   [
     "ÁP",
-    "Vịt"
+    "Vịt",
+    "sac"
   ],
   [
     "NGA",
-    "Ngan"
+    "Ngan",
+    "ngang"
   ],
   [
     "CAN",
-    "Gan"
+    "Gan",
+    "ngang"
   ],
   [
     "ĐẢM",
-    "Mật"
+    "Mật",
+    "hoi"
   ],
   [
     "THẬN",
-    "Cật"
+    "Cật",
+    "nang"
   ],
   [
     "CÂN",
-    "Gân"
+    "Gân",
+    "ngang"
   ],
   [
     "CHỈ",
-    "Ngón chân"
+    "Ngón chân",
+    "hoi"
   ],
   [
     "QUĂNG",
-    "Cánh tay"
+    "Cánh tay",
+    "ngang"
   ],
   [
     "TỈNH",
-    "Tỉnh"
+    "Tỉnh",
+    "hoi"
   ],
   [
     "HÀM",
-    "Say"
+    "Say",
+    "huyen"
   ],
   [
     "QUYỀN",
-    "Tay quyền"
+    "Tay quyền",
+    "huyen"
   ],
   [
     "CHỦNG",
-    "gót"
+    "gót",
+    "hoi"
   ],
   [
     "QUÝ",
-    "rối"
+    "rối",
+    "sac"
   ],
   [
     "NGUYÊN",
-    "Đầu"
+    "Đầu",
+    "ngang"
   ],
   [
     "PHÚ",
-    "Giàu"
+    "Giàu",
+    "sac"
   ],
   [
     "ÂN",
-    "Thịnh"
+    "Thịnh",
+    "ngang"
   ],
   [
     "DÕNG",
-    "Mạnh"
+    "Mạnh",
+    "nga"
   ],
   [
     "LƯƠNG",
-    "Lành"
+    "Lành",
+    "ngang"
   ],
   [
     "HUYNH",
-    "Anh"
+    "Anh",
+    "ngang"
   ],
   [
     "TẨU",
-    "Chị dâu"
+    "Chị dâu",
+    "hoi"
   ],
   [
     "CHÍ",
-    "chí"
+    "chí",
+    "sac"
   ],
   [
     "TRUNG",
-    "Lòng"
+    "Lòng",
+    "ngang"
   ],
   [
     "LONG",
-    "Rồng"
+    "Rồng",
+    "ngang"
   ],
   [
     "LÝ",
-    "Cá gáy"
+    "Cá gáy",
+    "sac"
   ],
   [
     "KỲ",
-    "Cây"
+    "Cây",
+    "huyen"
   ],
   [
     "BẠNG",
-    "Trai"
+    "Trai",
+    "nang"
   ],
   [
     "KIÊN",
-    "Vai"
+    "Vai",
+    "ngang"
   ],
   [
     "NGẠCH",
-    "Trán"
+    "Trán",
+    "nang"
   ],
   [
     "QUÁN",
-    "Quán"
+    "Quán",
+    "sac"
   ],
   [
     "KIỀU",
-    "Cầu"
+    "Cầu",
+    "huyen"
   ],
   [
     "TANG",
-    "Dâu"
+    "Dâu",
+    "ngang"
   ],
   [
     "NẠI",
-    "Mít"
+    "Mít",
+    "nang"
   ],
   [
     "NHỤC",
-    "Thịt"
+    "Thịt",
+    "nang"
   ],
   [
     "BÌ",
-    "Da"
+    "Da",
+    "huyen"
   ],
   [
     "GIA",
-    "cà"
+    "cà",
+    "ngang"
   ],
   [
     "TÁO",
-    "Táo"
+    "Táo",
+    "sac"
   ],
   [
     "Y",
-    "Áo"
+    "Áo",
+    "ngang"
   ],
   [
     "LÃNH",
-    "Tràng"
+    "Tràng",
+    "nga"
   ],
   [
     "HOÀNG",
-    "Vàng"
+    "Vàng",
+    "huyen"
   ],
   [
     "XÍCH",
-    "Đỏ"
+    "Đỏ",
+    "sac"
   ],
   [
     "THẢO",
-    "Cỏ"
+    "Cỏ",
+    "hoi"
   ],
   [
     "BÌNH",
-    "Bèo"
+    "Bèo",
+    "huyen"
   ],
   [
     "DI",
-    "Cá nheo"
+    "Cá nheo",
+    "ngang"
   ],
   [
     "LỄ",
-    "cá chuối"
+    "cá chuối",
+    "nga"
   ],
   [
     "DIÊM",
-    "Muối"
+    "Muối",
+    "ngang"
   ],
   [
     "THÁI",
-    "Rau"
+    "Rau",
+    "sac"
   ],
   [
     "LANG",
-    "Cau"
+    "Cau",
+    "ngang"
   ],
   [
     "TỬU",
-    "rượu"
+    "rượu",
+    "hoi"
   ],
   [
     "ĐỊCH",
-    "Sáo"
+    "Sáo",
+    "nang"
   ],
   [
     "SINH",
-    "Sênh"
+    "Sênh",
+    "ngang"
   ],
   [
     "KHA",
-    "Anh"
+    "Anh",
+    "ngang"
   ],
   [
     "THÚC",
-    "Chú"
+    "Chú",
+    "sac"
   ],
   [
     "NHŨ",
-    "vú"
+    "vú",
+    "nga"
   ],
   [
     "THẦN",
-    "Môi"
+    "Môi",
+    "huyen"
   ],
   [
     "HOÀN",
-    "Cá Trôi"
+    "Cá Trôi",
+    "huyen"
   ],
   [
     "TỨC",
-    "Cá Diếc"
+    "Cá Diếc",
+    "sac"
   ],
   [
     "BÍCH",
-    "Biếc"
+    "Biếc",
+    "sac"
   ],
   [
     "HUYỀN",
-    "Đen"
+    "Đen",
+    "huyen"
   ],
   [
     "THẦM",
-    "Tin"
+    "Tin",
+    "huyen"
   ],
   [
     "THƯỞNG",
-    "Thưởng"
+    "Thưởng",
+    "hoi"
   ],
   [
     "TRƯỚNG",
-    "Trướng"
+    "Trướng",
+    "sac"
   ],
   [
     "DUY",
-    "Màn"
+    "Màn",
+    "ngang"
   ],
   [
     "LOAN",
-    "Loan"
+    "Loan",
+    "ngang"
   ],
   [
     "HẠC",
-    "Hạc"
+    "Hạc",
+    "nang"
   ],
   [
     "ĐỈNH",
-    "Vạc"
+    "Vạc",
+    "hoi"
   ],
   [
     "OA ",
-    ""
+    "",
+    "ngang"
   ],
   [
     "XUY",
-    "Xôi"
+    "Xôi",
+    "ngang"
   ],
   [
     "CHỬ",
-    "Nấu"
+    "Nấu",
+    "hoi"
   ],
   [
     "XÚ",
-    "Xấu"
+    "Xấu",
+    "sac"
   ],
   [
     "TIÊN",
-    "Tươi"
+    "Tươi",
+    "ngang"
   ],
   [
     "TIẾU",
-    "Cười"
+    "Cười",
+    "sac"
   ],
   [
     "SÂN",
-    "Giận"
+    "Giận",
+    "ngang"
   ],
   [
     "SẮT",
-    "Rận"
+    "Rận",
+    "sac"
   ],
   [
     "DĂNG",
-    "Ruồi"
+    "Ruồi",
+    "ngang"
   ],
   [
     "ĐẠI",
-    "Đồi mồi"
+    "Đồi mồi",
+    "nang"
   ],
   [
     "NGUYÊN",
-    "con giải"
+    "con giải",
+    "ngang"
   ],
   [
     "BỐ",
-    "Vải"
+    "Vải",
+    "sac"
   ],
   [
     "LA",
-    "The"
+    "The",
+    "ngang"
   ],
   [
     "THIỀN",
-    "Ve"
+    "Ve",
+    "huyen"
   ],
   [
     "SUẤT",
-    "Dế"
+    "Dế",
+    "sac"
   ],
   [
     "LIỄM",
-    "Khế"
+    "Khế",
+    "nga"
   ],
   [
     "CHANH",
-    "Chanh"
+    "Chanh",
+    "ngang"
   ],
   [
     "CANH",
-    "Canh"
+    "Canh",
+    "ngang"
   ],
   [
     "CHÚC",
-    "Cháo"
+    "Cháo",
+    "sac"
   ],
   [
     "THƯỢC",
-    "gáo"
+    "gáo",
+    "nang"
   ],
   [
     "LƯ",
-    "Lò"
+    "Lò",
+    "ngang"
   ],
   [
     "ĐỘ",
-    "Đò"
+    "Đò",
+    "nang"
   ],
   [
     "TÂN",
-    "Bến"
+    "Bến",
+    "ngang"
   ],
   [
     "NGHỊ",
-    "Kiến"
+    "Kiến",
+    "nang"
   ],
   [
     "PHONG",
-    "Ong"
+    "Ong",
+    "ngang"
   ],
   [
     "HÀ",
-    "Sông"
+    "Sông",
+    "huyen"
   ],
   [
     "LÃNH",
-    "Núi"
+    "Núi",
+    "nga"
   ],
   [
     "CHẨM",
-    "Gối"
+    "Gối",
+    "hoi"
   ],
   [
     "CÂN",
-    "Khăn"
+    "Khăn",
+    "ngang"
   ],
   [
     "KHÂM",
-    "Chăn"
+    "Chăn",
+    "ngang"
   ],
   [
     "NHỤC",
-    "Nệm"
+    "Nệm",
+    "nang"
   ],
   [
     "THẨM",
-    "Thím"
+    "Thím",
+    "hoi"
   ],
   [
     "CÔ",
-    "Cô"
+    "Cô",
+    "ngang"
   ],
   [
     "QUYỆT",
-    "Cá rô"
+    "Cá rô",
+    "nang"
   ],
   [
     "THÌ",
-    "Cá cháy"
+    "Cá cháy",
+    "huyen"
   ],
   [
     "ĐỂ",
-    "Đáy"
+    "Đáy",
+    "hoi"
   ],
   [
     "NGÂN",
-    "Ngần"
+    "Ngần",
+    "ngang"
   ],
   [
     "QUÂN",
-    "quân"
+    "quân",
+    "ngang"
   ],
   [
     "CHÚNG",
-    "Chúng"
+    "Chúng",
+    "sac"
   ],
   [
     "SÚNG",
-    "Súng"
+    "Súng",
+    "sac"
   ],
   [
     "KỲ",
-    "Cờ"
+    "Cờ",
+    "huyen"
   ],
   [
     "SƠ",
-    "Sơ"
+    "Sơ",
+    "ngang"
   ],
   [
     "CỰU",
-    "Cũ"
+    "Cũ",
+    "nang"
   ],
   [
     "VŨ",
-    "Vũ"
+    "Vũ",
+    "nga"
   ],
   [
     "VĂN",
-    "Văn"
+    "Văn",
+    "ngang"
   ],
   [
     "DÂN",
-    "Dân"
+    "Dân",
+    "ngang"
   ],
   [
     "XÃ",
-    "Xã"
+    "Xã",
+    "nga"
   ],
   [
     "ĐẠI",
-    "Cả"
+    "Cả",
+    "nang"
   ],
   [
     "TÔN",
-    "Cao"
+    "Cao",
+    "ngang"
   ],
   [
     "TRÌ",
-    "Ao"
+    "Ao",
+    "huyen"
   ],
   [
     "TỈNH",
-    "Giếng"
+    "Giếng",
+    "hoi"
   ],
   [
     "KHẨU",
-    "Miệng"
+    "Miệng",
+    "hoi"
   ],
   [
     "DI",
-    "Cằm"
+    "Cằm",
+    "ngang"
   ],
   [
     "TÀM",
-    "Tằm"
+    "Tằm",
+    "huyen"
   ],
   [
     "DÕNG",
-    "Nhộng"
+    "Nhộng",
+    "nga"
   ],
   [
     "TỐC",
-    "Chống"
+    "Chống",
+    "sac"
   ],
   [
     "TRÌ",
-    "Chầy"
+    "Chầy",
+    "huyen"
   ],
   [
     "VÂN",
-    "Mây"
+    "Mây",
+    "ngang"
   ],
   [
     "HOẢ",
-    "Lửa"
+    "Lửa",
+    "hoi"
   ],
   [
     "THẦN",
-    "Chửa"
+    "Chửa",
+    "huyen"
   ],
   [
     "DỤC",
-    "Nuôi"
+    "Nuôi",
+    "nang"
   ],
   [
     "VĨ",
-    "Đuôi"
+    "Đuôi",
+    "nga"
   ],
   [
     "LÂN",
-    "Vẩy"
+    "Vẩy",
+    "ngang"
   ],
   [
     "HUY",
-    "Vẫy"
+    "Vẫy",
+    "ngang"
   ],
   [
     "CHẤP",
-    "Cầm"
+    "Cầm",
+    "sac"
   ],
   [
     "NIÊN",
-    "Năm"
+    "Năm",
+    "ngang"
   ],
   [
     "NGUYỆT",
-    "Tháng"
+    "Tháng",
+    "nang"
   ],
   [
     "MINH",
-    "Sáng"
+    "Sáng",
+    "ngang"
   ],
   [
     "TÍN",
-    "Tin"
+    "Tin",
+    "sac"
   ],
   [
     "ẤN",
-    "In"
+    "In",
+    "sac"
   ],
   [
     "THUYÊN",
-    "Cắt (khắc)"
+    "Cắt (khắc)",
+    "ngang"
   ],
   [
     "VẬT",
-    "Vật"
+    "Vật",
+    "nang"
   ],
   [
     "NHƠN",
-    "Người"
+    "Người",
+    "ngang"
   ],
   [
     "HY",
-    "Chơi"
+    "Chơi",
+    "ngang"
   ],
   [
     "HÍ",
-    "Cợt"
+    "Cợt",
+    "sac"
   ],
   [
     "CƠ",
-    "Chốt"
+    "Chốt",
+    "ngang"
   ],
   [
     "PHU",
-    "Chày"
+    "Chày",
+    "ngang"
   ],
   [
     "TÁ",
-    "Vay"
+    "Vay",
+    "sac"
   ],
   [
     "HOÀN",
-    "Trả"
+    "Trả",
+    "huyen"
   ],
   [
     "GIÃ",
-    "Giã"
+    "Giã",
+    "nga"
   ],
   [
     "MÀNH",
-    "Mành"
+    "Mành",
+    "huyen"
   ],
   [
     "VU",
-    "Quanh"
+    "Quanh",
+    "ngang"
   ],
   [
     "KÍNH",
-    "Tắt"
+    "Tắt",
+    "sac"
   ],
   [
     "THIẾT",
-    "Cắt"
+    "Cắt",
+    "sac"
   ],
   [
     "THA",
-    "Mài"
+    "Mài",
+    "ngang"
   ],
   [
     "VU",
-    "Khoai"
+    "Khoai",
+    "ngang"
   ],
   [
     "ĐẬU",
-    "Đậu"
+    "Đậu",
+    "nang"
   ],
   [
     "LĂNG",
-    "Củ Ấu"
+    "Củ Ấu",
+    "ngang"
   ],
   [
     "THỊ",
-    "Trái hồng"
+    "Trái hồng",
+    "nang"
   ],
   [
     "CUNG",
-    "Cung"
+    "Cung",
+    "ngang"
   ],
   [
     "NỖ",
-    "cái nỏ"
+    "cái nỏ",
+    "nga"
   ],
   [
     "PHỦ",
-    "Chõ"
+    "Chõ",
+    "hoi"
   ],
   [
     "ĐANG",
-    "Cái xanh"
+    "Cái xanh",
+    "ngang"
   ],
   [
     "CHI",
-    "Cành"
+    "Cành",
+    "ngang"
   ],
   [
     "DIỆP",
-    "Lá"
+    "Lá",
+    "nang"
   ],
   [
     "TOẢ",
-    "Khoá"
+    "Khoá",
+    "hoi"
   ],
   [
     "KIỀM",
-    "Kiềm"
+    "Kiềm",
+    "huyen"
   ],
   [
     "NHU",
-    "Mềm"
+    "Mềm",
+    "ngang"
   ],
   [
     "KÍNH",
-    "Cứng"
+    "Cứng",
+    "sac"
   ],
   [
     "LẬP",
-    "Đứng"
+    "Đứng",
+    "nang"
   ],
   [
     "HÀNH",
-    "Đi"
+    "Đi",
+    "huyen"
   ],
   [
     "UY",
-    "Uy"
+    "Uy",
+    "ngang"
   ],
   [
     "ĐỨC",
-    "Đức"
+    "Đức",
+    "sac"
   ],
   [
     "CẤP",
-    "Bực"
+    "Bực",
+    "sac"
   ],
   [
     "GIAI",
-    "Thềm"
+    "Thềm",
+    "ngang"
   ],
   [
     "GIA",
-    "Thêm"
+    "Thêm",
+    "ngang"
   ],
   [
     "GIẢM",
-    "Bớt"
+    "Bớt",
+    "hoi"
   ],
   [
     "HƯỚC",
-    "Cợt"
+    "Cợt",
+    "sac"
   ],
   [
     "THÀNH",
-    "Tin"
+    "Tin",
+    "huyen"
   ],
   [
     "DỰ",
-    "Khen"
+    "Khen",
+    "nang"
   ],
   [
     "DAO",
-    "Ngợi"
+    "Ngợi",
+    "ngang"
   ],
   [
     "QUÁN",
-    "Tưới"
+    "Tưới",
+    "sac"
   ],
   [
     "BÍNH",
-    "Soi"
+    "Soi",
+    "sac"
   ],
   [
     "THẦN",
-    "Tôi"
+    "Tôi",
+    "huyen"
   ],
   [
     "CHỦ",
-    "Chúa"
+    "Chúa",
+    "hoi"
   ],
   [
     "VŨ",
-    "Múa"
+    "Múa",
+    "nga"
   ],
   [
     "PHI",
-    "Bay"
+    "Bay",
+    "ngang"
   ],
   [
     "TRINH",
-    "Ngay"
+    "Ngay",
+    "ngang"
   ],
   [
     "TĨNH",
-    "Lặng"
+    "Lặng",
+    "nga"
   ],
   [
     "XƯNG",
-    "Tặng"
+    "Tặng",
+    "ngang"
   ],
   [
     "THÀNH",
-    "Nên"
+    "Nên",
+    "huyen"
   ],
   [
     "VONG",
-    "Quên"
+    "Quên",
+    "ngang"
   ],
   [
     "KÝ",
-    "Nhớ"
+    "Nhớ",
+    "sac"
   ],
   [
     "THÊ",
-    "Vợ"
+    "Vợ",
+    "ngang"
   ],
   [
     "THIẾP",
-    "Hầu"
+    "Hầu",
+    "sac"
   ],
   [
     "BÀO",
-    "Bầu"
+    "Bầu",
+    "huyen"
   ],
   [
     "ỦNG",
-    "Ống"
+    "Ống",
+    "hoi"
   ],
   [
     "TÍCH",
-    "Xương sống"
+    "Xương sống",
+    "sac"
   ],
   [
     "XOANG",
-    "Lòng"
+    "Lòng",
+    "ngang"
   ],
   [
     "HƯ",
-    "Không"
+    "Không",
+    "ngang"
   ],
   [
     "THỰC",
-    "Thật"
+    "Thật",
+    "nang"
   ],
   [
     "THIẾT",
-    "Sắt"
+    "Sắt",
+    "sac"
   ],
   [
     "ĐỒNG",
-    "Đồng"
+    "Đồng",
+    "huyen"
   ],
   [
     "ĐÔNG",
-    "Đông"
+    "Đông",
+    "ngang"
   ],
   [
     "SÓC",
-    "Bắc"
+    "Bắc",
+    "sac"
   ],
   [
     "TRẮC",
-    "Trắc"
+    "Trắc",
+    "sac"
   ],
   [
     "BÌNH",
-    "Bằng"
+    "Bằng",
+    "huyen"
   ],
   [
     "BẤT",
-    "Chăng"
+    "Chăng",
+    "sac"
   ],
   [
     "DA",
-    "Vậy"
+    "Vậy",
+    "ngang"
   ],
   [
     "DƯỢC",
-    "Nhảy"
+    "Nhảy",
+    "nang"
   ],
   [
     "TIỀM",
-    "Chìm"
+    "Chìm",
+    "huyen"
   ],
   [
     "CHÂM",
-    "Kim"
+    "Kim",
+    "ngang"
   ],
   [
     "NHẬN",
-    "Nhọn"
+    "Nhọn",
+    "nang"
   ],
   [
     "TOÀN",
-    "Trọn"
+    "Trọn",
+    "huyen"
   ],
   [
     "TỊNH",
-    "Đều"
+    "Đều",
+    "nang"
   ],
   [
     "ĐÀI",
-    "Rêu"
+    "Rêu",
+    "huyen"
   ],
   [
     "CẤU",
-    "Bụi (nhơ)"
+    "Bụi (nhơ)",
+    "sac"
   ],
   [
     "VỊNH",
-    "Lội"
+    "Lội",
+    "nang"
   ],
   [
     "THOAN",
-    "Trôi"
+    "Trôi",
+    "ngang"
   ],
   [
     "XUY",
-    "Xôi"
+    "Xôi",
+    "ngang"
   ],
   [
     "MỄ",
-    "Gạo"
+    "Gạo",
+    "nga"
   ],
   [
     "HỒ",
-    "Cáo"
+    "Cáo",
+    "huyen"
   ],
   [
     "LỘC",
-    "Hươu"
+    "Hươu",
+    "nang"
   ],
   [
     "HOÀI",
-    "Cưu mang"
+    "Cưu mang",
+    "huyen"
   ],
   [
     "HIỆP",
-    "Cắp"
+    "Cắp",
+    "nang"
   ],
   [
     "ỦNG",
-    "Lấp"
+    "Lấp",
+    "hoi"
   ],
   [
     "LƯU",
-    "Trôi"
+    "Trôi",
+    "ngang"
   ],
   [
     "CHUỲ",
-    "Dùi"
+    "Dùi",
+    "huyen"
   ],
   [
     "TRƯỢNG ",
-    "Gậy"
+    "Gậy",
+    "nang"
   ],
   [
     "BÔN",
-    "Chậy"
+    "Chậy",
+    "ngang"
   ],
   [
     "VÃNG",
-    "Qua"
+    "Qua",
+    "nga"
   ],
   [
     "VIỄN",
-    "Xa"
+    "Xa",
+    "nga"
   ],
   [
     "HỒNG",
-    "Cả (lớn)"
+    "Cả (lớn)",
+    "huyen"
   ],
   [
     "CHÁ",
-    "Chả"
+    "Chả",
+    "sac"
   ],
   [
     "TRÀ",
-    "Chè"
+    "Chè",
+    "huyen"
   ],
   [
     "NGHỆ",
-    "Nghề"
+    "Nghề",
+    "nang"
   ],
   [
     "TÀI",
-    "Của"
+    "Của",
+    "huyen"
   ],
   [
     "TRỢ",
-    "Đũa"
+    "Đũa",
+    "nang"
   ],
   [
     "CHUỶ",
-    "Môi (cái vá)"
+    "Môi (cái vá)",
+    "hoi"
   ],
   [
     "KHÔI",
-    "Vội"
+    "Vội",
+    "ngang"
   ],
   [
     "PHẤN",
-    "Phấn"
+    "Phấn",
+    "sac"
   ],
   [
     "HÀM",
-    "Mặn"
+    "Mặn",
+    "huyen"
   ],
   [
     "LẠT",
-    "Cay"
+    "Cay",
+    "nang"
   ],
   [
     "DOANH",
-    "Đầy"
+    "Đầy",
+    "ngang"
   ],
   [
     "PHẠP",
-    "Thiếu"
+    "Thiếu",
+    "nang"
   ],
   [
     "BÀO",
-    "Áo"
+    "Áo",
+    "huyen"
   ],
   [
     "BỊ",
-    "Chăn"
+    "Chăn",
+    "nang"
   ],
   [
     "ĐÌNH",
-    "Sân"
+    "Sân",
+    "huyen"
   ],
   [
     "KHUYẾT",
-    "Cửa"
+    "Cửa",
+    "sac"
   ],
   [
     "DỰNG",
-    "Chửa"
+    "Chửa",
+    "nang"
   ],
   [
     "THAI",
-    "Thai"
+    "Thai",
+    "ngang"
   ],
   [
     "CAI",
-    "Cai"
+    "Cai",
+    "ngang"
   ],
   [
     "KẾ",
-    "Kể"
+    "Kể",
+    "sac"
   ],
   [
     "TẾ",
-    "Rể"
+    "Rể",
+    "sac"
   ],
   [
     "HÔN",
-    "Dâu"
+    "Dâu",
+    "ngang"
   ],
   [
     "CÚ",
-    "Câu"
+    "Câu",
+    "sac"
   ],
   [
     "THƠ",
-    "Sách"
+    "Sách",
+    "ngang"
   ],
   [
     "ĐỔ",
-    "Vách"
+    "Vách",
+    "hoi"
   ],
   [
     "TƯỜNG",
-    "Tường"
+    "Tường",
+    "huyen"
   ],
   [
     "PHƯỜNG",
-    "Phường"
+    "Phường",
+    "huyen"
   ],
   [
     "PHỐ",
-    "Phố"
+    "Phố",
+    "sac"
   ],
   [
     "BỘ",
-    "Bộ"
+    "Bộ",
+    "nang"
   ],
   [
     "PHIÊN",
-    "Phiên"
+    "Phiên",
+    "ngang"
   ],
   [
     "QUYỀN",
-    "Quyền"
+    "Quyền",
+    "huyen"
   ],
   [
     "TƯỚC",
-    "Tước"
+    "Tước",
+    "sac"
   ],
   [
     "ĐẮC",
-    "Được"
+    "Được",
+    "sac"
   ],
   [
     "VI",
-    "Làm"
+    "Làm",
+    "ngang"
   ],
   [
     "THAM",
-    "Tham"
+    "Tham",
+    "ngang"
   ],
   [
     "DỤC",
-    "Muốn"
+    "Muốn",
+    "nang"
   ],
   [
     "QUYỂN",
-    "Cuốn"
+    "Cuốn",
+    "hoi"
   ],
   [
     "TRƯƠNG",
-    "Trương ra"
+    "Trương ra",
+    "ngang"
   ],
   [
     "SƯƠNG",
-    "Sương"
+    "Sương",
+    "ngang"
   ],
   [
     "THỬ",
-    "Nắng"
+    "Nắng",
+    "hoi"
   ],
   [
     "HẠO",
-    "Sáng trắng"
+    "Sáng trắng",
+    "nang"
   ],
   [
     "HINH",
-    "Thơm"
+    "Thơm",
+    "ngang"
   ],
   [
     "CHIÊM",
-    "Rơm"
+    "Rơm",
+    "ngang"
   ],
   [
     "LẠP",
-    "Hạt"
+    "Hạt",
+    "nang"
   ],
   [
     "LƯƠNG",
-    "Mát"
+    "Mát",
+    "ngang"
   ],
   [
     "BÃO",
-    "No"
+    "No",
+    "nga"
   ],
   [
     "KHỐ",
-    "Kho"
+    "Kho",
+    "sac"
   ],
   [
     "QUÂN",
-    "Vựa"
+    "Vựa",
+    "ngang"
   ],
   [
     "HÁN",
-    "Đứa"
+    "Đứa",
+    "sac"
   ],
   [
     "LANG",
-    "Chàng"
+    "Chàng",
+    "ngang"
   ],
   [
     "HOÀNH",
-    "Ngang"
+    "Ngang",
+    "huyen"
   ],
   [
     "KHOÁT",
-    "Rộng"
+    "Rộng",
+    "sac"
   ],
   [
     "BA",
-    "Sóng"
+    "Sóng",
+    "ngang"
   ],
   [
     "HƯỞNG",
-    "Vang"
+    "Vang",
+    "hoi"
   ],
   [
     "THÊ ",
-    ""
+    "",
+    "ngang"
   ],
   [
     "KỶ",
-    "Ghế"
+    "Ghế",
+    "hoi"
   ],
   [
     "MẪU",
-    "Mẹ"
+    "Mẹ",
+    "nga"
   ],
   [
     "NHI",
-    "Con"
+    "Con",
+    "ngang"
   ],
   [
     "VIÊN",
-    "Tròn"
+    "Tròn",
+    "ngang"
   ],
   [
     "NHUỆ",
-    "Nhọn"
+    "Nhọn",
+    "nang"
   ],
   [
     "SOẠN",
-    "Dọn"
+    "Dọn",
+    "nang"
   ],
   [
     "THU",
-    "Thâu"
+    "Thâu",
+    "ngang"
   ],
   [
     "CHÂU",
-    "Châu"
+    "Châu",
+    "ngang"
   ],
   [
     "HUYỆN",
-    "Huyện"
+    "Huyện",
+    "nang"
   ],
   [
     "TỤNG",
-    "Kiện"
+    "Kiện",
+    "nang"
   ],
   [
     "MINH",
-    "Kêu"
+    "Kêu",
+    "ngang"
   ],
   [
     "TÙNG",
-    "Theo"
+    "Theo",
+    "huyen"
   ],
   [
     "SỬ",
-    "Khiến"
+    "Khiến",
+    "hoi"
   ],
   [
     "MIỆN",
-    "Mũ miện"
+    "Mũ miện",
+    "nang"
   ],
   [
     "TRÂM",
-    "Cây trâm"
+    "Cây trâm",
+    "ngang"
   ],
   [
     "ĐẢO",
-    "Đâm"
+    "Đâm",
+    "hoi"
   ],
   [
     "ĐÀO ",
-    ""
+    "",
+    "huyen"
   ],
   [
     "THÁI",
-    "Sảy"
+    "Sảy",
+    "sac"
   ],
   [
     "NGHIÊN",
-    "Nghiền"
+    "Nghiền",
+    "ngang"
   ],
   [
     "LIÊN",
-    "Liền"
+    "Liền",
+    "ngang"
   ],
   [
     "TỤC",
-    "Nối"
+    "Nối",
+    "nang"
   ],
   [
     "ĐOAN",
-    "Mối"
+    "Mối",
+    "ngang"
   ],
   [
     "PHÁI",
-    "Dòng"
+    "Dòng",
+    "sac"
   ],
   [
     "LUNG",
-    "Lồng"
+    "Lồng",
+    "ngang"
   ],
   [
     "QUỸ",
-    "Sọt"
+    "Sọt",
+    "nga"
   ],
   [
     "ĐỐ",
-    "Mọt"
+    "Mọt",
+    "sac"
   ],
   [
     "TRÙNG",
-    "Sâu"
+    "Sâu",
+    "huyen"
   ],
   [
     "CÚ",
-    "Câu"
+    "Câu",
+    "sac"
   ],
   [
     "ĐIỂM",
-    "Chấm"
+    "Chấm",
+    "hoi"
   ],
   [
     "THỐ",
-    "Giấm"
+    "Giấm",
+    "sac"
   ],
   [
     "DU",
-    "Dầu"
+    "Dầu",
+    "ngang"
   ],
   [
     "PHÙ",
-    "Trầu"
+    "Trầu",
+    "huyen"
   ],
   [
     "TOÁN",
-    "Tỏi"
+    "Tỏi",
+    "sac"
   ],
   [
     "KHOÁI",
-    "Gỏi"
+    "Gỏi",
+    "sac"
   ],
   [
     "HÀ",
-    "Tôm"
+    "Tôm",
+    "huyen"
   ],
   [
     "KIÊM",
-    "Gồm"
+    "Gồm",
+    "ngang"
   ],
   [
     "PHỔ",
-    "Khắp"
+    "Khắp",
+    "hoi"
   ],
   [
     "HẠ",
-    "Thấp"
+    "Thấp",
+    "nang"
   ],
   [
     "CAO",
-    "Cao"
+    "Cao",
+    "ngang"
   ],
   [
     "CAO",
-    "Sào"
+    "Sào",
+    "ngang"
   ],
   [
     "ĐÀ",
-    "Lái"
+    "Lái",
+    "huyen"
   ],
   [
     "TRẠI",
-    "Trại"
+    "Trại",
+    "nang"
   ],
   [
     "THÔN",
-    "Thôn"
+    "Thôn",
+    "ngang"
   ],
   [
     "NỘN",
-    "Non"
+    "Non",
+    "nang"
   ],
   [
     "KHỐNG",
-    "Dại"
+    "Dại",
+    "sac"
   ],
   [
     "PHÁI",
-    "Phái"
+    "Phái",
+    "sac"
   ],
   [
     "TÔNG",
-    "Dòng"
+    "Dòng",
+    "ngang"
   ],
   [
     "TÀI",
-    "Trồng"
+    "Trồng",
+    "huyen"
   ],
   [
     "NGẢI",
-    "Cắt"
+    "Cắt",
+    "hoi"
   ],
   [
     "SẮC",
-    "Gặt"
+    "Gặt",
+    "sac"
   ],
   [
     "ƯU",
-    "Cày"
+    "Cày",
+    "ngang"
   ],
   [
     "TÍCH",
-    "Gầy"
+    "Gầy",
+    "sac"
   ],
   [
     "PHÌ",
-    "Béo"
+    "Béo",
+    "huyen"
   ],
   [
     "XẢO",
-    "Khéo"
+    "Khéo",
+    "hoi"
   ],
   [
     "TINH",
-    "Ròng"
+    "Ròng",
+    "ngang"
   ],
   [
     "PHÙNG",
-    "Họ Phùng"
+    "Họ Phùng",
+    "huyen"
   ],
   [
     "MẠNH",
-    "Họ Mạnh"
+    "Họ Mạnh",
+    "nang"
   ],
   [
     "TÍNH",
-    "Gộp"
+    "Gộp",
+    "sac"
   ],
   [
     "LƯỢNG",
-    "Tin"
+    "Tin",
+    "nang"
   ],
   [
     "KIÊN",
-    "Bền"
+    "Bền",
+    "ngang"
   ],
   [
     "XÁC",
-    "Thật"
+    "Thật",
+    "sac"
   ],
   [
     "TẤT",
-    "Ắt"
+    "Ắt",
+    "sac"
   ],
   [
     "TU",
-    "Tua"
+    "Tua",
+    "ngang"
   ],
   [
     "TỰ",
-    "Chùa"
+    "Chùa",
+    "nang"
   ],
   [
     "BƯU",
-    "Dịch"
+    "Dịch",
+    "ngang"
   ],
   [
     "BÍCH",
-    "Ngọc Bích"
+    "Ngọc Bích",
+    "sac"
   ],
   [
     "CƠ",
-    "Sao Cơ"
+    "Sao Cơ",
+    "ngang"
   ],
   [
     "ĐÊ",
-    "Bờ"
+    "Bờ",
+    "ngang"
   ],
   [
     "CẢNH",
-    "Cõi"
+    "Cõi",
+    "hoi"
   ],
   [
     "VẤN",
-    "Hỏi"
+    "Hỏi",
+    "sac"
   ],
   [
     "THIẾT",
-    "Bày"
+    "Bày",
+    "sac"
   ],
   [
     "THƯ",
-    "Lầy"
+    "Lầy",
+    "ngang"
   ],
   [
     "TÁO",
-    "Ráo"
+    "Ráo",
+    "sac"
   ],
   [
     "THƯƠNG",
-    "Giáo"
+    "Giáo",
+    "ngang"
   ],
   [
     "KIẾM",
-    "Gươm"
+    "Gươm",
+    "sac"
   ],
   [
     "LIÊM",
-    "Liềm"
+    "Liềm",
+    "ngang"
   ],
   [
     "TRỬU",
-    "Chổi"
+    "Chổi",
+    "hoi"
   ],
   [
     "QUỸ",
-    "Cũi (hòm)"
+    "Cũi (hòm)",
+    "nga"
   ],
   [
     "SƯƠNG",
-    "Rương"
+    "Rương",
+    "ngang"
   ],
   [
     "HƯƠNG",
-    "Hương"
+    "Hương",
+    "ngang"
   ],
   [
     "LẠP",
-    "Sáp"
+    "Sáp",
+    "nang"
   ],
   [
     "THÁP",
-    "Tháp"
+    "Tháp",
+    "sac"
   ],
   [
     "ĐÌNH",
-    "Đình"
+    "Đình",
+    "huyen"
   ],
   [
     "KHU",
-    "Mình"
+    "Mình",
+    "ngang"
   ],
   [
     "MẠO",
-    "Mặt"
+    "Mặt",
+    "nang"
   ],
   [
     "MẬT",
-    "Nhặt"
+    "Nhặt",
+    "nang"
   ],
   [
     "SƠ",
-    "Thưa"
+    "Thưa",
+    "ngang"
   ],
   [
     "ÁN",
-    "Trưa"
+    "Trưa",
+    "sac"
   ],
   [
     "THẦN",
-    "Sớm"
+    "Sớm",
+    "huyen"
   ],
   [
     "CẢM",
-    "Cám"
+    "Cám",
+    "hoi"
   ],
   [
     "PHU",
-    "Tin"
+    "Tin",
+    "ngang"
   ],
   [
     "BỘC",
-    "Min (tôi)"
+    "Min (tôi)",
+    "nang"
   ],
   [
     "TÊ",
-    "Đứa"
+    "Đứa",
+    "ngang"
   ],
   [
     "TÍCH",
-    "Chứa"
+    "Chứa",
+    "sac"
   ],
   [
     "SUNG",
-    "Đầy"
+    "Đầy",
+    "ngang"
   ],
   [
     "HẬU",
-    "Dầy"
+    "Dầy",
+    "nang"
   ],
   [
     "KHINH",
-    "Nhẹ"
+    "Nhẹ",
+    "ngang"
   ],
   [
     "THẾ",
-    "Thế"
+    "Thế",
+    "sac"
   ],
   [
     "TÀI",
-    "Tài"
+    "Tài",
+    "huyen"
   ],
   [
     "ĐÀI",
-    "Đài"
+    "Đài",
+    "huyen"
   ],
   [
     "MIỄU",
-    "Miễu"
+    "Miễu",
+    "nga"
   ],
   [
     "KIỆU ",
-    "Kiệu"
+    "Kiệu",
+    "nang"
   ],
   [
     "TRI",
-    "Xe"
+    "Xe",
+    "ngang"
   ],
   [
     "THÍNH",
-    "Nghe"
+    "Nghe",
+    "sac"
   ],
   [
     "ĐỔ",
-    "Thấy"
+    "Thấy",
+    "hoi"
   ],
   [
     "THỦ",
-    "Lấy"
+    "Lấy",
+    "hoi"
   ],
   [
     "BAN",
-    "Ban"
+    "Ban",
+    "ngang"
   ],
   [
     "TỪ",
-    "Khoan"
+    "Khoan",
+    "huyen"
   ],
   [
     "CẤP",
-    "Kíp"
+    "Kíp",
+    "sac"
   ],
   [
     "TƯ",
-    "Níp"
+    "Níp",
+    "ngang"
   ],
   [
     "ĐAN",
-    "Giai"
+    "Giai",
+    "ngang"
   ],
   [
     "CỨC",
-    "Gai"
+    "Gai",
+    "sac"
   ],
   [
     "NHÂN",
-    "Hạt"
+    "Hạt",
+    "ngang"
   ],
   [
     "ĐẠM",
-    "Lạt"
+    "Lạt",
+    "nang"
   ],
   [
     "NÙNG",
-    "Nồng"
+    "Nồng",
+    "huyen"
   ],
   [
     "ƯỚC",
-    "Mong"
+    "Mong",
+    "sac"
   ],
   [
     "TƯỞNG",
-    "Nhớ"
+    "Nhớ",
+    "hoi"
   ],
   [
     "TRÁI",
-    "Nợ"
+    "Nợ",
+    "sac"
   ],
   [
     "DUYÊN",
-    "Duyên"
+    "Duyên",
+    "ngang"
   ],
   [
     "NGHIỄN",
-    "Nghiên"
+    "Nghiên",
+    "nga"
   ],
   [
     "TIÊN",
-    "Giấy"
+    "Giấy",
+    "ngang"
   ],
   [
     "GIÃ",
-    "Vậy"
+    "Vậy",
+    "nga"
   ],
   [
     "",
-    ""
+    "",
+    "ngang"
   ],
   [
     "HẠNH",
-    "May"
+    "May",
+    "nang"
   ],
   [
     "KHAM",
-    "Khá"
+    "Khá",
+    "ngang"
   ],
   [
     "QUYỀN",
-    "Má"
+    "Má",
+    "huyen"
   ],
   [
     "NHĨ",
-    "Tai"
+    "Tai",
+    "nga"
   ],
   [
     "THUỲ",
-    "Ai"
+    "Ai",
+    "huyen"
   ],
   [
     "MỖ",
-    "Mỗ"
+    "Mỗ",
+    "nga"
   ],
   [
     "SÀO",
-    "Tổ"
+    "Tổ",
+    "huyen"
   ],
   [
     "CỐC",
-    "Hang"
+    "Hang",
+    "sac"
   ],
   [
     "ANG",
-    "Nồi rang"
+    "Nồi rang",
+    "ngang"
   ],
   [
     "BỒN",
-    "Chậu"
+    "Chậu",
+    "huyen"
   ],
   [
     "CỰU",
-    "Cậu"
+    "Cậu",
+    "nang"
   ],
   [
     "DA",
-    "Ông (cha)"
+    "Ông (cha)",
+    "ngang"
   ],
   [
     "XUYÊN",
-    "Sông"
+    "Sông",
+    "ngang"
   ],
   [
     "NHẠC",
-    "Núi"
+    "Núi",
+    "nang"
   ],
   [
     "NGÔN",
-    "Nói"
+    "Nói",
+    "ngang"
   ],
   [
     "TÁC",
-    "Làm"
+    "Làm",
+    "sac"
   ],
   [
     "LAM",
-    "Chàm"
+    "Chàm",
+    "ngang"
   ],
   [
     "UẤT",
-    "Nghệ"
+    "Nghệ",
+    "sac"
   ],
   [
     "BỄ",
-    "Vế đùi"
+    "Vế đùi",
+    "nga"
   ],
   [
     "YÊU",
-    "Lưng"
+    "Lưng",
+    "ngang"
   ],
   [
     "GIÁC",
-    "Sừng"
+    "Sừng",
+    "sac"
   ],
   [
     "ĐỀ",
-    ""
+    "",
+    "huyen"
   ],
   [
     "ẢNH",
-    "Bóng"
+    "Bóng",
+    "hoi"
   ],
   [
     "HÌNH",
-    "Hình"
+    "Hình",
+    "huyen"
   ],
   [
     "KINH",
-    "Kinh"
+    "Kinh",
+    "ngang"
   ],
   [
     "SỬ",
-    "Sử"
+    "Sử",
+    "hoi"
   ],
   [
     "THỦ",
-    "Giữ"
+    "Giữ",
+    "hoi"
   ],
   [
     "DU",
-    "Chơi"
+    "Chơi",
+    "ngang"
   ],
   [
     "CHIÊU",
-    "Vời"
+    "Vời",
+    "ngang"
   ],
   [
     "TỰU",
-    "Tới"
+    "Tới",
+    "nang"
   ],
   [
     "CẢI",
-    "Đổi"
+    "Đổi",
+    "hoi"
   ],
   [
     "DI",
-    "Dời"
+    "Dời",
+    "ngang"
   ],
   [
     "TRUỴ",
-    "Rơi"
+    "Rơi",
+    "nang"
   ],
   [
     "ĐIÊN",
-    "Ngã"
+    "Ngã",
+    "ngang"
   ],
   [
     "KÝ",
-    "Đã"
+    "Đã",
+    "sac"
   ],
   [
     "TẰNG",
-    "Từng"
+    "Từng",
+    "huyen"
   ],
   [
     "HỶ",
-    "Mừng"
+    "Mừng",
+    "hoi"
   ],
   [
     "GIA",
-    "Tốt"
+    "Tốt",
+    "ngang"
   ],
   [
     "NGHIỄNG",
-    "Đồng cốt"
+    "Đồng cốt",
+    "nga"
   ],
   [
     "VU",
-    "Thầy mo"
+    "Thầy mo",
+    "ngang"
   ],
   [
     "KHUẤT",
-    "Cốt"
+    "Cốt",
+    "sac"
   ],
   [
     "THÂN",
-    "Duỗi"
+    "Duỗi",
+    "ngang"
   ],
   [
     "TUẾ",
-    "Tuổi"
+    "Tuổi",
+    "sac"
   ],
   [
     "THÌ",
-    "Giờ"
+    "Giờ",
+    "huyen"
   ],
   [
     "TINH",
-    "Cờ"
+    "Cờ",
+    "ngang"
   ],
   [
     "TẢN",
-    "Tán"
+    "Tán",
+    "hoi"
   ],
   [
     "HY",
-    "Hơn hớn"
+    "Hơn hớn",
+    "ngang"
   ],
   [
     "XÁN",
-    "Rỡ ràng"
+    "Rỡ ràng",
+    "sac"
   ],
   [
     "THANG",
-    "Vua Thang"
+    "Vua Thang",
+    "ngang"
   ],
   [
     "VŨ",
-    "Vua Vũ"
+    "Vua Vũ",
+    "nga"
   ],
   [
     "PHỦ",
-    "Phủ"
+    "Phủ",
+    "hoi"
   ],
   [
     "CUNG",
-    "Cung"
+    "Cung",
+    "ngang"
   ],
   [
     "ĐÔNG",
-    "Mùa Đông"
+    "Mùa Đông",
+    "ngang"
   ],
   [
     "LẠP",
-    "Tháng Chạp"
+    "Tháng Chạp",
+    "nang"
   ],
   [
     "HỢP",
-    "Hạp"
+    "Hạp",
+    "nang"
   ],
   [
     "LY",
-    "Lìa"
+    "Lìa",
+    "ngang"
   ],
   [
     "MÊ",
-    "Mê"
+    "Mê",
+    "ngang"
   ],
   [
     "NGỘ",
-    "Biết"
+    "Biết",
+    "nang"
   ],
   [
     "CẨM",
-    "Vóc"
+    "Vóc",
+    "hoi"
   ],
   [
     "SA",
-    "The"
+    "The",
+    "ngang"
   ],
   [
     "PHÚ",
-    "Che"
+    "Che",
+    "sac"
   ],
   [
     "BAO",
-    "Bọc"
+    "Bọc",
+    "ngang"
   ],
   [
     "NGUNG",
-    "Góc"
+    "Góc",
+    "ngang"
   ],
   [
     "BỆ",
-    "Hè"
+    "Hè",
+    "nang"
   ],
   [
     "LUÂN",
-    "Bánh xe"
+    "Bánh xe",
+    "ngang"
   ],
   [
     "TỨ",
-    "Ngựa"
+    "Ngựa",
+    "sac"
   ],
   [
     "THƯƠNG",
-    "Vựa"
+    "Vựa",
+    "ngang"
   ],
   [
     "THẢNG",
-    "Kho"
+    "Kho",
+    "hoi"
   ],
   [
     "NHO",
-    "Đạo Nho"
+    "Đạo Nho",
+    "ngang"
   ],
   [
     "THÍCH",
-    "Đạo Phật"
+    "Đạo Phật",
+    "sac"
   ],
   [
     "MIẾN",
-    "Bột"
+    "Bột",
+    "sac"
   ],
   [
     "DI",
-    "Đường"
+    "Đường",
+    "ngang"
   ],
   [
     "QUÝ",
-    "Sang"
+    "Sang",
+    "sac"
   ],
   [
     "BẦN",
-    "Khó"
+    "Khó",
+    "huyen"
   ],
   [
     "TÔN",
-    "Lọ"
+    "Lọ",
+    "ngang"
   ],
   [
     "ÁN",
-    "Yên"
+    "Yên",
+    "sac"
   ],
   [
     "BIÊN",
-    "Biên"
+    "Biên",
+    "ngang"
   ],
   [
     "TẢ",
-    "Chép"
+    "Chép",
+    "hoi"
   ],
   [
     "GIÁP",
-    "Mép"
+    "Mép",
+    "sac"
   ],
   [
     "TAI",
-    "Mang"
+    "Mang",
+    "ngang"
   ],
   [
     "NƯƠNG",
-    "Nàng"
+    "Nàng",
+    "ngang"
   ],
   [
     "ẨU",
-    "Mụ"
+    "Mụ",
+    "hoi"
   ],
   [
     "MÃO",
-    "Mũ"
+    "Mũ",
+    "nga"
   ],
   [
     "THAO",
-    "Thao"
+    "Thao",
+    "ngang"
   ],
   [
     "NHẬP",
-    "Vào"
+    "Vào",
+    "nang"
   ],
   [
     "CƯ",
-    "ở"
+    "ở",
+    "ngang"
   ],
   [
     "CAO",
-    "Mỡ"
+    "Mỡ",
+    "ngang"
   ],
   [
     "CỐT",
-    "Xương"
+    "Xương",
+    "sac"
   ],
   [
     "TƯỜNG",
-    "Tường"
+    "Tường",
+    "huyen"
   ],
   [
     "LƯỢC",
-    "Lược"
+    "Lược",
+    "nang"
   ],
   [
     "BỘ",
-    "Bước"
+    "Bước",
+    "nang"
   ],
   [
     "CHI",
-    "Đi"
+    "Đi",
+    "ngang"
   ],
   [
     "THI",
-    "Thi"
+    "Thi",
+    "ngang"
   ],
   [
     "LỄ",
-    "Lễ"
+    "Lễ",
+    "nga"
   ],
   [
     "DO",
-    "Bởi"
+    "Bởi",
+    "ngang"
   ],
   [
     "PHÁT",
-    "Ra"
+    "Ra",
+    "sac"
   ],
   [
     "ĐƯỜNG",
-    "Nhà"
+    "Nhà",
+    "huyen"
   ],
   [
     "HỘ",
-    "Cửa"
+    "Cửa",
+    "nang"
   ],
   [
     "SỞ",
-    "Thửa"
+    "Thửa",
+    "hoi"
   ],
   [
     "Ư",
-    "Chưng"
+    "Chưng",
+    "ngang"
   ],
   [
     "BỔNG",
-    "Bưng"
+    "Bưng",
+    "hoi"
   ],
   [
     "TÊ",
-    "Dẫy"
+    "Dẫy",
+    "ngang"
   ],
   [
     "PHẢ",
-    "Sảy"
+    "Sảy",
+    "hoi"
   ],
   [
     "THUNG",
-    "Đâm"
+    "Đâm",
+    "ngang"
   ],
   [
     "Á",
-    "Câm"
+    "Câm",
+    "sac"
   ],
   [
     "LUNG",
-    "Điếc"
+    "Điếc",
+    "ngang"
   ],
   [
     "TÍCH",
-    "tiếc"
+    "tiếc",
+    "sac"
   ],
   [
     "CƠ",
-    "Chê"
+    "Chê",
+    "ngang"
   ],
   [
     "ĐÊ",
-    "Dê"
+    "Dê",
+    "ngang"
   ],
   [
     "CẨU",
-    "Chó"
+    "Chó",
+    "hoi"
   ],
   [
     "TỘC",
-    "Họ"
+    "Họ",
+    "nang"
   ],
   [
     "LƯ",
-    "Làng"
+    "Làng",
+    "ngang"
   ],
   [
     "ĐƯỜNG",
-    "Cây Đường"
+    "Cây Đường",
+    "huyen"
   ],
   [
     "LỆ",
-    "Cây Lệ"
+    "Cây Lệ",
+    "nang"
   ],
   [
     "QUẾ",
-    "Cây Quế"
+    "Cây Quế",
+    "sac"
   ],
   [
     "ĐỒNG",
-    "Cây Vông"
+    "Cây Vông",
+    "huyen"
   ],
   [
     "ĐỘC",
-    "Sông"
+    "Sông",
+    "nang"
   ],
   [
     "SƠN",
-    "Núi"
+    "Núi",
+    "ngang"
   ],
   [
     "YÊN",
-    "Khói."
+    "Khói.",
+    "ngang"
   ],
   [
     "VỤ",
-    "Mù"
+    "Mù",
+    "nang"
   ],
   [
     "NGÔ",
-    "Nước Ngô"
+    "Nước Ngô",
+    "ngang"
   ],
   [
     "SỞ",
-    "Nước Sở"
+    "Nước Sở",
+    "hoi"
   ],
   [
     "TẢI",
-    "Chở"
+    "Chở",
+    "hoi"
   ],
   [
     "ĐÀI",
-    "Khiêng"
+    "Khiêng",
+    "huyen"
   ],
   [
     "LINH",
-    "Thiêng"
+    "Thiêng",
+    "ngang"
   ],
   [
     "ỨNG",
-    "Ứng"
+    "Ứng",
+    "sac"
   ],
   [
     "HỨNG",
-    "Hứng"
+    "Hứng",
+    "sac"
   ],
   [
     "NGU",
-    "Vui"
+    "Vui",
+    "ngang"
   ],
   [
     "CÔ",
-    "Côi"
+    "Côi",
+    "ngang"
   ],
   [
     "QUẢ",
-    "Goá"
+    "Goá",
+    "hoi"
   ],
   [
     "NHA",
-    "Quạ"
+    "Quạ",
+    "ngang"
   ],
   [
     "THƯỚC",
-    "Ác Là"
+    "Ác Là",
+    "sac"
   ],
   [
     "HOÀ",
-    "Hoà"
+    "Hoà",
+    "huyen"
   ],
   [
     "THUẬN",
-    "Thuận"
+    "Thuận",
+    "nang"
   ],
   [
     "NỘ",
-    "Giận"
+    "Giận",
+    "nang"
   ],
   [
     "TỪ",
-    "Lành"
+    "Lành",
+    "huyen"
   ],
   [
     "THÀNH",
-    "Thành"
+    "Thành",
+    "huyen"
   ],
   [
     "TRẠI",
-    "Trại"
+    "Trại",
+    "nang"
   ],
   [
     "THẾ",
-    "Giại"
+    "Giại",
+    "sac"
   ],
   [
     "LANG",
-    "Hiên"
+    "Hiên",
+    "ngang"
   ],
   [
     "CHU",
-    "Thuyền"
+    "Thuyền",
+    "ngang"
   ],
   [
     "VÕNG",
-    "Võng"
+    "Võng",
+    "nga"
   ],
   [
     "KHỔNG",
-    "Họ Khổng"
+    "Họ Khổng",
+    "hoi"
   ],
   [
     "CHU",
-    "Họ Chu"
+    "Họ Chu",
+    "ngang"
   ],
   [
     "NGU",
-    "Nhà Ngu"
+    "Nhà Ngu",
+    "ngang"
   ],
   [
     "QUẮC",
-    "Đất Quắc"
+    "Đất Quắc",
+    "sac"
   ],
   [
     "HOẶC",
-    "Hoặc"
+    "Hoặc",
+    "nang"
   ],
   [
     "NGHI",
-    "Ngờ"
+    "Ngờ",
+    "ngang"
   ],
   [
     "PHỤNG",
-    "Thờ"
+    "Thờ",
+    "nang"
   ],
   [
     "CUNG",
-    "Kính"
+    "Kính",
+    "ngang"
   ],
   [
     "ĐIÊN",
-    "Đỉnh"
+    "Đỉnh",
+    "ngang"
   ],
   [
     "NGẠN",
-    "Bờ"
+    "Bờ",
+    "nang"
   ],
   [
     "Ô",
-    "Dơ"
+    "Dơ",
+    "ngang"
   ],
   [
     "KHIẾT",
-    "Sạch"
+    "Sạch",
+    "sac"
   ],
   [
     "KHIẾT",
-    "Xách"
+    "Xách",
+    "sac"
   ],
   [
     "CHIÊM",
-    "Cầm"
+    "Cầm",
+    "ngang"
   ],
   [
     "MẬU",
-    "Lầm"
+    "Lầm",
+    "nang"
   ],
   [
     "MAN",
-    "Dối"
+    "Dối",
+    "ngang"
   ],
   [
     "PHONG",
-    "Gói"
+    "Gói",
+    "ngang"
   ],
   [
     "TRÁO",
-    "Trùm"
+    "Trùm",
+    "sac"
   ],
   [
     "BÀO",
-    "Đùm"
+    "Đùm",
+    "huyen"
   ],
   [
     "THÚC",
-    "Buộc"
+    "Buộc",
+    "sac"
   ],
   [
     "DƯỢC",
-    "Thuốc"
+    "Thuốc",
+    "nang"
   ],
   [
     "PHÙ",
-    "Bùa"
+    "Bùa",
+    "huyen"
   ],
   [
     "QUÂN",
-    "Vua"
+    "Vua",
+    "ngang"
   ],
   [
     "TƯỚNG",
-    "Tướng"
+    "Tướng",
+    "sac"
   ],
   [
     "LƯỢNG",
-    "Lượng"
+    "Lượng",
+    "nang"
   ],
   [
     "TÀI",
-    "Tài"
+    "Tài",
+    "huyen"
   ],
   [
     "BÀI",
-    "Bài"
+    "Bài",
+    "huyen"
   ],
   [
     "BIỂN",
-    "Biển"
+    "Biển",
+    "hoi"
   ],
   [
     "QUYỂN",
-    "Quyển"
+    "Quyển",
+    "hoi"
   ],
   [
     "THIÊN",
-    "Thiên"
+    "Thiên",
+    "ngang"
   ],
   [
     "MIỄN",
-    "Khuyên"
+    "Khuyên",
+    "nga"
   ],
   [
     "XANH",
-    "Chống"
+    "Chống",
+    "ngang"
   ],
   [
     "QUẢNG",
-    "Rộng"
+    "Rộng",
+    "hoi"
   ],
   [
     "DIÊN",
-    "Dài"
+    "Dài",
+    "ngang"
   ],
   [
     "LOẠI",
-    "Loài"
+    "Loài",
+    "nang"
   ],
   [
     "LUÂN",
-    "Đấng"
+    "Đấng",
+    "ngang"
   ],
   [
     "NOÃN",
-    "Trứng"
+    "Trứng",
+    "nga"
   ],
   [
     "BÀO",
-    "Nhau"
+    "Nhau",
+    "huyen"
   ],
   [
     "THÂU",
-    "Thau"
+    "Thau",
+    "ngang"
   ],
   [
     "NGỌC",
-    "Ngọc"
+    "Ngọc",
+    "nang"
   ],
   [
     "THỐC",
-    "Trọc"
+    "Trọc",
+    "sac"
   ],
   [
     "KHUNG",
-    "Cao"
+    "Cao",
+    "ngang"
   ],
   [
     "TINH",
-    "Sao"
+    "Sao",
+    "ngang"
   ],
   [
     "ĐIỆN",
-    "Chớp"
+    "Chớp",
+    "nang"
   ],
   [
     "HẤP",
-    "Hớp"
+    "Hớp",
+    "sac"
   ],
   [
     "HA",
-    "La"
+    "La",
+    "ngang"
   ],
   [
     "XUẤT",
-    "Ra"
+    "Ra",
+    "sac"
   ],
   [
     "KHAI",
-    "Mở"
+    "Mở",
+    "ngang"
   ],
   [
     "QUÁI",
-    "Gở"
+    "Gở",
+    "sac"
   ],
   [
     "TƯỜNG",
-    "Điềm"
+    "Điềm",
+    "huyen"
   ],
   [
     "NHUYỄN",
-    "Mềm"
+    "Mềm",
+    "nga"
   ],
   [
     "CƯƠNG",
-    "Cứng"
+    "Cứng",
+    "ngang"
   ],
   [
     "KHẲNG",
-    "Khứng"
+    "Khứng",
+    "hoi"
   ],
   [
     "TUỲ",
-    "Theo"
+    "Theo",
+    "huyen"
   ],
   [
     "HUYỀN",
-    "Treo"
+    "Treo",
+    "huyen"
   ],
   [
     "ĐẢM",
-    "Gánh"
+    "Gánh",
+    "hoi"
   ],
   [
     "ĐẢ",
-    "Đánh"
+    "Đánh",
+    "hoi"
   ],
   [
     "KHU",
-    "Trừ"
+    "Trừ",
+    "ngang"
   ],
   [
     "TỪ",
-    "Lời"
+    "Lời",
+    "huyen"
   ],
   [
     "THỌ",
-    "Chịu"
+    "Chịu",
+    "nang"
   ],
   [
     "MÃO",
-    "Mẹo"
+    "Mẹo",
+    "nga"
   ],
   [
     "DẦN",
-    "Dần"
+    "Dần",
+    "huyen"
   ],
   [
     "THÂN",
-    "Thân"
+    "Thân",
+    "ngang"
   ],
   [
     "DẬU",
-    "Dậu"
+    "Dậu",
+    "nang"
   ],
   [
     "ẨN",
-    "Giấu"
+    "Giấu",
+    "hoi"
   ],
   [
     "GIÀ",
-    "Che"
+    "Che",
+    "huyen"
   ],
   [
     "TUYỀN",
-    "Về"
+    "Về",
+    "huyen"
   ],
   [
     "PHẢN",
-    "Lại"
+    "Lại",
+    "hoi"
   ],
   [
     "QUẢ",
-    "Trái"
+    "Trái",
+    "hoi"
   ],
   [
     "ĐIỀU",
-    "Cành"
+    "Cành",
+    "huyen"
   ],
   [
     "BÌNH",
-    "Cái Bình"
+    "Cái Bình",
+    "huyen"
   ],
   [
     "BÁT",
-    "Cái Bát"
+    "Cái Bát",
+    "sac"
   ],
   [
     "XƯỚNG",
-    "Hát"
+    "Hát",
+    "sac"
   ],
   [
     "ĐÀN",
-    "Đàn"
+    "Đàn",
+    "huyen"
   ],
   [
     "SĨ",
-    "Làm quan"
+    "Làm quan",
+    "nga"
   ],
   [
     "NÔNG",
-    "Làm ruộng"
+    "Làm ruộng",
+    "ngang"
   ],
   [
     "THƯỢNG",
-    "Chuộng"
+    "Chuộng",
+    "nang"
   ],
   [
     "BAO",
-    "Khen"
+    "Khen",
+    "ngang"
   ],
   [
     "HẮC",
-    "Đen"
+    "Đen",
+    "sac"
   ],
   [
     "HỒNG",
-    "Đỏ"
+    "Đỏ",
+    "huyen"
   ],
   [
     "THỐ",
-    "Con thỏ"
+    "Con thỏ",
+    "sac"
   ],
   [
     "LY",
-    "Con cầy"
+    "Con cầy",
+    "ngang"
   ],
   [
     "SƯ",
-    "rây"
+    "rây",
+    "ngang"
   ],
   [
     "CẤP",
-    "Kín"
+    "Kín",
+    "sac"
   ],
   [
     "NHẪN",
-    "Nhịn"
+    "Nhịn",
+    "nga"
   ],
   [
     "Ý",
-    "Lòng"
+    "Lòng",
+    "sac"
   ],
   [
     "THÔNG",
-    "Thông"
+    "Thông",
+    "ngang"
   ],
   [
     "TẮC",
-    "Lấp"
+    "Lấp",
+    "sac"
   ],
   [
     "BIẾN",
-    "Khắp"
+    "Khắp",
+    "sac"
   ],
   [
     "GIAI",
-    "Đều"
+    "Đều",
+    "ngang"
   ],
   [
     "TIÊU",
-    "Nêu (giới)"
+    "Nêu (giới)",
+    "ngang"
   ],
   [
     "KIỆT",
-    "kiệt"
+    "kiệt",
+    "nang"
   ],
   [
     "VIỆT",
-    "Nước Việt"
+    "Nước Việt",
+    "nang"
   ],
   [
     "TỀ",
-    "Nước Tề"
+    "Nước Tề",
+    "huyen"
   ],
   [
     "KHUÊ",
-    "Sao Khuê"
+    "Sao Khuê",
+    "ngang"
   ],
   [
     "MÃO",
-    "Sao Mão"
+    "Sao Mão",
+    "nga"
   ],
   [
     "KHẢO",
-    "Khảo"
+    "Khảo",
+    "hoi"
   ],
   [
     "TRA",
-    "Tra"
+    "Tra",
+    "ngang"
   ],
   [
     "NGOA",
-    "Ngoa"
+    "Ngoa",
+    "ngang"
   ],
   [
     "NGUỴ",
-    "Dối"
+    "Dối",
+    "nang"
   ],
   [
     "MUỘI",
-    "Tối"
+    "Tối",
+    "nang"
   ],
   [
     "MINH",
-    "Mờ"
+    "Mờ",
+    "ngang"
   ],
   [
     "NGỤ",
-    "Nhờ"
+    "Nhờ",
+    "nang"
   ],
   [
     "MÔNG",
-    "Đội"
+    "Đội",
+    "ngang"
   ],
   [
     "KỶ ",
-    ""
+    "",
+    "hoi"
   ],
   [
     "CƯƠNG",
-    "Giường"
+    "Giường",
+    "ngang"
   ],
   [
     "CHƯƠNG",
-    "Chương"
+    "Chương",
+    "ngang"
   ],
   [
     "CẢO",
-    "Cảo"
+    "Cảo",
+    "hoi"
   ],
   [
     "THỊ",
-    "Bảo"
+    "Bảo",
+    "nang"
   ],
   [
     "TRUYỀN",
-    "Truyền"
+    "Truyền",
+    "huyen"
   ],
   [
     "TIỀN",
-    "Tiền"
+    "Tiền",
+    "huyen"
   ],
   [
     "TÚC",
-    "Thóc"
+    "Thóc",
+    "sac"
   ],
   [
     "CHÚ",
-    "Đúc"
+    "Đúc",
+    "sac"
   ],
   [
     "YÊU ",
-    "Cầu"
+    "Cầu",
+    "ngang"
   ],
   [
     "ĐIẾU",
-    "Câu"
+    "Câu",
+    "sac"
   ],
   [
     "NGƯ",
-    "Đánh cá"
+    "Đánh cá",
+    "ngang"
   ],
   [
     "MIÊU",
-    "Mạ"
+    "Mạ",
+    "ngang"
   ],
   [
     "HUỆ",
-    "Bông"
+    "Bông",
+    "nang"
   ],
   [
     "ÔNG",
-    "Ông"
+    "Ông",
+    "ngang"
   ],
   [
     "ĐIỆT",
-    "Cháu"
+    "Cháu",
+    "nang"
   ],
   [
     "MẬU",
-    "Can Mậu"
+    "Can Mậu",
+    "nang"
   ],
   [
     "CANH",
-    "Can Canh"
+    "Can Canh",
+    "ngang"
   ],
   [
     "ĐINH",
-    "Can ĐINH"
+    "Can ĐINH",
+    "ngang"
   ],
   [
     "QUÝ",
-    "Can Quý"
+    "Can Quý",
+    "sac"
   ],
   [
     "NGUỴ",
-    "Nước Nguỵ"
+    "Nước Nguỵ",
+    "nang"
   ],
   [
     "TẦN",
-    "Nước Tần"
+    "Nước Tần",
+    "huyen"
   ],
   [
     "QUẦN",
-    "Quần"
+    "Quần",
+    "huyen"
   ],
   [
     "KHOÁ",
-    "Khố"
+    "Khố",
+    "sac"
   ],
   [
     "HỘ",
-    "Hộ"
+    "Hộ",
+    "nang"
   ],
   [
     "PHÙ",
-    "Vùa"
+    "Vùa",
+    "huyen"
   ],
   [
     "THÂU",
-    "Thu"
+    "Thu",
+    "ngang"
   ],
   [
     "HOẠCH",
-    "Được"
+    "Được",
+    "nang"
   ],
   [
     "MƯU",
-    "Chước"
+    "Chước",
+    "ngang"
   ],
   [
     "LỰ ",
-    ""
+    "",
+    "nang"
   ],
   [
     "THÔ",
-    "To"
+    "To",
+    "ngang"
   ],
   [
     "TẾ",
-    "Nhỏ"
+    "Nhỏ",
+    "sac"
   ],
   [
     "SOẠN",
-    "Cỗ (mâm)"
+    "Cỗ (mâm)",
+    "nang"
   ],
   [
     "TU",
-    "Đồ ăn"
+    "Đồ ăn",
+    "ngang"
   ],
   [
     "CẦN",
-    "Rau cần"
+    "Rau cần",
+    "huyen"
   ],
   [
     "BẶC",
-    "Cải củ"
+    "Cải củ",
+    "nang"
   ],
   [
     "THÚ",
-    "Thú"
+    "Thú",
+    "sac"
   ],
   [
     "TÌNH",
-    "Tình"
+    "Tình",
+    "huyen"
   ],
   [
     "BINH",
-    "Binh"
+    "Binh",
+    "ngang"
   ],
   [
     "NGŨ",
-    "Ngũ"
+    "Ngũ",
+    "nga"
   ],
   [
     "NÙNG",
-    "Mũ"
+    "Mũ",
+    "huyen"
   ],
   [
     "THŨNG",
-    "Sưng"
+    "Sưng",
+    "nga"
   ],
   [
     "TẰNG",
-    "Từng"
+    "Từng",
+    "huyen"
   ],
   [
     "BỆ",
-    "Bực"
+    "Bực",
+    "nang"
   ],
   [
     "BỨC",
-    "Bức"
+    "Bức",
+    "sac"
   ],
   [
     "TUẦN",
-    "Thuần"
+    "Thuần",
+    "huyen"
   ],
   [
     "TUẦN",
-    "Đi tuần"
+    "Đi tuần",
+    "huyen"
   ],
   [
     "THÚ",
-    "Đi thú"
+    "Đi thú",
+    "sac"
   ],
   [
     "CHUỶ",
-    "Mỏ"
+    "Mỏ",
+    "hoi"
   ],
   [
     "PHU",
-    "Da"
+    "Da",
+    "ngang"
   ],
   [
     "HOA",
-    "Hoa"
+    "Hoa",
+    "ngang"
   ],
   [
     "NHUỴ",
-    "Nhuỵ"
+    "Nhuỵ",
+    "nang"
   ],
   [
     "UÝ",
-    "Quan Uý"
+    "Quan Uý",
+    "sac"
   ],
   [
     "THỪA",
-    "Quan Thừa"
+    "Quan Thừa",
+    "huyen"
   ],
   [
     "XỈ",
-    "Răng"
+    "Răng",
+    "hoi"
   ],
   [
     "MÂU",
-    "Mắt(ngươi)"
+    "Mắt(ngươi)",
+    "ngang"
   ],
   [
     "THỤ",
-    "Bán Đắt"
+    "Bán Đắt",
+    "nang"
   ],
   [
     "THIÊM",
-    "Thêm"
+    "Thêm",
+    "ngang"
   ],
   [
     "TIÊU",
-    "Đêm"
+    "Đêm",
+    "ngang"
   ],
   [
     "ĐÁN",
-    "Sớm"
+    "Sớm",
+    "sac"
   ],
   [
     "KỸ",
-    "Bợm"
+    "Bợm",
+    "nga"
   ],
   [
     "BÀI",
-    "Trò"
+    "Trò",
+    "huyen"
   ],
   [
     "BÃO",
-    "No"
+    "No",
+    "nga"
   ],
   [
     "CƠ",
-    "Đói"
+    "Đói",
+    "ngang"
   ],
   [
     "CHƯ",
-    "Mọi"
+    "Mọi",
+    "ngang"
   ],
   [
     "CÁC",
-    "Đều"
+    "Đều",
+    "sac"
   ],
   [
     "KHIẾU",
-    "Kêu"
+    "Kêu",
+    "sac"
   ],
   [
     "HÀM",
-    "Ngậm"
+    "Ngậm",
+    "huyen"
   ],
   [
     "CẤM",
-    "Cấm"
+    "Cấm",
+    "sac"
   ],
   [
     "NHƯNG",
-    "Nhưng"
+    "Nhưng",
+    "ngang"
   ],
   [
     "VU",
-    "Chưng"
+    "Chưng",
+    "ngang"
   ],
   [
     "THỬ",
-    "Ấy"
+    "Ấy",
+    "hoi"
   ],
   [
     "DĨ",
-    "Lấy"
+    "Lấy",
+    "nga"
   ],
   [
     "CẦU",
-    "Tìm"
+    "Tìm",
+    "huyen"
   ],
   [
     "CẦM",
-    "Chim"
+    "Chim",
+    "huyen"
   ],
   [
     "MÔ",
-    "Ếch"
+    "Ếch",
+    "ngang"
   ],
   [
     "CHUYÊN",
-    "Gạch"
+    "Gạch",
+    "ngang"
   ],
   [
     "THÁN",
-    "Than"
+    "Than",
+    "sac"
   ],
   [
     "QUÁN",
-    "Quan"
+    "Quan",
+    "sac"
   ],
   [
     "LÂU",
-    "Rút"
+    "Rút",
+    "ngang"
   ],
   [
     "BẠT",
-    "Tuốt"
+    "Tuốt",
+    "nang"
   ],
   [
     "MÔ",
-    "Sờ"
+    "Sờ",
+    "ngang"
   ],
   [
     "TẠ",
-    "Nhờ"
+    "Nhờ",
+    "nang"
   ],
   [
     "CHI",
-    "Chống"
+    "Chống",
+    "ngang"
   ],
   [
     "MANH",
-    "Mống"
+    "Mống",
+    "ngang"
   ],
   [
     "NHƯỠNG",
-    "Gây"
+    "Gây",
+    "nga"
   ],
   [
     "TỔ",
-    "Chay"
+    "Chay",
+    "hoi"
   ],
   [
     "HUÂN",
-    "Tạp"
+    "Tạp",
+    "ngang"
   ],
   [
     "TIỄN",
-    "Đạp"
+    "Đạp",
+    "nga"
   ],
   [
     "KHOÁ",
-    "Cầm"
+    "Cầm",
+    "sac"
   ],
   [
     "THÁM",
-    "Thăm"
+    "Thăm",
+    "sac"
   ],
   [
     "TAO",
-    "Gãi"
+    "Gãi",
+    "ngang"
   ],
   [
     "LỊCH",
-    "Trải"
+    "Trải",
+    "nang"
   ],
   [
     "DU",
-    "Qua"
+    "Qua",
+    "ngang"
   ],
   [
     "MA",
-    "Ma"
+    "Ma",
+    "ngang"
   ],
   [
     "QUỶ",
-    "Quỷ"
+    "Quỷ",
+    "hoi"
   ],
   [
     "TỨC",
-    "Nghỉ"
+    "Nghỉ",
+    "sac"
   ],
   [
     "TƯ",
-    "Nay"
+    "Nay",
+    "ngang"
   ],
   [
     "TIÊU",
-    "Mây"
+    "Mây",
+    "ngang"
   ],
   [
     "LỖ",
-    "Mặn"
+    "Mặn",
+    "nga"
   ],
   [
     "KHIẾT",
-    "Cắn"
+    "Cắn",
+    "sac"
   ],
   [
     "HÀO",
-    "Kêu"
+    "Kêu",
+    "huyen"
   ],
   [
     "LIÊU",
-    "Trêu"
+    "Trêu",
+    "ngang"
   ],
   [
     "NHIỄU",
-    "Quấy"
+    "Quấy",
+    "nga"
   ],
   [
     "GIÁO",
-    "Dạy"
+    "Dạy",
+    "sac"
   ],
   [
     "TRỪNG",
-    "Răn"
+    "Răn",
+    "huyen"
   ],
   [
     "NHIỄM",
-    "Con trăn"
+    "Con trăn",
+    "nga"
   ],
   [
     "VỊ",
-    "Con nhím"
+    "Con nhím",
+    "nang"
   ],
   [
     "THIỀM",
-    "Liếm"
+    "Liếm",
+    "huyen"
   ],
   [
     "XAN",
-    "Ăn"
+    "Ăn",
+    "ngang"
   ],
   [
     "CƯỚC",
-    "Chân"
+    "Chân",
+    "sac"
   ],
   [
     "CĂN",
-    "Gót"
+    "Gót",
+    "ngang"
   ],
   [
     "MỸ",
-    "Tốt"
+    "Tốt",
+    "nga"
   ],
   [
     "VINH",
-    "Sang"
+    "Sang",
+    "ngang"
   ],
   [
     "CƯƠNG",
-    "Gang"
+    "Gang",
+    "ngang"
   ],
   [
     "THỔ",
-    "Đất"
+    "Đất",
+    "hoi"
   ],
   [
     "THẬP",
-    "Nhặt"
+    "Nhặt",
+    "nang"
   ],
   [
     "SƯU",
-    "Tìm"
+    "Tìm",
+    "ngang"
   ],
   [
     "HIỀM",
-    "Hiềm"
+    "Hiềm",
+    "huyen"
   ],
   [
     "TẬT",
-    "Ghét"
+    "Ghét",
+    "nang"
   ],
   [
     "ÁN",
-    "Xét"
+    "Xét",
+    "sac"
   ],
   [
     "LAO",
-    "Mò"
+    "Mò",
+    "ngang"
   ],
   [
     "VỤ",
-    "Cò"
+    "Cò",
+    "nang"
   ],
   [
     "QUYÊN",
-    "Cuốc"
+    "Cuốc",
+    "ngang"
   ],
   [
     "TIẾT",
-    "Guốc"
+    "Guốc",
+    "sac"
   ],
   [
     "NGOA",
-    "Giầy"
+    "Giầy",
+    "ngang"
   ],
   [
     "QUY",
-    "Quay"
+    "Quay",
+    "ngang"
   ],
   [
     "CỦ",
-    "Thước"
+    "Thước",
+    "hoi"
   ],
   [
     "TỲ",
-    "Lược"
+    "Lược",
+    "huyen"
   ],
   [
     "KÍNH",
-    "Gương"
+    "Gương",
+    "sac"
   ],
   [
     "DƯƠNG",
-    "Dương"
+    "Dương",
+    "ngang"
   ],
   [
     "LIỄU",
-    "Liễu"
+    "Liễu",
+    "nga"
   ],
   [
     "TRÀO",
-    "Ghẹo"
+    "Ghẹo",
+    "huyen"
   ],
   [
     "SOẠ",
-    "Chơi"
+    "Chơi",
+    "nang"
   ],
   [
     "LÂN",
-    "Ma trơi"
+    "Ma trơi",
+    "ngang"
   ],
   [
     "HUỲNH",
-    "Đóm"
+    "Đóm",
+    "huyen"
   ],
   [
     "TỔNG",
-    "Tóm"
+    "Tóm",
+    "hoi"
   ],
   [
     "TRÌ",
-    "Cầm"
+    "Cầm",
+    "huyen"
   ],
   [
     "ĐÀM",
-    "Đầm"
+    "Đầm",
+    "huyen"
   ],
   [
     "HỨC",
-    "Rãnh"
+    "Rãnh",
+    "sac"
   ],
   [
     "CẢNH",
-    "Cảnh"
+    "Cảnh",
+    "hoi"
   ],
   [
     "TRANG",
-    "Trang"
+    "Trang",
+    "ngang"
   ],
   [
     "CHỈ",
-    "Gang"
+    "Gang",
+    "hoi"
   ],
   [
     "CHÍCH",
-    "Lẻ"
+    "Lẻ",
+    "sac"
   ],
   [
     "CHIẾT",
-    "Bẻ"
+    "Bẻ",
+    "sac"
   ],
   [
     "PHAN",
-    "Vin"
+    "Vin",
+    "ngang"
   ],
   [
     "MIÊN",
-    "Mền"
+    "Mền",
+    "ngang"
   ],
   [
     "PHÚC",
-    "Kép"
+    "Kép",
+    "sac"
   ],
   [
     "PHÁP",
-    "Phép"
+    "Phép",
+    "sac"
   ],
   [
     "ÂN",
-    "Ơn"
+    "Ơn",
+    "ngang"
   ],
   [
     "HIỆP",
-    "Lờn"
+    "Lờn",
+    "nang"
   ],
   [
     "DONG",
-    "Nhác"
+    "Nhác",
+    "ngang"
   ],
   [
     "GIÁ",
-    "Gác"
+    "Gác",
+    "sac"
   ],
   [
     "GIAN",
-    "Ngăn"
+    "Ngăn",
+    "ngang"
   ],
   [
     "MỤC",
-    "Chăn"
+    "Chăn",
+    "nang"
   ],
   [
     "TIỀU",
-    "Hái củi"
+    "Hái củi",
+    "huyen"
   ],
   [
     "CHUẨN",
-    "Sống mũi"
+    "Sống mũi",
+    "hoi"
   ],
   [
     "ĐỒNG",
-    "Ngươi"
+    "Ngươi",
+    "huyen"
   ],
   [
     "KHÍ",
-    "Hơi"
+    "Hơi",
+    "sac"
   ],
   [
     "THANH",
-    "Tiếng"
+    "Tiếng",
+    "ngang"
   ],
   [
     "TƯỜNG",
-    "Liệng"
+    "Liệng",
+    "huyen"
   ],
   [
     "NHIỄU",
-    "Quanh"
+    "Quanh",
+    "nga"
   ],
   [
     "TRANH",
-    "Tranh"
+    "Tranh",
+    "ngang"
   ],
   [
     "CHIẾN",
-    "Đánh"
+    "Đánh",
+    "sac"
   ],
   [
     "LINH",
-    "Cánh"
+    "Cánh",
+    "ngang"
   ],
   [
     "VŨ",
-    "Lông"
+    "Lông",
+    "nga"
   ],
   [
     "TÒNG",
-    "Tòng"
+    "Tòng",
+    "huyen"
   ],
   [
     "BÁCH",
-    "Bách"
+    "Bách",
+    "sac"
   ],
   [
     "SÁCH",
-    "Sách"
+    "Sách",
+    "sac"
   ],
   [
     "ĐỒ",
-    "Bản đồ"
+    "Bản đồ",
+    "huyen"
   ],
   [
     "KHÔ",
-    "Khô"
+    "Khô",
+    "ngang"
   ],
   [
     "THẤP",
-    "Ướt"
+    "Ướt",
+    "sac"
   ],
   [
     "CHỬNG",
-    "Vớt"
+    "Vớt",
+    "hoi"
   ],
   [
     "ĐẦU",
-    "Gieo"
+    "Gieo",
+    "huyen"
   ],
   [
     "GIAO",
-    "Keo"
+    "Keo",
+    "ngang"
   ],
   [
     "TIẾT",
-    "Mạt"
+    "Mạt",
+    "sac"
   ],
   [
     "HẠCH",
-    "Hạt"
+    "Hạt",
+    "nang"
   ],
   [
     "ĐẰNG",
-    "Giây"
+    "Giây",
+    "huyen"
   ],
   [
     "THỌ",
-    "Cây"
+    "Cây",
+    "nang"
   ],
   [
     "SÀI",
-    "Củi"
+    "Củi",
+    "huyen"
   ],
   [
     "HOÁN",
-    "Đổi"
+    "Đổi",
+    "sac"
   ],
   [
     "THIÊN",
-    "Dời"
+    "Dời",
+    "ngang"
   ],
   [
     "THẾ",
-    "Đời"
+    "Đời",
+    "sac"
   ],
   [
     "KINH",
-    "Chợ"
+    "Chợ",
+    "ngang"
   ],
   [
     "VÔ",
-    "Chớ"
+    "Chớ",
+    "ngang"
   ],
   [
     "PHẤT",
-    "Chăng"
+    "Chăng",
+    "sac"
   ],
   [
     "VÂN",
-    "Rằng"
+    "Rằng",
+    "ngang"
   ],
   [
     "VỊ",
-    "Bảo"
+    "Bảo",
+    "nang"
   ],
   [
     "TỐ",
-    "Cáo"
+    "Cáo",
+    "sac"
   ],
   [
     "XƯNG",
-    "Xưng"
+    "Xưng",
+    "ngang"
   ],
   [
     "MẶC",
-    "Thừng"
+    "Thừng",
+    "nang"
   ],
   [
     "BỔNG",
-    "Gậy"
+    "Gậy",
+    "hoi"
   ],
   [
     "GIÁ",
-    "Cấy"
+    "Cấy",
+    "sac"
   ],
   [
     "CANH",
-    "Cầy"
+    "Cầy",
+    "ngang"
   ],
   [
     "NHỰT",
-    "Ngày"
+    "Ngày",
+    "nang"
   ],
   [
     "KỲ",
-    "Hẹn"
+    "Hẹn",
+    "huyen"
   ],
   [
     "HOÀN",
-    "Vẹn"
+    "Vẹn",
+    "huyen"
   ],
   [
     "TIẾN",
-    "Lên"
+    "Lên",
+    "sac"
   ],
   [
     "BÌNH",
-    "Phên"
+    "Phên",
+    "huyen"
   ],
   [
     "LY",
-    "Giậu"
+    "Giậu",
+    "ngang"
   ],
   [
     "TÀNG",
-    "Giấu"
+    "Giấu",
+    "huyen"
   ],
   [
     "YỂM",
-    "Che"
+    "Che",
+    "hoi"
   ],
   [
     "LIÊM",
-    "Khe"
+    "Khe",
+    "ngang"
   ],
   [
     "KHIẾU",
-    "Lỗ"
+    "Lỗ",
+    "sac"
   ],
   [
     "BỔ",
-    "Vá"
+    "Vá",
+    "hoi"
   ],
   [
     "ĐIỀU",
-    "Hoà"
+    "Hoà",
+    "huyen"
   ],
   [
     "KHOA",
-    "Khoa"
+    "Khoa",
+    "ngang"
   ],
   [
     "ĐỆ",
-    "Thứ"
+    "Thứ",
+    "nang"
   ],
   [
     "NÔ",
-    "Người ở"
+    "Người ở",
+    "ngang"
   ],
   [
     "ĐỒNG",
-    "Tiểu đồng"
+    "Tiểu đồng",
+    "huyen"
   ],
   [
     "KÝ",
-    "Mong"
+    "Mong",
+    "sac"
   ],
   [
     "HY",
-    "Hoạ"
+    "Hoạ",
+    "ngang"
   ],
   [
     "DỊ",
-    "Lạ"
+    "Lạ",
+    "nang"
   ],
   [
     "ĐỒNG",
-    "Cùng"
+    "Cùng",
+    "huyen"
   ],
   [
     "TRÙNG",
-    "Trùng"
+    "Trùng",
+    "huyen"
   ],
   [
     "ĐIỆP",
-    "Điệp"
+    "Điệp",
+    "nang"
   ],
   [
     "NGHIỆP",
-    "Nghiệp"
+    "Nghiệp",
+    "nang"
   ],
   [
     "HUÂN",
-    "Công"
+    "Công",
+    "ngang"
   ],
   [
     "THỰC",
-    "Trồng"
+    "Trồng",
+    "nang"
   ],
   [
     "BỒI",
-    "Đắp"
+    "Đắp",
+    "huyen"
   ],
   [
     "PHỤ",
-    "Giúp"
+    "Giúp",
+    "nang"
   ],
   [
     "TRÙ",
-    "Toan"
+    "Toan",
+    "huyen"
   ],
   [
     "NHÀN",
-    "Nhàn"
+    "Nhàn",
+    "huyen"
   ],
   [
     "TÁN",
-    "Tán"
+    "Tán",
+    "sac"
   ],
   [
     "KHA",
-    "Cán"
+    "Cán",
+    "ngang"
   ],
   [
     "BÍNH",
-    "Chuôi"
+    "Chuôi",
+    "sac"
   ],
   [
     "VỊ",
-    "Mùi"
+    "Mùi",
+    "nang"
   ],
   [
     "PHONG",
-    "Thói"
+    "Thói",
+    "ngang"
   ],
   [
     "BỐC",
-    "Bói"
+    "Bói",
+    "sac"
   ],
   [
     "CHIÊM",
-    "Xem"
+    "Xem",
+    "ngang"
   ],
   [
     "ÁP",
-    "Kèm"
+    "Kèm",
+    "sac"
   ],
   [
     "KHIỂN",
-    "Khiến"
+    "Khiến",
+    "hoi"
   ],
   [
     "BIẾN",
-    "Biến"
+    "Biến",
+    "sac"
   ],
   [
     "THƯỜNG",
-    "Thường"
+    "Thường",
+    "huyen"
   ],
   [
     "NHƯỢNG",
-    "Nhường"
+    "Nhường",
+    "nang"
   ],
   [
     "KHIÊM",
-    "Tốn"
+    "Tốn",
+    "ngang"
   ],
   [
     "XỨ",
-    "Chốn"
+    "Chốn",
+    "sac"
   ],
   [
     "KHU",
-    "Khu"
+    "Khu",
+    "ngang"
   ],
   [
     "ĐẠC",
-    "Đo"
+    "Đo",
+    "nang"
   ],
   [
     "TUYỆT",
-    "Dứt"
+    "Dứt",
+    "nang"
   ],
   [
     "CẦM",
-    "Bắt"
+    "Bắt",
+    "huyen"
   ],
   [
     "XÁ",
-    "Tha"
+    "Tha",
+    "sac"
   ],
   [
     "HÀ",
-    "Xa"
+    "Xa",
+    "huyen"
   ],
   [
     "BÁCH",
-    "Ngặt"
+    "Ngặt",
+    "sac"
   ],
   [
     "ẤT",
-    "Can Ất"
+    "Can Ất",
+    "sac"
   ],
   [
     "NHÂM",
-    "Can Nhâm"
+    "Can Nhâm",
+    "ngang"
   ],
   [
     "THÍCH",
-    "Đâm"
+    "Đâm",
+    "sac"
   ],
   [
     "CÔNG",
-    "Đánh"
+    "Đánh",
+    "ngang"
   ],
   [
     "PHỐI",
-    "Sánh"
+    "Sánh",
+    "sac"
   ],
   [
     "LIÊN",
-    "Liền"
+    "Liền",
+    "ngang"
   ],
   [
     "KHA",
-    "Thuyền"
+    "Thuyền",
+    "ngang"
   ],
   [
     "LỤC",
-    "Bộ"
+    "Bộ",
+    "nang"
   ],
   [
     "GIẢ",
-    "Dối"
+    "Dối",
+    "hoi"
   ],
   [
     "KHÔNG",
-    "Không"
+    "Không",
+    "ngang"
   ],
   [
     "SÍNH",
-    "Giong"
+    "Giong",
+    "sac"
   ],
   [
     "TRÌ",
-    "Ruổi"
+    "Ruổi",
+    "huyen"
   ],
   [
     "KHU",
-    "Đuổi"
+    "Đuổi",
+    "ngang"
   ],
   [
     "KHƯỚC",
-    "Ruồng"
+    "Ruồng",
+    "sac"
   ],
   [
     "PHÓNG",
-    "Buông"
+    "Buông",
+    "sac"
   ],
   [
     "KHIÊN",
-    "Dắt"
+    "Dắt",
+    "ngang"
   ],
   [
     "PHỤC",
-    "Mặc"
+    "Mặc",
+    "nang"
   ],
   [
     "BÔ",
-    "Ăn"
+    "Ăn",
+    "ngang"
   ],
   [
     "THUÂN",
-    "Da nhăn"
+    "Da nhăn",
+    "ngang"
   ],
   [
     "MIỄN",
-    "Cúi"
+    "Cúi",
+    "nga"
   ],
   [
     "TUNG",
-    "Rối"
+    "Rối",
+    "ngang"
   ],
   [
     "HOẠT",
-    "Trơn"
+    "Trơn",
+    "nang"
   ],
   [
     "HUỆ",
-    "Ơn"
+    "Ơn",
+    "nang"
   ],
   [
     "HY",
-    "Phúc"
+    "Phúc",
+    "ngang"
   ],
   [
     "ĐỐC",
-    "Giục"
+    "Giục",
+    "sac"
   ],
   [
     "THƯ",
-    "Khoan"
+    "Khoan",
+    "ngang"
   ],
   [
     "CÀN",
-    "Quẻ Càn"
+    "Quẻ Càn",
+    "huyen"
   ],
   [
     "CHẤN",
-    "Quẻ Chấn"
+    "Quẻ Chấn",
+    "sac"
   ],
   [
     "CẤN",
-    "Quẻ Cấn"
+    "Quẻ Cấn",
+    "sac"
   ],
   [
     "KHÔN",
-    "Quẻ Khôn"
+    "Quẻ Khôn",
+    "ngang"
   ],
   [
     "HỒN",
-    "Hồn"
+    "Hồn",
+    "huyen"
   ],
   [
     "PHÁCH",
-    "Vía"
+    "Vía",
+    "sac"
   ],
   [
     "TỬ",
-    "Tía"
+    "Tía",
+    "hoi"
   ],
   [
     "THANH",
-    "Xanh"
+    "Xanh",
+    "ngang"
   ],
   [
     "TANG",
-    "Lành"
+    "Lành",
+    "ngang"
   ],
   [
     "HẢO",
-    "Tốt"
+    "Tốt",
+    "hoi"
   ],
   [
     "THIÊU",
-    "Đốt"
+    "Đốt",
+    "ngang"
   ],
   [
     "BỒI",
-    "Vùi"
+    "Vùi",
+    "huyen"
   ],
   [
     "TẠNG",
-    "Mồi"
+    "Mồi",
+    "nang"
   ],
   [
     "TÍCH",
-    "Dấu"
+    "Dấu",
+    "sac"
   ],
   [
     "PHANH",
-    "Nấu"
+    "Nấu",
+    "ngang"
   ],
   [
     "LẠN",
-    "Sôi"
+    "Sôi",
+    "nang"
   ],
   [
     "TOẠ",
-    "Ngồi"
+    "Ngồi",
+    "nang"
   ],
   [
     "BÀO",
-    "Nhảy"
+    "Nhảy",
+    "huyen"
   ],
   [
     "TIẾT",
-    "Chảy"
+    "Chảy",
+    "sac"
   ],
   [
     "PHIÊU",
-    "Trôi"
+    "Trôi",
+    "ngang"
   ],
   [
     "BỒI",
-    "Bồi"
+    "Bồi",
+    "huyen"
   ],
   [
     "THỤC",
-    "Chuộc"
+    "Chuộc",
+    "nang"
   ],
   [
     "CỰ",
-    "Đuốc"
+    "Đuốc",
+    "nang"
   ],
   [
     "LÔ",
-    "Lò"
+    "Lò",
+    "ngang"
   ],
   [
     "TẨN",
-    "Tro"
+    "Tro",
+    "hoi"
   ],
   [
     "TRẦN",
-    "Bụi"
+    "Bụi",
+    "huyen"
   ],
   [
     "PHỦ",
-    "Cúi"
+    "Cúi",
+    "hoi"
   ],
   [
     "SÂN",
-    "Giương"
+    "Giương",
+    "ngang"
   ],
   [
     "CHƯƠNG",
-    "Ngọc Chương"
+    "Ngọc Chương",
+    "ngang"
   ],
   [
     "UYỂN",
-    "Ngọc Uyển"
+    "Ngọc Uyển",
+    "hoi"
   ],
   [
     "LIỄN",
-    "Ngọc Liễn"
+    "Ngọc Liễn",
+    "nga"
   ],
   [
     "DAO",
-    "Ngọc Dao"
+    "Ngọc Dao",
+    "ngang"
   ],
   [
     "MỘ",
-    "Rao"
+    "Rao",
+    "nang"
   ],
   [
     "PHỎNG",
-    "Hỏi"
+    "Hỏi",
+    "hoi"
   ],
   [
     "NGỮ",
-    "Nói"
+    "Nói",
+    "nga"
   ],
   [
     "BÌNH",
-    "Bàn"
+    "Bàn",
+    "huyen"
   ],
   [
     "LAN",
-    "Giàn"
+    "Giàn",
+    "ngang"
   ],
   [
     "XƯỞNG",
-    "Xưởng"
+    "Xưởng",
+    "hoi"
   ],
   [
     "ĐÃNG",
-    "Phóng đãng"
+    "Phóng đãng",
+    "nga"
   ],
   [
     "PHIỀN",
-    "Phiền"
+    "Phiền",
+    "huyen"
   ],
   [
     "PHAN",
-    "Vin"
+    "Vin",
+    "ngang"
   ],
   [
     "LẠP",
-    "Bẻ"
+    "Bẻ",
+    "nang"
   ],
   [
     "TRÁNG",
-    "Khoẻ"
+    "Khoẻ",
+    "sac"
   ],
   [
     "SI",
-    "Ngây"
+    "Ngây",
+    "ngang"
   ],
   [
     "VI",
-    "Vây"
+    "Vây",
+    "ngang"
   ],
   [
     "TẬP",
-    "Úp"
+    "Úp",
+    "nang"
   ],
   [
     "CHUYẾT",
-    "Núp (Ném)"
+    "Núp (Ném)",
+    "sac"
   ],
   [
     "CÚC",
-    "Răn"
+    "Răn",
+    "sac"
   ],
   [
     "TRĂN",
-    "Sông Trăn"
+    "Sông Trăn",
+    "ngang"
   ],
   [
     "VĨ",
-    "Sông Vĩ"
+    "Sông Vĩ",
+    "nga"
   ],
   [
     "Ỷ",
-    "Ỷ"
+    "Ỷ",
+    "hoi"
   ],
   [
     "DƯ",
-    "Xe"
+    "Xe",
+    "ngang"
   ],
   [
     "THÍNH",
-    "Nghe"
+    "Nghe",
+    "sac"
   ],
   [
     "TUÂN",
-    "Hỏi"
+    "Hỏi",
+    "ngang"
   ],
   [
     "BÌ",
-    "Mỏi"
+    "Mỏi",
+    "huyen"
   ],
   [
     "LẠC",
-    "Vui"
+    "Vui",
+    "nang"
   ],
   [
     "HẠ",
-    "Rỗi"
+    "Rỗi",
+    "nang"
   ],
   [
     "MANG",
-    "Vội"
+    "Vội",
+    "ngang"
   ],
   [
     "MỘC",
-    "Gội"
+    "Gội",
+    "nang"
   ],
   [
     "NHU",
-    "Dầm"
+    "Dầm",
+    "ngang"
   ],
   [
     "TÊ",
-    "Cầm"
+    "Cầm",
+    "ngang"
   ],
   [
     "THỐ",
-    "Đặt"
+    "Đặt",
+    "sac"
   ],
   [
     "TIỄN",
-    "Cắt"
+    "Cắt",
+    "nga"
   ],
   [
     "CHÀNG",
-    "Đâm"
+    "Đâm",
+    "huyen"
   ],
   [
     "LÃM",
-    "Cầm"
+    "Cầm",
+    "nga"
   ],
   [
     "HUY",
-    "Vẫy lui"
+    "Vẫy lui",
+    "ngang"
   ],
   [
     "DUNG",
-    "Chảy (tan)"
+    "Chảy (tan)",
+    "ngang"
   ],
   [
     "PHÍ",
-    "Sôi"
+    "Sôi",
+    "sac"
   ],
   [
     "PHIẾM",
-    "Trôi"
+    "Trôi",
+    "sac"
   ],
   [
     "PHÙ",
-    "Nổi"
+    "Nổi",
+    "huyen"
   ],
   [
     "GIẢI",
-    "Cởi"
+    "Cởi",
+    "hoi"
   ],
   [
     "THAO",
-    "Cầm"
+    "Cầm",
+    "ngang"
   ],
   [
     "VỌNG",
-    "Ngày rằm"
+    "Ngày rằm",
+    "nang"
   ],
   [
     "SÓC",
-    "Mồng một"
+    "Mồng một",
+    "sac"
   ],
   [
     "LẬU",
-    "Dột"
+    "Dột",
+    "nang"
   ],
   [
     "LUÂN",
-    "Chìm"
+    "Chìm",
+    "ngang"
   ],
   [
     "MỊCH",
-    "Tìm"
+    "Tìm",
+    "nang"
   ],
   [
     "LUÂN",
-    "Chọn"
+    "Chọn",
+    "ngang"
   ],
   [
     "TIÊM",
-    "Nhọn"
+    "Nhọn",
+    "ngang"
   ],
   [
     "ĐỘT",
-    "Lồi"
+    "Lồi",
+    "nang"
   ],
   [
     "",
-    ""
+    "",
+    "ngang"
   ],
   [
     "SẤT",
-    "Quát"
+    "Quát",
+    "sac"
   ],
   [
     "SÁT",
-    "xát"
+    "xát",
+    "sac"
   ],
   [
     "XOA",
-    "Thoa"
+    "Thoa",
+    "ngang"
   ],
   [
     "LA",
-    "Mã la"
+    "Mã la",
+    "ngang"
   ],
   [
     "KHÁNH",
-    "Cái khánh"
+    "Cái khánh",
+    "sac"
   ],
   [
     "LỆNH",
-    "Lịnh"
+    "Lịnh",
+    "nang"
   ],
   [
     "ĐỀ",
-    "Bài"
+    "Bài",
+    "huyen"
   ],
   [
     "NGOẠI",
-    "Ngoài"
+    "Ngoài",
+    "nang"
   ],
   [
     "LINH",
-    "lẻ"
+    "lẻ",
+    "ngang"
   ],
   [
     "THÁI",
-    "Vẻ"
+    "Vẻ",
+    "sac"
   ],
   [
     "CƠ",
-    "Nền"
+    "Nền",
+    "ngang"
   ],
   [
     "QUÁN",
-    "Quen"
+    "Quen",
+    "sac"
   ],
   [
     "KỲ",
-    "Lạ"
+    "Lạ",
+    "huyen"
   ],
   [
     "NẶC",
-    "Dạ"
+    "Dạ",
+    "nang"
   ],
   [
     "THỪA",
-    "Vâng"
+    "Vâng",
+    "huyen"
   ],
   [
     "THƯỜNG",
-    "Từng"
+    "Từng",
+    "huyen"
   ],
   [
     "CÁI",
-    "Tượng"
+    "Tượng",
+    "sac"
   ],
   [
     "VƯỢNG",
-    "Vượng"
+    "Vượng",
+    "nang"
   ],
   [
     "NINH",
-    "An"
+    "An",
+    "ngang"
   ],
   [
     "CAN",
-    "Can"
+    "Can",
+    "ngang"
   ],
   [
     "HỆ",
-    "Hệ"
+    "Hệ",
+    "nang"
   ],
   [
     "TỪ",
-    "Tế"
+    "Tế",
+    "huyen"
   ],
   [
     "ĐẢO",
-    "Cầu"
+    "Cầu",
+    "hoi"
   ],
   [
     "TẤU",
-    "Tâu"
+    "Tâu",
+    "sac"
   ],
   [
     "TƯ",
-    "Hỏi"
+    "Hỏi",
+    "ngang"
   ],
   [
     "QUYỆN",
-    "Mỏi"
+    "Mỏi",
+    "nang"
   ],
   [
     "CHUYÊN",
-    "Chuyên"
+    "Chuyên",
+    "ngang"
   ],
   [
     "BIÊN",
-    "Ngoài biên"
+    "Ngoài biên",
+    "ngang"
   ],
   [
     "QUẬN",
-    "Ngoài quận"
+    "Ngoài quận",
+    "nang"
   ],
   [
     "LUẬN",
-    "Luận"
+    "Luận",
+    "nang"
   ],
   [
     "PHÊ",
-    "Phê"
+    "Phê",
+    "ngang"
   ],
   [
     "CỔ",
-    "Dê"
+    "Dê",
+    "hoi"
   ],
   [
     "TRƯ",
-    "Lợn"
+    "Lợn",
+    "ngang"
   ],
   [
     "VIÊN",
-    "Vượn"
+    "Vượn",
+    "ngang"
   ],
   [
     "ĐỘC",
-    "Trâu (nghé)"
+    "Trâu (nghé)",
+    "nang"
   ],
   [
     "CỨU",
-    "Tàu (ngựa)"
+    "Tàu (ngựa)",
+    "sac"
   ],
   [
     "BÀO",
-    "Bếp"
+    "Bếp",
+    "huyen"
   ],
   [
     "NHU",
-    "Nếp"
+    "Nếp",
+    "ngang"
   ],
   [
     "MẠCH",
-    "Lúa chiêm"
+    "Lúa chiêm",
+    "nang"
   ],
   [
     "TIÊM",
-    "Cái tiêm"
+    "Cái tiêm",
+    "ngang"
   ],
   [
     "THIẾP",
-    "cái thiếp"
+    "cái thiếp",
+    "sac"
   ],
   [
     "KIẾP",
-    "Cướp"
+    "Cướp",
+    "sac"
   ],
   [
     "THÂN",
-    "Mình"
+    "Mình",
+    "ngang"
   ],
   [
     "TỨ",
-    "Rình"
+    "Rình",
+    "sac"
   ],
   [
     "KIỀU",
-    "Ngóng"
+    "Ngóng",
+    "huyen"
   ],
   [
     "TẤN",
-    "Chóng"
+    "Chóng",
+    "sac"
   ],
   [
     "KÊ",
-    "Lâu"
+    "Lâu",
+    "ngang"
   ],
   [
     "TÀU",
-    "Chiếc tàu"
+    "Chiếc tàu",
+    "huyen"
   ],
   [
     "TRỤC",
-    "Lái"
+    "Lái",
+    "nang"
   ],
   [
     "HÃI",
-    "Hãi"
+    "Hãi",
+    "nga"
   ],
   [
     "KINH",
-    "Kinh"
+    "Kinh",
+    "ngang"
   ],
   [
     "CƯU",
-    "Cầu lành"
+    "Cầu lành",
+    "ngang"
   ],
   [
     "DỊCH",
-    "Quán"
+    "Quán",
+    "nang"
   ],
   [
     "BẢN",
-    "Ván"
+    "Ván",
+    "hoi"
   ],
   [
     "ĐINH",
-    "Đinh"
+    "Đinh",
+    "ngang"
   ],
   [
     "THIỆN",
-    "Lành"
+    "Lành",
+    "nang"
   ],
   [
     "HUY",
-    "Tốt"
+    "Tốt",
+    "ngang"
   ],
   [
     "LIỆU",
-    "dốt"
+    "dốt",
+    "nang"
   ],
   [
     "SAO",
-    "Rang"
+    "Rang",
+    "ngang"
   ],
   [
     "NHAM",
-    "Hang"
+    "Hang",
+    "ngang"
   ],
   [
     "HUYỆT",
-    "Lỗ"
+    "Lỗ",
+    "nang"
   ],
   [
     "DỤ",
-    "Dỗ"
+    "Dỗ",
+    "nang"
   ],
   [
     "CĂNG",
-    "Thương"
+    "Thương",
+    "ngang"
   ],
   [
     "ƯƠNG",
-    "Ương"
+    "Ương",
+    "ngang"
   ],
   [
     "HOẠCH",
-    "Gặt"
+    "Gặt",
+    "nang"
   ],
   [
     "KỲ",
-    "Cắt"
+    "Cắt",
+    "huyen"
   ],
   [
     "CỨ",
-    "Cưa"
+    "Cưa",
+    "sac"
   ],
   [
     "TỐNG",
-    "Đưa"
+    "Đưa",
+    "sac"
   ],
   [
     "PHÙNG",
-    "Gặp"
+    "Gặp",
+    "huyen"
   ],
   [
     "TRÚC",
-    "Đắp"
+    "Đắp",
+    "sac"
   ],
   [
     "TOÀN",
-    "Giùi"
+    "Giùi",
+    "huyen"
   ],
   [
     "DUY",
-    "Duy"
+    "Duy",
+    "ngang"
   ],
   [
     "KHỞI",
-    "Há"
+    "Há",
+    "hoi"
   ],
   [
     "GIÁ",
-    "Gả"
+    "Gả",
+    "sac"
   ],
   [
     "HÂN",
-    "Mừng"
+    "Mừng",
+    "ngang"
   ],
   [
     "CẨN",
-    "Nhưng"
+    "Nhưng",
+    "hoi"
   ],
   [
     "TƯ",
-    "Ấy"
+    "Ấy",
+    "ngang"
   ],
   [
     "HỸ",
-    "Vậy"
+    "Vậy",
+    "nga"
   ],
   [
     "DƯ",
-    "Thay"
+    "Thay",
+    "ngang"
   ],
   [
     "TUÝ",
-    "Say"
+    "Say",
+    "sac"
   ],
   [
     "MIÊU",
-    "Ngủ"
+    "Ngủ",
+    "ngang"
   ],
   [
     "THUỲ",
-    "Rũ"
+    "Rũ",
+    "huyen"
   ],
   [
     "TỨ",
-    "Cho"
+    "Cho",
+    "sac"
   ],
   [
     "LỘ",
-    "Cò"
+    "Cò",
+    "nang"
   ],
   [
     "THANH",
-    "Vạc"
+    "Vạc",
+    "ngang"
   ],
   [
     "THỔ",
-    "Khạc"
+    "Khạc",
+    "hoi"
   ],
   [
     "LÌNH",
-    "Nghe"
+    "Nghe",
+    "huyen"
   ],
   [
     "KHOA",
-    ""
+    "",
+    "ngang"
   ],
   [
     "KIỂU",
-    "Dối"
+    "Dối",
+    "hoi"
   ],
   [
     "KHẤU",
-    "Hỏi"
+    "Hỏi",
+    "sac"
   ],
   [
     "XAI",
-    "Ngờ"
+    "Ngờ",
+    "ngang"
   ],
   [
     "PHÒNG",
-    "Ngừa"
+    "Ngừa",
+    "huyen"
   ],
   [
     "BẢ",
-    "Giữ"
+    "Giữ",
+    "hoi"
   ],
   [
     "NGỰ",
-    "Ngự"
+    "Ngự",
+    "nang"
   ],
   [
     "TRUY",
-    "Theo"
+    "Theo",
+    "ngang"
   ],
   [
     "TRẠO",
-    "Chèo"
+    "Chèo",
+    "nang"
   ],
   [
     "THÔI",
-    "Đẩy"
+    "Đẩy",
+    "ngang"
   ],
   [
     "TRƯỚNG",
-    "Dẫy"
+    "Dẫy",
+    "sac"
   ],
   [
     "XUNG",
-    "Xông"
+    "Xông",
+    "ngang"
   ],
   [
     "HỒNG",
-    "Chim Hồng"
+    "Chim Hồng",
+    "huyen"
   ],
   [
     "CHÍ",
-    "Bồ cắt"
+    "Bồ cắt",
+    "sac"
   ],
   [
     "SẮT",
-    "Đàn Sắt"
+    "Đàn Sắt",
+    "sac"
   ],
   [
     "CẦM",
-    "Đàn Cầm"
+    "Đàn Cầm",
+    "huyen"
   ],
   [
     "NGỘ",
-    "Lầm"
+    "Lầm",
+    "nang"
   ],
   [
     "VÂN",
-    "Rối"
+    "Rối",
+    "ngang"
   ],
   [
     "THỐNG",
-    "Mối"
+    "Mối",
+    "sac"
   ],
   [
     "QUẦN",
-    "Bầy"
+    "Bầy",
+    "huyen"
   ],
   [
     "ĐẠI",
-    "Thay"
+    "Thay",
+    "nang"
   ],
   [
     "TAO",
-    "Gặp"
+    "Gặp",
+    "ngang"
   ],
   [
     "TẬP",
-    "Tập"
+    "Tập",
+    "nang"
   ],
   [
     "ÔN",
-    "Ôn"
+    "Ôn",
+    "ngang"
   ],
   [
     "CÔN",
-    "Cá côn"
+    "Cá côn",
+    "ngang"
   ],
   [
     "NGẠC",
-    "Cá Ngạc"
+    "Cá Ngạc",
+    "nang"
   ],
   [
     "NOẠ",
-    "Nhác"
+    "Nhác",
+    "nang"
   ],
   [
     "TẦN",
-    "Năng"
+    "Năng",
+    "huyen"
   ],
   [
     "VIẾT",
-    "Rằng"
+    "Rằng",
+    "sac"
   ],
   [
     "ĐÀM",
-    "Nói"
+    "Nói",
+    "huyen"
   ],
   [
     "GIAN",
-    "Cói"
+    "Cói",
+    "ngang"
   ],
   [
     "ĐỊCH",
-    "Lau"
+    "Lau",
+    "nang"
   ],
   [
     "TẦN",
-    "Cau mày"
+    "Cau mày",
+    "huyen"
   ],
   [
     "HOÃN",
-    "Mỉm"
+    "Mỉm",
+    "nga"
   ],
   [
     "CỐ",
-    "Chỉn"
+    "Chỉn",
+    "sac"
   ],
   [
     "VIÊN",
-    "Bèn"
+    "Bèn",
+    "ngang"
   ],
   [
     "GIANG",
-    "Đèn"
+    "Đèn",
+    "ngang"
   ],
   [
     "TÁO",
-    "Bếp"
+    "Bếp",
+    "sac"
   ],
   [
     "HIỆP",
-    "Hẹp"
+    "Hẹp",
+    "nang"
   ],
   [
     "LONG",
-    "Cao"
+    "Cao",
+    "ngang"
   ],
   [
     "THỌ",
-    "Trao"
+    "Trao",
+    "nang"
   ],
   [
     "PHI",
-    "Mở"
+    "Mở",
+    "ngang"
   ],
   [
     "PHÁ",
-    "Vỡ"
+    "Vỡ",
+    "sac"
   ],
   [
     "TÀN",
-    "Tàn"
+    "Tàn",
+    "huyen"
   ],
   [
     "THÁN",
-    "Than"
+    "Than",
+    "sac"
   ],
   [
     "HOA",
-    "Dức"
+    "Dức",
+    "ngang"
   ],
   [
     "LỰC",
-    "Sức"
+    "Sức",
+    "nang"
   ],
   [
     "DU",
-    "Mưu"
+    "Mưu",
+    "ngang"
   ],
   [
     "LƯU",
-    "Họ Lưu"
+    "Họ Lưu",
+    "ngang"
   ],
   [
     "NGUYỄN",
-    "Họ Nguyễn"
+    "Họ Nguyễn",
+    "nga"
   ],
   [
     "CHUYỂN",
-    "Chuyển"
+    "Chuyển",
+    "hoi"
   ],
   [
     "TUẦN",
-    "Noi"
+    "Noi",
+    "huyen"
   ],
   [
     "CHIẾU",
-    "Soi"
+    "Soi",
+    "sac"
   ],
   [
     "LÂM",
-    "Đến"
+    "Đến",
+    "ngang"
   ],
   [
     "TRINH",
-    "Hến"
+    "Hến",
+    "ngang"
   ],
   [
     "DƯ",
-    "Sam"
+    "Sam",
+    "ngang"
   ],
   [
     "LAM",
-    "Tham"
+    "Tham",
+    "ngang"
   ],
   [
     "THỊ",
-    "Muốn"
+    "Muốn",
+    "nang"
   ],
   [
     "PHÍ",
-    "Tốn"
+    "Tốn",
+    "sac"
   ],
   [
     "DOANH",
-    "Dư"
+    "Dư",
+    "ngang"
   ],
   [
     "SƯ",
-    "Con Sư"
+    "Con Sư",
+    "ngang"
   ],
   [
     "KÝ",
-    "Ngựa Ký"
+    "Ngựa Ký",
+    "sac"
   ],
   [
     "TỴ",
-    "Chi TỴ"
+    "Chi TỴ",
+    "nang"
   ],
   [
     "THÌN",
-    "Chi Thìn"
+    "Chi Thìn",
+    "huyen"
   ],
   [
     "TRÍ",
-    "Bền"
+    "Bền",
+    "sac"
   ],
   [
     "DI",
-    "Phẳng"
+    "Phẳng",
+    "ngang"
   ],
   [
     "CHƯƠNG",
-    "Xẳng"
+    "Xẳng",
+    "ngang"
   ],
   [
     "SÀM",
-    "Dèm"
+    "Dèm",
+    "huyen"
   ],
   [
     "LIÊM",
-    "Rèm"
+    "Rèm",
+    "ngang"
   ],
   [
     "DŨ",
-    "Cửa sổ"
+    "Cửa sổ",
+    "nga"
   ],
   [
     "TẨY",
-    "Rửa"
+    "Rửa",
+    "hoi"
   ],
   [
     "TRẦM",
-    "Chìm"
+    "Chìm",
+    "huyen"
   ],
   [
     "DẠ",
-    "Đêm"
+    "Đêm",
+    "nang"
   ],
   [
     "HÔN",
-    "Tối"
+    "Tối",
+    "ngang"
   ],
   [
     "TRÁ",
-    "Dối"
+    "Dối",
+    "sac"
   ],
   [
     "GIAN",
-    "Gian"
+    "Gian",
+    "ngang"
   ],
   [
     "YÊN",
-    "Cái Yên"
+    "Cái Yên",
+    "ngang"
   ],
   [
     "BÍ",
-    "Dây khấu"
+    "Dây khấu",
+    "sac"
   ],
   [
     "THẤU",
-    "Thấu"
+    "Thấu",
+    "sac"
   ],
   [
     "TIÊU",
-    "Tiêu"
+    "Tiêu",
+    "ngang"
   ],
   [
     "KIÊU",
-    "Kiêu"
+    "Kiêu",
+    "ngang"
   ],
   [
     "NGẠO",
-    "Ngạo"
+    "Ngạo",
+    "nang"
   ],
   [
     "MẠO",
-    "Mạo"
+    "Mạo",
+    "nang"
   ],
   [
     "NHÂN",
-    "Nhân"
+    "Nhân",
+    "ngang"
   ],
   [
     "XUÂN",
-    "Xuân"
+    "Xuân",
+    "ngang"
   ],
   [
     "NHUẬN",
-    "Nhuần"
+    "Nhuần",
+    "nang"
   ],
   [
     "THUẤN",
-    "Thuấn"
+    "Thuấn",
+    "sac"
   ],
   [
     "NGHIÊU",
-    "Nghiêu"
+    "Nghiêu",
+    "ngang"
   ],
   [
     "BẾ",
-    "Yêu"
+    "Yêu",
+    "sac"
   ],
   [
     "SÙNG",
-    "Chuộng"
+    "Chuộng",
+    "huyen"
   ],
   [
     "ĐỒ",
-    "Luống"
+    "Luống",
+    "huyen"
   ],
   [
     "KHÁP",
-    "Vừa"
+    "Vừa",
+    "sac"
   ],
   [
     "LƯ",
-    "Con Lừa"
+    "Con Lừa",
+    "ngang"
   ],
   [
     "SÀI",
-    "Con Sại"
+    "Con Sại",
+    "huyen"
   ],
   [
     "NGẠI",
-    "Ngại"
+    "Ngại",
+    "nang"
   ],
   [
     "KHOAN",
-    "Khoan"
+    "Khoan",
+    "ngang"
   ],
   [
     "ĐÀN",
-    "Đàn"
+    "Đàn",
+    "huyen"
   ],
   [
     "VIỆN",
-    "Viện"
+    "Viện",
+    "nang"
   ],
   [
     "TIỆN",
-    "Tiện"
+    "Tiện",
+    "nang"
   ],
   [
     "HOAN",
-    "Vui"
+    "Vui",
+    "ngang"
   ],
   [
     "TUY",
-    "Rau mùi"
+    "Rau mùi",
+    "ngang"
   ],
   [
     "CỬ",
-    "Rau diếp"
+    "Rau diếp",
+    "hoi"
   ],
   [
     "HIỆP",
-    "Hiệp"
+    "Hiệp",
+    "nang"
   ],
   [
     "TƯ",
-    "Đều"
+    "Đều",
+    "ngang"
   ],
   [
     "ĐIÊU",
-    "Con Điêu"
+    "Con Điêu",
+    "ngang"
   ],
   [
     "THỈ",
-    "Con Lợn"
+    "Con Lợn",
+    "hoi"
   ],
   [
     "CỰ",
-    "Lớn"
+    "Lớn",
+    "nang"
   ],
   [
     "TƯ",
-    "Thêm"
+    "Thêm",
+    "ngang"
   ],
   [
     "THUỴ",
-    "Điềm"
+    "Điềm",
+    "nang"
   ],
   [
     "YÊU",
-    "Gở"
+    "Gở",
+    "ngang"
   ],
   [
     "TRỞ",
-    "Trở"
+    "Trở",
+    "hoi"
   ],
   [
     "LAN",
-    "Ngăn"
+    "Ngăn",
+    "ngang"
   ],
   [
     "GIÁI",
-    "Răn"
+    "Răn",
+    "sac"
   ],
   [
     "LY",
-    "Sửa"
+    "Sửa",
+    "ngang"
   ],
   [
     "TRỢ",
-    "Đỡ"
+    "Đỡ",
+    "nang"
   ],
   [
     "THOAN",
-    "Chừa"
+    "Chừa",
+    "ngang"
   ],
   [
     "BỊ",
-    "Ngừa"
+    "Ngừa",
+    "nang"
   ],
   [
     "ĐỒN",
-    "Đóng"
+    "Đóng",
+    "huyen"
   ],
   [
     "HU",
-    "Ngóng"
+    "Ngóng",
+    "ngang"
   ],
   [
     "THỊ",
-    "Xem"
+    "Xem",
+    "nang"
   ],
   [
     "TÊ",
-    "Đem"
+    "Đem",
+    "ngang"
   ],
   [
     "HIẾN",
-    "Hiến"
+    "Hiến",
+    "sac"
   ],
   [
     "BẰNG",
-    "Khiến"
+    "Khiến",
+    "huyen"
   ],
   [
     "ĐỆ",
-    "Đưa"
+    "Đưa",
+    "nang"
   ],
   [
     "VÂN",
-    "Bừa"
+    "Bừa",
+    "ngang"
   ],
   [
     "BÁ",
-    "Vải"
+    "Vải",
+    "sac"
   ],
   [
     "CHỬ",
-    "Bãi"
+    "Bãi",
+    "hoi"
   ],
   [
     "NHAI",
-    "Bờ"
+    "Bờ",
+    "ngang"
   ],
   [
     "SỰ",
-    "Thờ"
+    "Thờ",
+    "nang"
   ],
   [
     "KHÂM",
-    "Kính"
+    "Kính",
+    "ngang"
   ],
   [
     "CHÍNH",
-    "Chính"
+    "Chính",
+    "sac"
   ],
   [
     "HÌNH",
-    "Hình"
+    "Hình",
+    "huyen"
   ],
   [
     "HỒI",
-    "Quanh"
+    "Quanh",
+    "huyen"
   ],
   [
     "TỐ",
-    "Ngược"
+    "Ngược",
+    "sac"
   ],
   [
     "THẮNG",
-    "Được"
+    "Được",
+    "sac"
   ],
   [
     "ƯU",
-    "Hơn"
+    "Hơn",
+    "ngang"
   ],
   [
     "TIẾT",
-    "Nhờn (lờn)"
+    "Nhờn (lờn)",
+    "sac"
   ],
   [
     "CUNG",
-    "Kính"
+    "Kính",
+    "ngang"
   ],
   [
     "VỊNH",
-    "Vịnh"
+    "Vịnh",
+    "nang"
   ],
   [
     "NGÂM",
-    "Ngâm"
+    "Ngâm",
+    "ngang"
   ],
   [
     "TẨM",
-    "Dầm"
+    "Dầm",
+    "hoi"
   ],
   [
     "TRỪNG",
-    "Lóng"
+    "Lóng",
+    "huyen"
   ],
   [
     "BÀN",
-    "Đứng"
+    "Đứng",
+    "huyen"
   ],
   [
     "NHIỄU",
-    "Quanh"
+    "Quanh",
+    "nga"
   ],
   [
     "LINH",
-    "Lanh"
+    "Lanh",
+    "ngang"
   ],
   [
     "LỢI",
-    "Lợi"
+    "Lợi",
+    "nang"
   ],
   [
     "ĐÃI",
-    "Đợi"
+    "Đợi",
+    "nga"
   ],
   [
     "DUNG",
-    "Dong"
+    "Dong",
+    "ngang"
   ],
   [
     "LOAN",
-    "Cong"
+    "Cong",
+    "ngang"
   ],
   [
     "NHU",
-    "Uốn"
+    "Uốn",
+    "ngang"
   ],
   [
     "DỤC",
-    "Muốn"
+    "Muốn",
+    "nang"
   ],
   [
     "AM",
-    "Quen"
+    "Quen",
+    "ngang"
   ],
   [
     "NÃI",
-    "Bèn"
+    "Bèn",
+    "nga"
   ],
   [
     "Y",
-    "Ấy"
+    "Ấy",
+    "ngang"
   ],
   [
     "HỀ",
-    "Vậy"
+    "Vậy",
+    "huyen"
   ],
   [
     "NHƯỢC",
-    "Bằng"
+    "Bằng",
+    "nang"
   ],
   [
     "MẠC",
-    "Chăng"
+    "Chăng",
+    "nang"
   ],
   [
     "HY",
-    "Ít"
+    "Ít",
+    "ngang"
   ],
   [
     "TẬN",
-    "Hết"
+    "Hết",
+    "nang"
   ],
   [
     "TRÙ",
-    "Nhiều"
+    "Nhiều",
+    "huyen"
   ],
   [
     "HIÊU",
-    "Cú mèo"
+    "Cú mèo",
+    "ngang"
   ],
   [
     "YẾN",
-    "Chim Yến"
+    "Chim Yến",
+    "sac"
   ],
   [
     "PHÙ",
-    "Chà chiện"
+    "Chà chiện",
+    "huyen"
   ],
   [
     "LINH",
-    "Choi choi"
+    "Choi choi",
+    "ngang"
   ],
   [
     "THOAN",
-    "Cái thoi"
+    "Cái thoi",
+    "ngang"
   ],
   [
     "TRỤC",
-    "Cuốn vải"
+    "Cuốn vải",
+    "nang"
   ],
   [
     "KÝ",
-    "Gởi"
+    "Gởi",
+    "sac"
   ],
   [
     "KỲ",
-    "Cầu"
+    "Cầu",
+    "huyen"
   ],
   [
     "THỌ",
-    "Sống lâu"
+    "Sống lâu",
+    "nang"
   ],
   [
     "KHANG",
-    "Mạnh khoẻ"
+    "Mạnh khoẻ",
+    "ngang"
   ],
   [
     "PHÚ",
-    "Thuế"
+    "Thuế",
+    "sac"
   ],
   [
     "THUYÊN",
-    "Lường"
+    "Lường",
+    "ngang"
   ],
   [
     "UÔNG",
-    "Mênh mang"
+    "Mênh mang",
+    "ngang"
   ],
   [
     "DU",
-    "Lội"
+    "Lội",
+    "ngang"
   ],
   [
     "DÃ",
-    "Nội"
+    "Nội",
+    "nga"
   ],
   [
     "ĐÌNH",
-    "Triều đình"
+    "Triều đình",
+    "huyen"
   ],
   [
     "KÌNH",
-    "Cá kình"
+    "Cá kình",
+    "huyen"
   ],
   [
     "NHẠN",
-    "Chim nhạn"
+    "Chim nhạn",
+    "nang"
   ],
   [
     "BẰNG",
-    "Bạn"
+    "Bạn",
+    "huyen"
   ],
   [
     "PHỤ",
-    "Cha"
+    "Cha",
+    "nang"
   ],
   [
     "DAO",
-    "Xa"
+    "Xa",
+    "ngang"
   ],
   [
     "MẠC",
-    "Vắng"
+    "Vắng",
+    "nang"
   ],
   [
     "THẢN",
-    "Phẳng"
+    "Phẳng",
+    "hoi"
   ],
   [
     "OANH",
-    "Quanh"
+    "Quanh",
+    "ngang"
   ],
   [
     "TINH",
-    "Tanh"
+    "Tanh",
+    "ngang"
   ],
   [
     "XÚ",
-    "Thối"
+    "Thối",
+    "sac"
   ],
   [
     "ĐỘI",
-    "Đội"
+    "Đội",
+    "nang"
   ],
   [
     "ĐOÀN",
-    "Đoàn"
+    "Đoàn",
+    "huyen"
   ],
   [
     "LIÊU",
-    "Quan"
+    "Quan",
+    "ngang"
   ],
   [
     "LẠI",
-    "Thuộc"
+    "Thuộc",
+    "nang"
   ],
   [
     "LỆ",
-    "Buộc"
+    "Buộc",
+    "nang"
   ],
   [
     "TRIỀN",
-    "Đi"
+    "Đi",
+    "huyen"
   ],
   [
     "LY",
-    "Ly"
+    "Ly",
+    "ngang"
   ],
   [
     "THỐN",
-    "Tấc"
+    "Tấc",
+    "sac"
   ],
   [
     "ÁCH",
-    "Nấc"
+    "Nấc",
+    "sac"
   ],
   [
     "XI",
-    "Cười"
+    "Cười",
+    "ngang"
   ],
   [
     "TINH",
-    "Đười ươi"
+    "Đười ươi",
+    "ngang"
   ],
   [
     "SẠT",
-    "Chim Vạc"
+    "Chim Vạc",
+    "nang"
   ],
   [
     "NGÂN",
-    "Bạc"
+    "Bạc",
+    "ngang"
   ],
   [
     "XUYẾN",
-    "Vòng"
+    "Vòng",
+    "sac"
   ],
   [
     "GIANG",
-    "Sông"
+    "Sông",
+    "ngang"
   ],
   [
     "HỬ ",
-    "Bến"
+    "Bến",
+    "hoi"
   ],
   [
     "TRÍ",
-    "Đến"
+    "Đến",
+    "sac"
   ],
   [
     "XIÊM",
-    "Lên"
+    "Lên",
+    "ngang"
   ],
   [
     "ĐIỆN",
-    "Đền"
+    "Đền",
+    "nang"
   ],
   [
     "QUAN",
-    "Ải"
+    "Ải",
+    "ngang"
   ],
   [
     "TỨC",
-    "Lãi"
+    "Lãi",
+    "sac"
   ],
   [
     "NGUYÊN",
-    "Nguyên"
+    "Nguyên",
+    "ngang"
   ],
   [
     "KHUYẾN",
-    "Khuyên"
+    "Khuyên",
+    "sac"
   ],
   [
     "XU",
-    "Hỏi"
+    "Hỏi",
+    "ngang"
   ],
   [
     "THOÁT",
-    "Khỏi"
+    "Khỏi",
+    "sac"
   ],
   [
     "NHIÊU",
-    "Tha"
+    "Tha",
+    "ngang"
   ],
   [
     "NHI",
-    "Mà"
+    "Mà",
+    "ngang"
   ],
   [
     "THẢ",
-    "Vã"
+    "Vã",
+    "hoi"
   ],
   [
     "CỰ",
-    "Há"
+    "Há",
+    "nang"
   ],
   [
     "TUY",
-    "Tuy"
+    "Tuy",
+    "ngang"
   ],
   [
     "KỲ",
-    "Sông Kỳ"
+    "Sông Kỳ",
+    "huyen"
   ],
   [
     "DĨ",
-    "Sông Dĩ"
+    "Sông Dĩ",
+    "nga"
   ],
   [
     "VỊ",
-    "Sông Vị"
+    "Sông Vị",
+    "nang"
   ],
   [
     "KINH",
-    "Sông Kinh"
+    "Sông Kinh",
+    "ngang"
   ],
   [
     "DINH",
-    "Dinh"
+    "Dinh",
+    "ngang"
   ],
   [
     "TỈNH",
-    "Tỉnh"
+    "Tỉnh",
+    "hoi"
   ],
   [
     "CÂU",
-    "Rãnh"
+    "Rãnh",
+    "ngang"
   ],
   [
     "KHOÁI",
-    "Ngòi"
+    "Ngòi",
+    "sac"
   ],
   [
     "TIÊN",
-    "Roi"
+    "Roi",
+    "ngang"
   ],
   [
     "LẶC",
-    "Khấu"
+    "Khấu",
+    "nang"
   ],
   [
     "LANG",
-    "Châu chấu"
+    "Châu chấu",
+    "ngang"
   ],
   [
     "QUẢ",
-    "Tò vò"
+    "Tò vò",
+    "hoi"
   ],
   [
     "CÁP",
-    "Sò"
+    "Sò",
+    "sac"
   ],
   [
     "LOA",
-    "Ốc"
+    "Ốc",
+    "ngang"
   ],
   [
     "ĐẨU",
-    "Nong nóc"
+    "Nong nóc",
+    "hoi"
   ],
   [
     "NGA",
-    "Con Ngài"
+    "Con Ngài",
+    "ngang"
   ],
   [
     "BỨC",
-    "Dơi"
+    "Dơi",
+    "sac"
   ],
   [
     "MINH",
-    "Nhện"
+    "Nhện",
+    "ngang"
   ],
   [
     "LIỄN",
-    "xe liễn"
+    "xe liễn",
+    "nga"
   ],
   [
     "DƯ",
-    "Xe"
+    "Xe",
+    "ngang"
   ],
   [
     "MÍNH",
-    "Chè"
+    "Chè",
+    "sac"
   ],
   [
     "TIÊU",
-    "Chuối"
+    "Chuối",
+    "ngang"
   ],
   [
     "NGOÃ",
-    "Ngói"
+    "Ngói",
+    "nga"
   ],
   [
     "MAO",
-    "Tranh"
+    "Tranh",
+    "ngang"
   ],
   [
     "LINH",
-    "Cỏ Linh"
+    "Cỏ Linh",
+    "ngang"
   ],
   [
     "CÁT",
-    "Dây Sắn"
+    "Dây Sắn",
+    "sac"
   ],
   [
     "XẠ",
-    "Bắn"
+    "Bắn",
+    "nang"
   ],
   [
     "ĐIỀN",
-    "Săn"
+    "Săn",
+    "huyen"
   ],
   [
     "LÂN",
-    "Lân"
+    "Lân",
+    "ngang"
   ],
   [
     "HỘC",
-    "Chim hộc"
+    "Chim hộc",
+    "nang"
   ],
   [
     "LĂNG",
-    "Góc"
+    "Góc",
+    "ngang"
   ],
   [
     "CHỈ",
-    "Thềm"
+    "Thềm",
+    "hoi"
   ],
   [
     "TĂNG",
-    "Thêm"
+    "Thêm",
+    "ngang"
   ],
   [
     "TỔN",
-    "Bớt"
+    "Bớt",
+    "hoi"
   ],
   [
     "VIỆN",
-    "Vớt"
+    "Vớt",
+    "nang"
   ],
   [
     "MÔN",
-    "Sờ"
+    "Sờ",
+    "ngang"
   ],
   [
     "PHÙ",
-    "Phù du"
+    "Phù du",
+    "huyen"
   ],
   [
     "ĐIỆP",
-    "Bướm"
+    "Bướm",
+    "nang"
   ],
   [
     "LÃM",
-    "Cây trám"
+    "Cây trám",
+    "nga"
   ],
   [
     "CHI",
-    "Dành dành"
+    "Dành dành",
+    "ngang"
   ],
   [
     "LAM",
-    "Trành"
+    "Trành",
+    "ngang"
   ],
   [
     "HIỆP",
-    "Níp"
+    "Níp",
+    "nang"
   ],
   [
     "HẠP",
-    "Hộp"
+    "Hộp",
+    "nang"
   ],
   [
     "LIÊM",
-    "Hộp gương"
+    "Hộp gương",
+    "ngang"
   ],
   [
     "TRANH",
-    "Đờn"
+    "Đờn",
+    "ngang"
   ],
   [
     "QUẢN",
-    "Sáo"
+    "Sáo",
+    "hoi"
   ],
   [
     "TƯ",
-    ""
+    "",
+    "ngang"
   ],
   [
     "XÁN",
-    "Cơm"
+    "Cơm",
+    "sac"
   ],
   [
     "PHƯƠNG",
-    "Thơm"
+    "Thơm",
+    "ngang"
   ],
   [
     "BẢO",
-    "Báu"
+    "Báu",
+    "hoi"
   ],
   [
     "LẬU",
-    "Lậu"
+    "Lậu",
+    "nang"
   ],
   [
     "TỬ",
-    "Chê"
+    "Chê",
+    "hoi"
   ],
   [
     "LÊ",
-    "Cây lê"
+    "Cây lê",
+    "ngang"
   ],
   [
     "LẬT",
-    "Cây Lật"
+    "Cây Lật",
+    "nang"
   ],
   [
     "NGỖ",
-    "Nghịch"
+    "Nghịch",
+    "nga"
   ],
   [
     "YÊM",
-    "Giầm"
+    "Giầm",
+    "ngang"
   ],
   [
     "GIANG",
-    "Cùm"
+    "Cùm",
+    "ngang"
   ],
   [
     "NHIÊN",
-    "Vuốt"
+    "Vuốt",
+    "ngang"
   ],
   [
     "TIẾT",
-    "Đốt"
+    "Đốt",
+    "sac"
   ],
   [
     "HÀNH",
-    "Cọng rơm"
+    "Cọng rơm",
+    "huyen"
   ],
   [
     "LÂU",
-    "Ôm"
+    "Ôm",
+    "ngang"
   ],
   [
     "BÃO",
-    "Ấp"
+    "Ấp",
+    "nga"
   ],
   [
     "DỊCH",
-    "Cắp"
+    "Cắp",
+    "nang"
   ],
   [
     "DƯỢNG",
-    "Giương"
+    "Giương",
+    "nang"
   ],
   [
     "ĐIẾU",
-    "Thương"
+    "Thương",
+    "sac"
   ],
   [
     "QUYÊN",
-    "Bỏ vô"
+    "Bỏ vô",
+    "ngang"
   ],
   [
     "HẦU",
-    "Cơm khô"
+    "Cơm khô",
+    "huyen"
   ],
   [
     "HỒ",
-    "Hồ"
+    "Hồ",
+    "huyen"
   ],
   [
     "NGÔ",
-    "Cây ngô"
+    "Cây ngô",
+    "ngang"
   ],
   [
     "CHỈ",
-    "Cây chỉ"
+    "Cây chỉ",
+    "hoi"
   ],
   [
     "DĨ",
-    "Cây dĩ"
+    "Cây dĩ",
+    "nga"
   ],
   [
     "VÂN",
-    "Cây vân"
+    "Cây vân",
+    "ngang"
   ],
   [
     "THUẦN",
-    "Rau thuần"
+    "Rau thuần",
+    "huyen"
   ],
   [
     "HẠNH",
-    "Rau hạnh"
+    "Rau hạnh",
+    "nang"
   ],
   [
     "TÝ",
-    "Cánh"
+    "Cánh",
+    "sac"
   ],
   [
     "CHI",
-    "Chơn tay"
+    "Chơn tay",
+    "ngang"
   ],
   [
     "ĐÌNH",
-    "Rau đay"
+    "Rau đay",
+    "huyen"
   ],
   [
     "CẨN",
-    "Dâm bụt"
+    "Dâm bụt",
+    "hoi"
   ],
   [
     "TRẤP",
-    "Nước cốt"
+    "Nước cốt",
+    "sac"
   ],
   [
     "CAM",
-    "Nước cơm"
+    "Nước cơm",
+    "ngang"
   ],
   [
     "PHỨC",
-    "Thơm"
+    "Thơm",
+    "sac"
   ],
   [
     "ĐIỀM",
-    "Ngọt"
+    "Ngọt",
+    "huyen"
   ],
   [
     "TÂN",
-    "Nước bọt"
+    "Nước bọt",
+    "ngang"
   ],
   [
     "HÃN",
-    "Mồ hôi"
+    "Mồ hôi",
+    "nga"
   ],
   [
     "HỒI",
-    "Cây Hồi"
+    "Cây Hồi",
+    "huyen"
   ],
   [
     "GIÁP",
-    "Bồ kết"
+    "Bồ kết",
+    "sac"
   ],
   [
     "QUYẾT",
-    "Rau quyết"
+    "Rau quyết",
+    "sac"
   ],
   [
     "VI",
-    "Rau vi"
+    "Rau vi",
+    "ngang"
   ],
   [
     "CHI",
-    "Cỏ chi"
+    "Cỏ chi",
+    "ngang"
   ],
   [
     "LỰU",
-    "Cây Lựu"
+    "Cây Lựu",
+    "nang"
   ],
   [
     "TRIỆU",
-    "Nước Triệu"
+    "Nước Triệu",
+    "nang"
   ],
   [
     "HY",
-    "Vua Hy"
+    "Vua Hy",
+    "ngang"
   ],
   [
     "TỸ",
-    "Đi"
+    "Đi",
+    "nga"
   ],
   [
     "DỤC",
-    "Tắm"
+    "Tắm",
+    "nang"
   ],
   [
     "SỨC",
-    "Sắm"
+    "Sắm",
+    "sac"
   ],
   [
     "TRANG",
-    "Giồi"
+    "Giồi",
+    "ngang"
   ],
   [
     "CHUỶ",
-    "(môi) muỗng"
+    "(môi) muỗng",
+    "hoi"
   ],
   [
     "TỪ",
-    "Dĩa"
+    "Dĩa",
+    "huyen"
   ],
   [
     "ĐIỆT",
-    "Con Đỉa"
+    "Con Đỉa",
+    "nang"
   ],
   [
     "KHEO",
-    "Con giun"
+    "Con giun",
+    "ngang"
   ],
   [
     "HUÂN",
-    "Hun"
+    "Hun",
+    "ngang"
   ],
   [
     "CHƯỚC",
-    "Đốt"
+    "Đốt",
+    "sac"
   ],
   [
     "ÂU",
-    "Bọt"
+    "Bọt",
+    "ngang"
   ],
   [
     "NÁO",
-    "Bùn"
+    "Bùn",
+    "sac"
   ],
   [
     "DẪN",
-    "Trùng"
+    "Trùng",
+    "nga"
   ],
   [
     "CÙNG",
-    "Dế"
+    "Dế",
+    "huyen"
   ],
   [
     "CỔ",
-    "vế"
+    "vế",
+    "hoi"
   ],
   [
     "CUNG",
-    "Mình"
+    "Mình",
+    "ngang"
   ],
   [
     "TRIẾT",
-    "Lành"
+    "Lành",
+    "sac"
   ],
   [
     "CÔNG",
-    "Khéo"
+    "Khéo",
+    "ngang"
   ],
   [
     "DŨ",
-    "Méo"
+    "Méo",
+    "nga"
   ],
   [
     "LOAN",
-    "Tròn"
+    "Tròn",
+    "ngang"
   ],
   [
     "HOÀN",
-    "Hòn"
+    "Hòn",
+    "huyen"
   ],
   [
     "PHIẾN",
-    "Tấm"
+    "Tấm",
+    "sac"
   ],
   [
     "THIỆP",
-    "Thấm"
+    "Thấm",
+    "nang"
   ],
   [
     "TUẤT",
-    "Thương"
+    "Thương",
+    "sac"
   ],
   [
     "THÁP",
-    "Giường"
+    "Giường",
+    "sac"
   ],
   [
     "BA",
-    "Liếp"
+    "Liếp",
+    "ngang"
   ],
   [
     "CẬP",
-    "Níp"
+    "Níp",
+    "nang"
   ],
   [
     "CÂU",
-    "Lồng"
+    "Lồng",
+    "ngang"
   ],
   [
     "KHUNG",
-    "Xuyên khung"
+    "Xuyên khung",
+    "ngang"
   ],
   [
     "CÚC",
-    "Hoa cúc"
+    "Hoa cúc",
+    "sac"
   ],
   [
     "PHỤC",
-    "Phục linh"
+    "Phục linh",
+    "nang"
   ],
   [
     "MAN",
-    "Dây man"
+    "Dây man",
+    "ngang"
   ],
   [
     "NHÂM",
-    "Đan"
+    "Đan",
+    "ngang"
   ],
   [
     "TU",
-    "Sửa"
+    "Sửa",
+    "ngang"
   ],
   [
     "TRỮ",
-    "Chứa"
+    "Chứa",
+    "nga"
   ],
   [
     "BỒI",
-    "Bồi"
+    "Bồi",
+    "huyen"
   ],
   [
     "SUY",
-    "Thôi"
+    "Thôi",
+    "ngang"
   ],
   [
     "DUYỆT",
-    "Hớn hở"
+    "Hớn hở",
+    "nang"
   ],
   [
     "THÍ",
-    "Thử"
+    "Thử",
+    "sac"
   ],
   [
     "KHIẾM",
-    "Đánh lừa"
+    "Đánh lừa",
+    "sac"
   ],
   [
     "DƯƠNG",
-    "Giảđò"
+    "Giảđò",
+    "ngang"
   ],
   [
     "BIỂN",
-    "Dối"
+    "Dối",
+    "hoi"
   ],
   [
     "LỖI",
-    "Máy dối"
+    "Máy dối",
+    "nga"
   ],
   [
     "KHÔI",
-    "Làm trò"
+    "Làm trò",
+    "ngang"
   ],
   [
     "THÁC",
-    "Mo"
+    "Mo",
+    "sac"
   ],
   [
     "CAI",
-    "Rễ"
+    "Rễ",
+    "ngang"
   ],
   [
     "LỄ",
-    "Rượu Lễ"
+    "Rượu Lễ",
+    "nga"
   ],
   [
     "THUẦN",
-    "Rượu Thuần"
+    "Rượu Thuần",
+    "huyen"
   ],
   [
     "KHIÊN",
-    "Xăn quần"
+    "Xăn quần",
+    "ngang"
   ],
   [
     "ĐẢN",
-    "Xăn áo"
+    "Xăn áo",
+    "hoi"
   ],
   [
     "CHIÊN",
-    "Cháo"
+    "Cháo",
+    "ngang"
   ],
   [
     "XÚ",
-    "Lương"
+    "Lương",
+    "sac"
   ],
   [
     "ĐƯỜNG",
-    "Đường"
+    "Đường",
+    "huyen"
   ],
   [
     "MẬT",
-    "Mật"
+    "Mật",
+    "nang"
   ],
   [
     "KẾT",
-    "Thắt"
+    "Thắt",
+    "sac"
   ],
   [
     "CÂU",
-    "Cầm"
+    "Cầm",
+    "ngang"
   ],
   [
     "PHIẾU",
-    "Đâm"
+    "Đâm",
+    "sac"
   ],
   [
     "KHUÊ",
-    "Mổ"
+    "Mổ",
+    "ngang"
   ],
   [
     "THỔ",
-    "Mửa"
+    "Mửa",
+    "hoi"
   ],
   [
     "TẦN",
-    "Cười"
+    "Cười",
+    "huyen"
   ],
   [
     "ĐẾ",
-    "Hắt hơi"
+    "Hắt hơi",
+    "sac"
   ],
   [
     "SIÊU",
-    "Đằng hắng"
+    "Đằng hắng",
+    "ngang"
   ],
   [
     "HA",
-    "Mắng"
+    "Mắng",
+    "ngang"
   ],
   [
     "TÁN",
-    "Khen"
+    "Khen",
+    "sac"
   ],
   [
     "KÌNH",
-    "Chơn đèn"
+    "Chơn đèn",
+    "huyen"
   ],
   [
     "TUỆ",
-    "Chổi"
+    "Chổi",
+    "nang"
   ],
   [
     "XAN",
-    "Thổi (cơm)"
+    "Thổi (cơm)",
+    "ngang"
   ],
   [
     "BỘC",
-    "Phơi"
+    "Phơi",
+    "nang"
   ],
   [
     "THÔI",
-    "Áo tơi"
+    "Áo tơi",
+    "ngang"
   ],
   [
     "LẠP",
-    "Nón"
+    "Nón",
+    "nang"
   ],
   [
     "TIỆT",
-    "Đón (ngăn)"
+    "Đón (ngăn)",
+    "nang"
   ],
   [
     "TRỪU",
-    "Đem"
+    "Đem",
+    "huyen"
   ],
   [
     "ĐỆ",
-    "Em"
+    "Em",
+    "nang"
   ],
   [
     "SANH",
-    "Cháu"
+    "Cháu",
+    "ngang"
   ],
   [
     "HUYẾT",
-    "Máu"
+    "Máu",
+    "sac"
   ],
   [
     "MAO",
-    "Lông"
+    "Lông",
+    "ngang"
   ],
   [
     "TÂN",
-    "Lấy chồng"
+    "Lấy chồng",
+    "ngang"
   ],
   [
     "THÚ",
-    "Lấy vợ"
+    "Lấy vợ",
+    "sac"
   ],
   [
     "ĐỊCH",
-    "Rợ"
+    "Rợ",
+    "nang"
   ],
   [
     "MANH",
-    "Dân"
+    "Dân",
+    "ngang"
   ],
   [
     "HỈNH",
-    "Ống chân"
+    "Ống chân",
+    "hoi"
   ],
   [
     "KHOAN",
-    "Đầu gối"
+    "Đầu gối",
+    "ngang"
   ],
   [
     "CÁN",
-    "Cội"
+    "Cội",
+    "sac"
   ],
   [
     "TIÊU",
-    "Ngành"
+    "Ngành",
+    "ngang"
   ],
   [
     "MẪN",
-    "Nhanh (lanh)"
+    "Nhanh (lanh)",
+    "nga"
   ],
   [
     "TIỆP",
-    "Chóng"
+    "Chóng",
+    "nang"
   ],
   [
     "PHÚC",
-    "Bụng"
+    "Bụng",
+    "sac"
   ],
   [
     "ƯNG",
-    "Lòng"
+    "Lòng",
+    "ngang"
   ],
   [
     "CÁT",
-    "Bọ hung"
+    "Bọ hung",
+    "sac"
   ],
   [
     "HUỲNH",
-    "Đom đóm"
+    "Đom đóm",
+    "huyen"
   ],
   [
     "ĐẠO",
-    "Trộm"
+    "Trộm",
+    "nang"
   ],
   [
     "ĐỈNH",
-    "Say"
+    "Say",
+    "hoi"
   ],
   [
     "UYỂN",
-    "Cổ tay"
+    "Cổ tay",
+    "hoi"
   ],
   [
     "TỲ",
-    "Lá lách"
+    "Lá lách",
+    "huyen"
   ],
   [
     "KHÁCH",
-    "Khách"
+    "Khách",
+    "sac"
   ],
   [
     "THÂN",
-    "Thân"
+    "Thân",
+    "ngang"
   ],
   [
     "VẬN",
-    "Vần"
+    "Vần",
+    "nang"
   ],
   [
     "PHỤC",
-    "Lại"
+    "Lại",
+    "nang"
   ],
   [
     "CỐ",
-    "Đoái"
+    "Đoái",
+    "sac"
   ],
   [
     "SÁN",
-    "Chê"
+    "Chê",
+    "sac"
   ],
   [
     "LY",
-    "Con Ly"
+    "Con Ly",
+    "ngang"
   ],
   [
     "MÃNG",
-    "Con Mãng"
+    "Con Mãng",
+    "nga"
   ],
   [
     "BẢNG",
-    "Bảng"
+    "Bảng",
+    "hoi"
   ],
   [
     "BÌNH",
-    "Tranh"
+    "Tranh",
+    "huyen"
   ],
   [
     "LOAN",
-    "Quanh"
+    "Quanh",
+    "ngang"
   ],
   [
     "DIẾU",
-    "Ngọn"
+    "Ngọn",
+    "sac"
   ],
   [
     "GIẢN",
-    "Chọn"
+    "Chọn",
+    "hoi"
   ],
   [
     "PHAO",
-    "Buông"
+    "Buông",
+    "ngang"
   ],
   [
     "THÚ",
-    "Muông"
+    "Muông",
+    "sac"
   ],
   [
     "LƯ",
-    "Chó"
+    "Chó",
+    "ngang"
   ],
   [
     "MA",
-    "Xoá"
+    "Xoá",
+    "ngang"
   ],
   [
     "SOÁI",
-    "Đo"
+    "Đo",
+    "sac"
   ],
   [
     "BÀ",
-    "Bà"
+    "Bà",
+    "huyen"
   ],
   [
     "NÃI",
-    "(Nễ) Vú"
+    "(Nễ) Vú",
+    "nga"
   ],
   [
     "MẪU",
-    "Mụ"
+    "Mụ",
+    "nga"
   ],
   [
     "GIÀ",
-    "Cha"
+    "Cha",
+    "huyen"
   ],
   [
     "DƯ",
-    "Ta"
+    "Ta",
+    "ngang"
   ],
   [
     "TA",
-    "Ấy"
+    "Ấy",
+    "ngang"
   ],
   [
     "CẬN",
-    "Thấy"
+    "Thấy",
+    "nang"
   ],
   [
     "TÂN",
-    "Chầu"
+    "Chầu",
+    "ngang"
   ],
   [
     "SƠ",
-    "Rau"
+    "Rau",
+    "ngang"
   ],
   [
     "LOẢ",
-    "Bí"
+    "Bí",
+    "hoi"
   ],
   [
     "CHỬ",
-    "Mía"
+    "Mía",
+    "hoi"
   ],
   [
     "THỰ",
-    "Củ mài"
+    "Củ mài",
+    "nang"
   ],
   [
     "CỔ",
-    "Chài"
+    "Chài",
+    "hoi"
   ],
   [
     "VÕNG",
-    "Lưới"
+    "Lưới",
+    "nga"
   ],
   [
     "SÍNH",
-    "Lễ cưới"
+    "Lễ cưới",
+    "sac"
   ],
   [
     "CẦU",
-    "Đôi bạn"
+    "Đôi bạn",
+    "huyen"
   ],
   [
     "THỐi",
-    "Đùi"
+    "Đùi",
+    "sac"
   ],
   [
     "THU",
-    "Vế (đùi)"
+    "Vế (đùi)",
+    "ngang"
   ],
   [
     "THUẾ",
-    "Thuế"
+    "Thuế",
+    "sac"
   ],
   [
     "TÔ",
-    "Tô"
+    "Tô",
+    "ngang"
   ],
   [
     "HỒ",
-    "Hồ"
+    "Hồ",
+    "huyen"
   ],
   [
     "CHỈ",
-    "Bến"
+    "Bến",
+    "hoi"
   ],
   [
     "HÀ",
-    "Vết"
+    "Vết",
+    "huyen"
   ],
   [
     "TRẠM",
-    "Trong"
+    "Trong",
+    "nang"
   ],
   [
     "TRỮ",
-    "Mong"
+    "Mong",
+    "nga"
   ],
   [
     "MAI",
-    "Kể"
+    "Kể",
+    "ngang"
   ],
   [
     "MIÊU",
-    "Vẽ"
+    "Vẽ",
+    "ngang"
   ],
   [
     "TÚ",
-    "Thêu"
+    "Thêu",
+    "sac"
   ],
   [
     "TIỂN",
-    "Rêu"
+    "Rêu",
+    "hoi"
   ],
   [
     "VU",
-    "Rậm"
+    "Rậm",
+    "ngang"
   ],
   [
     "QUẢI",
-    "Cắm"
+    "Cắm",
+    "hoi"
   ],
   [
     "HUỀ",
-    "Cầm"
+    "Cầm",
+    "huyen"
   ],
   [
     "TRẠCH",
-    "Chằm"
+    "Chằm",
+    "nang"
   ],
   [
     "SƯU",
-    "Đái (tiểu)"
+    "Đái (tiểu)",
+    "ngang"
   ],
   [
     "NHŨNG",
-    "Quấy"
+    "Quấy",
+    "nga"
   ],
   [
     "THUẦN",
-    "Thuần"
+    "Thuần",
+    "huyen"
   ],
   [
     "TUẦN",
-    "Tuần"
+    "Tuần",
+    "huyen"
   ],
   [
     "TIẾT",
-    "Tiết"
+    "Tiết",
+    "sac"
   ],
   [
     "BIỀU",
-    "Hàm thiếc"
+    "Hàm thiếc",
+    "huyen"
   ],
   [
     "KHUYÊN",
-    "Vòng khuyên"
+    "Vòng khuyên",
+    "ngang"
   ],
   [
     "TIỄN",
-    "Tên"
+    "Tên",
+    "nga"
   ],
   [
     "MANG",
-    "Mũi nhọn"
+    "Mũi nhọn",
+    "ngang"
   ],
   [
     "TUYỂN",
-    "Chọn"
+    "Chọn",
+    "hoi"
   ],
   [
     "TRINH",
-    "Thám"
+    "Thám",
+    "ngang"
   ],
   [
     "TRỪNG",
-    "Nhắm"
+    "Nhắm",
+    "huyen"
   ],
   [
     "CHIỂU",
-    "Sáng"
+    "Sáng",
+    "hoi"
   ],
   [
     "THẢNG",
-    "Thảng"
+    "Thảng",
+    "hoi"
   ],
   [
     "HÀ",
-    "Sao"
+    "Sao",
+    "huyen"
   ],
   [
     "CAO",
-    "Cỏ cao"
+    "Cỏ cao",
+    "ngang"
   ],
   [
     "NGẪU",
-    "Ngó"
+    "Ngó",
+    "nga"
   ],
   [
     "ÁO",
-    "Xó"
+    "Xó",
+    "sac"
   ],
   [
     "PHÒNG",
-    "Buồng"
+    "Buồng",
+    "huyen"
   ],
   [
     "CUỒNG",
-    "Cuồng"
+    "Cuồng",
+    "huyen"
   ],
   [
     "TRÍ ",
-    ""
+    "",
+    "sac"
   ],
   [
     "THÍ",
-    "Ví"
+    "Ví",
+    "sac"
   ],
   [
     "THUYÊN",
-    "Bàn"
+    "Bàn",
+    "ngang"
   ],
   [
     "TOÁN",
-    "Toan"
+    "Toan",
+    "sac"
   ],
   [
     "ÂM",
-    "Ngầm"
+    "Ngầm",
+    "ngang"
   ],
   [
     "QUA",
-    "Đâm"
+    "Đâm",
+    "ngang"
   ],
   [
     "LÔI",
-    "Nghiền"
+    "Nghiền",
+    "ngang"
   ],
   [
     "CHÚC",
-    "Liền"
+    "Liền",
+    "sac"
   ],
   [
     "KỲ",
-    "Lối khác"
+    "Lối khác",
+    "huyen"
   ],
   [
     "Ô",
-    "Đất nát"
+    "Đất nát",
+    "ngang"
   ],
   [
     "TẤT",
-    "Sơn"
+    "Sơn",
+    "sac"
   ],
   [
     "NẶC",
-    ""
+    "",
+    "nang"
   ],
   [
     "LĂNG",
-    "Lấn"
+    "Lấn",
+    "ngang"
   ],
   [
     "NHUẾ",
-    "(Khuế) giận"
+    "(Khuế) giận",
+    "sac"
   ],
   [
     "LÂN",
-    "Thương"
+    "Thương",
+    "ngang"
   ],
   [
     "DƯƠNG",
-    "Khí Dương"
+    "Khí Dương",
+    "ngang"
   ],
   [
     "TẪN",
-    "Giống cái"
+    "Giống cái",
+    "nga"
   ],
   [
     "THƯ",
-    "Mái"
+    "Mái",
+    "ngang"
   ],
   [
     "TRĨ",
-    "Non"
+    "Non",
+    "nga"
   ],
   [
     "SỒ",
-    "Chim con"
+    "Chim con",
+    "huyen"
   ],
   [
     "PHỤC",
-    "Nấp"
+    "Nấp",
+    "nang"
   ],
   [
     "ĐIỀN",
-    "Lấp"
+    "Lấp",
+    "huyen"
   ],
   [
     "CỐ",
-    "Cầm"
+    "Cầm",
+    "sac"
   ],
   [
     "NHƯƠNG",
-    "Hãn"
+    "Hãn",
+    "ngang"
   ],
   [
     "ÁCH",
-    "Chẹn"
+    "Chẹn",
+    "sac"
   ],
   [
     "TÀM",
-    "Thẹn"
+    "Thẹn",
+    "huyen"
   ],
   [
     "THOẢ",
-    "An"
+    "An",
+    "hoi"
   ],
   [
     "GIÁN",
-    "Can"
+    "Can",
+    "sac"
   ],
   [
     "CHÂM",
-    "Răn (sửa)"
+    "Răn (sửa)",
+    "ngang"
   ],
   [
     "YẾN",
-    "Ngửa"
+    "Ngửa",
+    "sac"
   ],
   [
     "NGANG",
-    "Cao"
+    "Cao",
+    "ngang"
   ],
   [
     "TIẾU",
-    "Rao"
+    "Rao",
+    "sac"
   ],
   [
     "DỤ",
-    "Dỗ"
+    "Dỗ",
+    "nang"
   ],
   [
     "CẢNH",
-    "Cổ"
+    "Cổ",
+    "hoi"
   ],
   [
     "LƯ",
-    "Đầu"
+    "Đầu",
+    "ngang"
   ],
   [
     "HẦU",
-    "Hầu"
+    "Hầu",
+    "huyen"
   ],
   [
     "THIỆT",
-    "Lưỡi"
+    "Lưỡi",
+    "nang"
   ],
   [
     "DỮU",
-    "Bưởi"
+    "Bưởi",
+    "nga"
   ],
   [
     "GIÁ",
-    "Dâu"
+    "Dâu",
+    "sac"
   ],
   [
     "HY",
-    "Trâu"
+    "Trâu",
+    "ngang"
   ],
   [
     "TRỆ",
-    "Lợn"
+    "Lợn",
+    "nang"
   ],
   [
     "LAN",
-    "Sóng dợn"
+    "Sóng dợn",
+    "ngang"
   ],
   [
     "LẠI ",
-    "Reo"
+    "Reo",
+    "nang"
   ],
   [
     "BIỀU",
-    "Bèo"
+    "Bèo",
+    "huyen"
   ],
   [
     "MÃNG",
-    "Rậm"
+    "Rậm",
+    "nga"
   ],
   [
     "",
-    ""
+    "",
+    "ngang"
   ],
   [
     "KHIÊU",
-    "Khêu"
+    "Khêu",
+    "ngang"
   ],
   [
     "HẢM",
-    "Kêu"
+    "Kêu",
+    "hoi"
   ],
   [
     "HOAN",
-    "Dức"
+    "Dức",
+    "ngang"
   ],
   [
     "NGỘ",
-    "Thức"
+    "Thức",
+    "nang"
   ],
   [
     "CÁN",
-    "Chiều"
+    "Chiều",
+    "sac"
   ],
   [
     "SĨ",
-    "Chờ"
+    "Chờ",
+    "nga"
   ],
   [
     "MẬU",
-    "Đổi"
+    "Đổi",
+    "nang"
   ],
   [
     "XUY",
-    "Thổi"
+    "Thổi",
+    "ngang"
   ],
   [
     "PHÚN",
-    "Phun"
+    "Phun",
+    "sac"
   ],
   [
     "LẬT",
-    "Run"
+    "Run",
+    "nang"
   ],
   [
     "KHÁO",
-    "Dựa"
+    "Dựa",
+    "sac"
   ],
   [
     "SÚC",
-    "Chứa"
+    "Chứa",
+    "sac"
   ],
   [
     "MAI",
-    "Chôn"
+    "Chôn",
+    "ngang"
   ],
   [
     "ÔN",
-    "Ôn"
+    "Ôn",
+    "ngang"
   ],
   [
     "HUẤN",
-    "Nhủ"
+    "Nhủ",
+    "sac"
   ],
   [
     "THUỴ",
-    "Ngủ"
+    "Ngủ",
+    "nang"
   ],
   [
     "ĐAM",
-    "Say"
+    "Say",
+    "ngang"
   ],
   [
     "MÃN",
-    "Đầy"
+    "Đầy",
+    "nga"
   ],
   [
     "ĐÊ",
-    "Thấp"
+    "Thấp",
+    "ngang"
   ],
   [
     "NGẬT",
-    "Nói lắp"
+    "Nói lắp",
+    "nang"
   ],
   [
     "NAM",
-    "Nói thầm"
+    "Nói thầm",
+    "ngang"
   ],
   [
     "PHÀM",
-    "Phàm"
+    "Phàm",
+    "huyen"
   ],
   [
     "TỤC",
-    "Tục"
+    "Tục",
+    "nang"
   ],
   [
     "XÚC",
-    "Giục"
+    "Giục",
+    "sac"
   ],
   [
     "XAO",
-    "Xua"
+    "Xua",
+    "ngang"
   ],
   [
     "VƯƠNG",
-    "Vua"
+    "Vua",
+    "ngang"
   ],
   [
     "BÁ",
-    "Bá"
+    "Bá",
+    "sac"
   ],
   [
     "THƯỢC",
-    "Chìa khoá"
+    "Chìa khoá",
+    "nang"
   ],
   [
     "XU(khu) ",
-    "Khen"
+    "Khen",
+    "ngang"
   ],
   [
     "DÕNG",
-    "Bù nhìn"
+    "Bù nhìn",
+    "nga"
   ],
   [
     "KỲ",
-    "Xấu dáng"
+    "Xấu dáng",
+    "huyen"
   ],
   [
     "HƯỚNG",
-    "Hướng"
+    "Hướng",
+    "sac"
   ],
   [
     "ĐÀ",
-    "Đem"
+    "Đem",
+    "huyen"
   ],
   [
     "NHUYÊN",
-    "Thềm"
+    "Thềm",
+    "ngang"
   ],
   [
     "LỰU",
-    "Máng xối"
+    "Máng xối",
+    "nang"
   ],
   [
     "MÔI",
-    "Làm mối"
+    "Làm mối",
+    "ngang"
   ],
   [
     "Á",
-    "Đồng hao"
+    "Đồng hao",
+    "sac"
   ],
   [
     "TUẤN",
-    "Đào"
+    "Đào",
+    "sac"
   ],
   [
     "NHÂN",
-    "Lấp"
+    "Lấp",
+    "ngang"
   ],
   [
     "TY",
-    "Thấp"
+    "Thấp",
+    "ngang"
   ],
   [
     "THỪA",
-    "Thừa"
+    "Thừa",
+    "huyen"
   ],
   [
     "ĐỀ",
-    "Ngừa"
+    "Ngừa",
+    "huyen"
   ],
   [
     "DÕNG",
-    "Nhảy"
+    "Nhảy",
+    "nga"
   ],
   [
     "THÍCH",
-    "Xảy"
+    "Xảy",
+    "sac"
   ],
   [
     "CỘNG",
-    "Cùng"
+    "Cùng",
+    "nang"
   ],
   [
     "DÕNG",
-    "Thùng"
+    "Thùng",
+    "nga"
   ],
   [
     "ĐỒNG",
-    "Ống"
+    "Ống",
+    "huyen"
   ],
   [
     "PHỤ",
-    "Đống"
+    "Đống",
+    "nang"
   ],
   [
     "KHÊ",
-    "Khe"
+    "Khe",
+    "ngang"
   ],
   [
     "NHIÊN",
-    "Song le"
+    "Song le",
+    "ngang"
   ],
   [
     "CỐ",
-    "Vậy"
+    "Vậy",
+    "sac"
   ],
   [
     "KHỞI",
-    "Dậy"
+    "Dậy",
+    "hoi"
   ],
   [
     "THĂNG",
-    "Lên"
+    "Lên",
+    "ngang"
   ],
   [
     "TỨC",
-    "Bèn"
+    "Bèn",
+    "sac"
   ],
   [
     "NGHI ",
-    "Hợp"
+    "Hợp",
+    "ngang"
   ],
   [
     "MÔNG",
-    "Rợp"
+    "Rợp",
+    "ngang"
   ],
   [
     "CHƯỚNG",
-    "Che"
+    "Che",
+    "sac"
   ],
   [
     "ÁP",
-    "Đè"
+    "Đè",
+    "sac"
   ],
   [
     "THÔI",
-    "Nén"
+    "Nén",
+    "ngang"
   ],
   [
     "TIẾP",
-    "Bén"
+    "Bén",
+    "sac"
   ],
   [
     "LƯ",
-    "Tỏ ra"
+    "Tỏ ra",
+    "ngang"
   ],
   [
     "NGÔ",
-    "Ta"
+    "Ta",
+    "ngang"
   ],
   [
     "CÁ",
-    "Ấy"
+    "Ấy",
+    "sac"
   ],
   [
     "YÊN",
-    "Vậy"
+    "Vậy",
+    "ngang"
   ],
   [
     "TẮC",
-    "Thì"
+    "Thì",
+    "sac"
   ],
   [
     "TẾ",
-    "Che"
+    "Che",
+    "sac"
   ],
   [
     "KHẢ",
-    "Khá"
+    "Khá",
+    "hoi"
   ],
   [
     "NGƯ",
-    "Cá"
+    "Cá",
+    "ngang"
   ],
   [
     "ĐIỂU",
-    "Chim"
+    "Chim",
+    "hoi"
   ],
   [
     "TÚC",
-    "Đêm"
+    "Đêm",
+    "sac"
   ],
   [
     "HIỂU",
-    "Sáng"
+    "Sáng",
+    "hoi"
   ],
   [
     "DẠNG",
-    "Dạng"
+    "Dạng",
+    "nang"
   ],
   [
     "MÔ",
-    "Khuôn"
+    "Khuôn",
+    "ngang"
   ],
   [
     "THƯƠNG",
-    "Buôn"
+    "Buôn",
+    "ngang"
   ],
   [
     "PHÁN",
-    "Bán"
+    "Bán",
+    "sac"
   ],
   [
     "VẠN",
-    "Vạn chài"
+    "Vạn chài",
+    "nang"
   ],
   [
     "THUYỀN",
-    "Thuyền"
+    "Thuyền",
+    "huyen"
   ],
   [
     "HUYÊN",
-    "Quên"
+    "Quên",
+    "ngang"
   ],
   [
     "ỨC",
-    "Nhớ"
+    "Nhớ",
+    "sac"
   ],
   [
     "ĐIỂN",
-    "Cố"
+    "Cố",
+    "hoi"
   ],
   [
     "DUNG",
-    "Thuê"
+    "Thuê",
+    "ngang"
   ],
   [
     "LỆ",
-    "Lề"
+    "Lề",
+    "nang"
   ],
   [
     "NGHI",
-    "Phép"
+    "Phép",
+    "ngang"
   ],
   [
     "LỤC",
-    "Chép"
+    "Chép",
+    "nang"
   ],
   [
     "ĐẰNG",
-    "Đằng"
+    "Đằng",
+    "huyen"
   ],
   [
     "NHƯ",
-    "Bằng"
+    "Bằng",
+    "ngang"
   ],
   [
     "KHOÁI",
-    "Sướng"
+    "Sướng",
+    "sac"
   ],
   [
     "TƯỚNG",
-    "(Quan) Tướng"
+    "(Quan) Tướng",
+    "sac"
   ],
   [
     "VIÊN",
-    "Quan Viên"
+    "Quan Viên",
+    "ngang"
   ],
   [
     "TÀ",
-    "Nghiêng"
+    "Nghiêng",
+    "huyen"
   ],
   [
     "KHÚC",
-    "Xiên (vạy)"
+    "Xiên (vạy)",
+    "sac"
   ],
   [
     "CHỈ",
-    "Giấy"
+    "Giấy",
+    "hoi"
   ],
   [
     "VI",
-    "Da"
+    "Da",
+    "ngang"
   ],
   [
     "ĐỊCH",
-    "Xa"
+    "Xa",
+    "nang"
   ],
   [
     "CÙNG",
-    "Rất"
+    "Rất",
+    "huyen"
   ],
   [
     "ĐOẠN",
-    "Dứt"
+    "Dứt",
+    "nang"
   ],
   [
     "TÀI",
-    "May"
+    "May",
+    "huyen"
   ],
   [
     "LIỆT",
-    "Bày"
+    "Bày",
+    "nang"
   ],
   [
     "THAO",
-    "Giấu"
+    "Giấu",
+    "ngang"
   ],
   [
     "CỨU",
-    "Cứu"
+    "Cứu",
+    "sac"
   ],
   [
     "TRỪ",
-    "Trừ"
+    "Trừ",
+    "huyen"
   ],
   [
     "CỪ",
-    "Xà cừ"
+    "Xà cừ",
+    "huyen"
   ],
   [
     "PHÁCH",
-    "Hổ phách"
+    "Hổ phách",
+    "sac"
   ],
   [
     "TỊNH",
-    "Sạch"
+    "Sạch",
+    "nang"
   ],
   [
     "TRANG",
-    "Nghiêm"
+    "Nghiêm",
+    "ngang"
   ],
   [
     "THƯỜNG",
-    "Xiêm"
+    "Xiêm",
+    "huyen"
   ],
   [
     "ÁO",
-    "Áo"
+    "Áo",
+    "sac"
   ],
   [
     "ĐẠO",
-    "Đạo"
+    "Đạo",
+    "nang"
   ],
   [
     "TÂM",
-    "Lòng"
+    "Lòng",
+    "ngang"
   ],
   [
     "CÂU",
-    "Cong"
+    "Cong",
+    "ngang"
   ],
   [
     "BẢ",
-    "Lệch"
+    "Lệch",
+    "hoi"
   ],
   [
     "HẠCH",
-    "Hạch"
+    "Hạch",
+    "nang"
   ],
   [
     "CUNG",
-    "Cung"
+    "Cung",
+    "ngang"
   ],
   [
     "TUNG",
-    "Núi Tung"
+    "Núi Tung",
+    "ngang"
   ],
   [
     "THÁI",
-    "Núi Thái"
+    "Núi Thái",
+    "sac"
   ],
   [
     "NGẠ",
-    "Đói"
+    "Đói",
+    "nang"
   ],
   [
     "ƯỚNG",
-    "No"
+    "No",
+    "sac"
   ],
   [
     "NGA",
-    "Núi Nga"
+    "Núi Nga",
+    "ngang"
   ],
   [
     "HỖ",
-    "Núi Hỗ"
+    "Núi Hỗ",
+    "nga"
   ],
   [
     "BẠ",
-    "Sổ"
+    "Sổ",
+    "nang"
   ],
   [
     "MINH",
-    "Ghi"
+    "Ghi",
+    "ngang"
   ],
   [
     "LY",
-    "Quỷ Ly"
+    "Quỷ Ly",
+    "ngang"
   ],
   [
     "MỴ",
-    "Quỷ Mỵ"
+    "Quỷ Mỵ",
+    "nang"
   ],
   [
     "TRỊ",
-    "Trị"
+    "Trị",
+    "nang"
   ],
   [
     "AN",
-    "An"
+    "An",
+    "ngang"
   ],
   [
     "HỘI",
-    "Tràn"
+    "Tràn",
+    "nang"
   ],
   [
     "TOÀN",
-    "Hợp"
+    "Hợp",
+    "huyen"
   ],
   [
     "LIỄM",
-    "Góp"
+    "Góp",
+    "nga"
   ],
   [
     "THÔI",
-    "Đòi"
+    "Đòi",
+    "ngang"
   ],
   [
     "TUÂN",
-    "Noi"
+    "Noi",
+    "ngang"
   ],
   [
     "THUẬT",
-    "Bắt chước"
+    "Bắt chước",
+    "nang"
   ],
   [
     "TIÊN",
-    "Trước"
+    "Trước",
+    "ngang"
   ],
   [
     "LÝ",
-    "Trong"
+    "Trong",
+    "sac"
   ],
   [
     "LIỆU",
-    "Đong"
+    "Đong",
+    "nang"
   ],
   [
     "BIỀU",
-    "Bớt"
+    "Bớt",
+    "huyen"
   ],
   [
     "HẠT",
-    "Chim Hạt"
+    "Chim Hạt",
+    "nang"
   ],
   [
     "CƯU",
-    "Chim cưu"
+    "Chim cưu",
+    "ngang"
   ],
   [
     "TRỪU",
-    "Trừu"
+    "Trừu",
+    "huyen"
   ],
   [
     "ĐOẠN",
-    "Vóc"
+    "Vóc",
+    "nang"
   ],
   [
     "LAO",
-    "Nhọc"
+    "Nhọc",
+    "ngang"
   ],
   [
     "DỰ",
-    "Vui"
+    "Vui",
+    "nang"
   ],
   [
     "CHUỲ",
-    "Dùi"
+    "Dùi",
+    "huyen"
   ],
   [
     "TRÁC",
-    "Đẽo"
+    "Đẽo",
+    "sac"
   ],
   [
     "DUỆ",
-    "Kéo"
+    "Kéo",
+    "nang"
   ],
   [
     "QUYÊN",
-    "Tha"
+    "Tha",
+    "ngang"
   ],
   [
     "THẤT",
-    "Nhà"
+    "Nhà",
+    "sac"
   ],
   [
     "XƯƠNG",
-    "Cửa"
+    "Cửa",
+    "ngang"
   ],
   [
     "CÂU",
-    "Ngựa"
+    "Ngựa",
+    "ngang"
   ],
   [
     "HIÊN",
-    "Xe"
+    "Xe",
+    "ngang"
   ],
   [
     "PHỤ",
-    "Về"
+    "Về",
+    "nang"
   ],
   [
     "SIÊU",
-    "Vượt"
+    "Vượt",
+    "ngang"
   ],
   [
     "VIỆT",
-    "Cái Việt"
+    "Cái Việt",
+    "nang"
   ],
   [
     "MAO",
-    "Cờ mao"
+    "Cờ mao",
+    "ngang"
   ],
   [
     "MỘNG",
-    "Chiêm bao"
+    "Chiêm bao",
+    "nang"
   ],
   [
     "ĐƠN",
-    "Nói vấp"
+    "Nói vấp",
+    "ngang"
   ],
   [
     "TÁNG",
-    "Lấp (chôn)"
+    "Lấp (chôn)",
+    "sac"
   ],
   [
     "HÂN",
-    "Nâng"
+    "Nâng",
+    "ngang"
   ],
   [
     "HỐI",
-    "Ăn năn"
+    "Ăn năn",
+    "sac"
   ],
   [
     "VĂN",
-    "Mắng tiếng"
+    "Mắng tiếng",
+    "ngang"
   ],
   [
     "NGAO",
-    "Liệng"
+    "Liệng",
+    "ngang"
   ],
   [
     "CHỬ",
-    "Bay"
+    "Bay",
+    "hoi"
   ],
   [
     "MINH",
-    "Say"
+    "Say",
+    "ngang"
   ],
   [
     "TỈNH",
-    "Tỉnh"
+    "Tỉnh",
+    "hoi"
   ],
   [
     "TỈNH",
-    "Chĩnh"
+    "Chĩnh",
+    "hoi"
   ],
   [
     "OA",
-    "Nồi"
+    "Nồi",
+    "ngang"
   ],
   [
     "NGẪU",
-    "Đôi"
+    "Đôi",
+    "nga"
   ],
   [
     "ĐƠN",
-    "Một"
+    "Một",
+    "ngang"
   ],
   [
     "ĐỐNG",
-    "Cột"
+    "Cột",
+    "sac"
   ],
   [
     "THÔI",
-    "Rui"
+    "Rui",
+    "ngang"
   ],
   [
     "THUÝ",
-    "Tôi"
+    "Tôi",
+    "sac"
   ],
   [
     "ĐÀO",
-    "Đúc"
+    "Đúc",
+    "huyen"
   ],
   [
     "PHÚC",
-    "Phúc"
+    "Phúc",
+    "sac"
   ],
   [
     "TRƯNG",
-    "Điềm"
+    "Điềm",
+    "ngang"
   ],
   [
     "ÍCH",
-    "Thêm"
+    "Thêm",
+    "sac"
   ],
   [
     "TRỪ",
-    "Để"
+    "Để",
+    "huyen"
   ],
   [
     "ĐẾ",
-    "Đế"
+    "Đế",
+    "sac"
   ],
   [
     "HOÀNG",
-    "Hoàng"
+    "Hoàng",
+    "huyen"
   ],
   [
     "DI",
-    "Càng"
+    "Càng",
+    "ngang"
   ],
   [
     "THẬM",
-    "Rất"
+    "Rất",
+    "nang"
   ],
   [
     "THẤT",
-    "Mất"
+    "Mất",
+    "sac"
   ],
   [
     "DIÊN",
-    "Noi"
+    "Noi",
+    "ngang"
   ],
   [
     "CỪ",
-    "Ngòi"
+    "Ngòi",
+    "huyen"
   ],
   [
     "BỘT",
-    "Vũng"
+    "Vũng",
+    "nang"
   ],
   [
     "BỔNG",
-    "Bổng"
+    "Bổng",
+    "hoi"
   ],
   [
     "LƯƠNG",
-    "Lương"
+    "Lương",
+    "ngang"
   ],
   [
     "DIỆC",
-    "cũng"
+    "cũng",
+    "nang"
   ],
   [
     "VƯU",
-    "Thêm"
+    "Thêm",
+    "ngang"
   ],
   [
     "BÔ",
-    "Nem"
+    "Nem",
+    "ngang"
   ],
   [
     "THIỆN",
-    "Bữa cơm"
+    "Bữa cơm",
+    "nang"
   ],
   [
     "PHÂN",
-    "Thơm"
+    "Thơm",
+    "ngang"
   ],
   [
     "TUÝ",
-    "Tốt"
+    "Tốt",
+    "sac"
   ],
   [
     "ĐỘT",
-    "Đốt"
+    "Đốt",
+    "nang"
   ],
   [
     "NĂNG",
-    "Hay"
+    "Hay",
+    "ngang"
   ],
   [
     "NHỮ",
-    "Mầy"
+    "Mầy",
+    "nga"
   ],
   [
     "SINH",
-    "Gã"
+    "Gã",
+    "ngang"
   ],
   [
     "NHẠN",
-    "Giả"
+    "Giả",
+    "nang"
   ],
   [
     "CHƠN",
-    "Ngay"
+    "Ngay",
+    "ngang"
   ],
   [
     "THẾ",
-    "Thay"
+    "Thay",
+    "sac"
   ],
   [
     "THÙ",
-    "Lả (trả)"
+    "Lả (trả)",
+    "huyen"
   ],
   [
     "BÁCH",
-    "Bã"
+    "Bã",
+    "sac"
   ],
   [
     "TAO",
-    "Hèm"
+    "Hèm",
+    "ngang"
   ],
   [
     "TRINH",
-    "Điềm"
+    "Điềm",
+    "ngang"
   ],
   [
     "KHÁNH",
-    "Phúc"
+    "Phúc",
+    "sac"
   ],
   [
     "LỘC",
-    "Lộc"
+    "Lộc",
+    "nang"
   ],
   [
     "KỲ",
-    "Lành"
+    "Lành",
+    "huyen"
   ],
   [
     "BÀNH",
-    "Họ Bành"
+    "Họ Bành",
+    "huyen"
   ],
   [
     "YỂU",
-    "Khốn"
+    "Khốn",
+    "hoi"
   ],
   [
     "DI",
-    "Nước lớn"
+    "Nước lớn",
+    "ngang"
   ],
   [
     "BẬT",
-    "Thơm thay"
+    "Thơm thay",
+    "nang"
   ],
   [
     "KIM",
-    "Nay"
+    "Nay",
+    "ngang"
   ],
   [
     "THUỶ",
-    "Mới"
+    "Mới",
+    "hoi"
   ],
   [
     "LỢI",
-    "Lợi"
+    "Lợi",
+    "nang"
   ],
   [
     "PHỒN",
-    "Nhiều"
+    "Nhiều",
+    "huyen"
   ],
   [
     "QUÂN",
-    "Đều"
+    "Đều",
+    "ngang"
   ],
   [
     "TẠP",
-    "Lộn"
+    "Lộn",
+    "nang"
   ],
   [
     "TRẠCH",
-    "Chọn"
+    "Chọn",
+    "nang"
   ],
   [
     "BAN",
-    "Dời"
+    "Dời",
+    "ngang"
   ],
   [
     "CẬN",
-    "Bồi"
+    "Bồi",
+    "nang"
   ],
   [
     "PHAN",
-    "Huyệt"
+    "Huyệt",
+    "ngang"
   ],
   [
     "HÀN",
-    "Rét"
+    "Rét",
+    "huyen"
   ],
   [
     "YẾM",
-    "No"
+    "No",
+    "sac"
   ],
   [
     "HỨA",
-    "Cho"
+    "Cho",
+    "sac"
   ],
   [
     "PHÚNG",
-    "Dạy"
+    "Dạy",
+    "sac"
   ],
   [
     "ĐÁT",
-    "Áy náy"
+    "Áy náy",
+    "sac"
   ],
   [
     "TỨ",
-    "Luông tuồng"
+    "Luông tuồng",
+    "sac"
   ],
   [
     "VIÊN",
-    "Vườn"
+    "Vườn",
+    "ngang"
   ],
   [
     "QUẬT",
-    "Lỗ"
+    "Lỗ",
+    "nang"
   ],
   [
     "TẠC",
-    "Trổ"
+    "Trổ",
+    "nang"
   ],
   [
     "XUYÊN",
-    "Dùi"
+    "Dùi",
+    "ngang"
   ],
   [
     "TA",
-    "Ôi"
+    "Ôi",
+    "ngang"
   ],
   [
     "KHÁI",
-    "Hăm hở"
+    "Hăm hở",
+    "sac"
   ],
   [
     "NGỮ",
-    "Trắc trở"
+    "Trắc trở",
+    "nga"
   ],
   [
     "HỒI",
-    "Bồi hồi"
+    "Bồi hồi",
+    "huyen"
   ],
   [
     "ƯỞNG",
-    "Bùi ngùi"
+    "Bùi ngùi",
+    "hoi"
   ],
   [
     "QUYỀN",
-    "Đau đáu"
+    "Đau đáu",
+    "huyen"
   ],
   [
     "SÁCH",
-    "Giậu"
+    "Giậu",
+    "sac"
   ],
   [
     "BỒNG",
-    "Phên"
+    "Phên",
+    "huyen"
   ],
   [
     "TRẮC ",
-    ""
+    "",
+    "sac"
   ],
   [
     "KHIÊU",
-    "Nhảy"
+    "Nhảy",
+    "ngang"
   ],
   [
     "THÁC",
-    "Cái đẫy"
+    "Cái đẫy",
+    "sac"
   ],
   [
     "THƯ",
-    "Đùm (gói)"
+    "Đùm (gói)",
+    "ngang"
   ],
   [
     "TINH",
-    "trùm"
+    "trùm",
+    "ngang"
   ],
   [
     "ĐẢO",
-    "Úp"
+    "Úp",
+    "hoi"
   ],
   [
     "TÁ",
-    "Giúp"
+    "Giúp",
+    "sac"
   ],
   [
     "LIÊU",
-    "Nhờ"
+    "Nhờ",
+    "ngang"
   ],
   [
     "NGẪU",
-    "tình cờ"
+    "tình cờ",
+    "nga"
   ],
   [
     "CỜ",
-    "Hoạ"
+    "Hoạ",
+    "huyen"
   ],
   [
     "KIỂM",
-    "Má"
+    "Má",
+    "hoi"
   ],
   [
     "THIỀU",
-    "Răng"
+    "Răng",
+    "huyen"
   ],
   [
     "HẰNG",
-    "Hằng"
+    "Hằng",
+    "huyen"
   ],
   [
     "THỰC",
-    "Thật"
+    "Thật",
+    "nang"
   ],
   [
     "CHẤT",
-    "Chất"
+    "Chất",
+    "sac"
   ],
   [
     "HOA",
-    "Hoa"
+    "Hoa",
+    "ngang"
   ],
   [
     "TỶ",
-    "Hoà"
+    "Hoà",
+    "hoi"
   ],
   [
     "KHẮC",
-    "Khắc"
+    "Khắc",
+    "sac"
   ],
   [
     "TẶC",
-    "Giặc"
+    "Giặc",
+    "nang"
   ],
   [
     "TRÙ",
-    "Loài"
+    "Loài",
+    "huyen"
   ],
   [
     "BAN",
-    "Dời"
+    "Dời",
+    "ngang"
   ],
   [
     "NHẠ",
-    "Rước"
+    "Rước",
+    "nang"
   ],
   [
     "KHUỂ",
-    "Bước"
+    "Bước",
+    "hoi"
   ],
   [
     "BIÊN",
-    "quanh"
+    "quanh",
+    "ngang"
   ],
   [
     "DUNG",
-    "Thành"
+    "Thành",
+    "ngang"
   ],
   [
     "HỐI",
-    "Vực"
+    "Vực",
+    "sac"
   ],
   [
     "MẪU",
-    "Đực"
+    "Đực",
+    "nga"
   ],
   [
     "NHÂM",
-    "Thai"
+    "Thai",
+    "ngang"
   ],
   [
     "TƯỚC",
-    "Nhai"
+    "Nhai",
+    "sac"
   ],
   [
     "THÔN",
-    "Nuốt"
+    "Nuốt",
+    "ngang"
   ],
   [
     "TRẢO",
-    "vuốt"
+    "vuốt",
+    "hoi"
   ],
   [
     "ĐỒN",
-    "Mông"
+    "Mông",
+    "huyen"
   ],
   [
     "ĐỘT",
-    "Xông"
+    "Xông",
+    "nang"
   ],
   [
     "CHINH",
-    "Đánh"
+    "Đánh",
+    "ngang"
   ],
   [
     "ĐOÁ",
-    "Lánh"
+    "Lánh",
+    "sac"
   ],
   [
     "PHÔ",
-    "Phô"
+    "Phô",
+    "ngang"
   ],
   [
     "KHÍCH",
-    "Vải to"
+    "Vải to",
+    "sac"
   ],
   [
     "HY",
-    "Vải nhỏ"
+    "Vải nhỏ",
+    "ngang"
   ],
   [
     "KHÍ",
-    "Bỏ"
+    "Bỏ",
+    "sac"
   ],
   [
     "HƯU",
-    "Thôi"
+    "Thôi",
+    "ngang"
   ],
   [
     "HU",
-    "Ôi !"
+    "Ôi !",
+    "ngang"
   ],
   [
     "PHẤT",
-    "Bẻ"
+    "Bẻ",
+    "sac"
   ],
   [
     "LÝ ",
-    ""
+    "",
+    "sac"
   ],
   [
     "THẦM",
-    "Lòng"
+    "Lòng",
+    "huyen"
   ],
   [
     "THOA",
-    "Trâm"
+    "Trâm",
+    "ngang"
   ],
   [
     "HOÀN",
-    "(vòng) nhẫn"
+    "(vòng) nhẫn",
+    "huyen"
   ],
   [
     "PHẪN",
-    "Giận"
+    "Giận",
+    "nga"
   ],
   [
     "SỦNG",
-    "Yêu"
+    "Yêu",
+    "hoi"
   ],
   [
     "NHIẾP",
-    "Theo"
+    "Theo",
+    "sac"
   ],
   [
     "KHÊ",
-    "Đường tắt"
+    "Đường tắt",
+    "ngang"
   ],
   [
     "TRÓC",
-    "Bắt"
+    "Bắt",
+    "sac"
   ],
   [
     "BẢO",
-    "Gìn"
+    "Gìn",
+    "hoi"
   ],
   [
     "KIỀN",
-    "Tin"
+    "Tin",
+    "huyen"
   ],
   [
     "TÚC",
-    "Kính"
+    "Kính",
+    "sac"
   ],
   [
     "ĐÍNH",
-    "Đính chính"
+    "Đính chính",
+    "sac"
   ],
   [
     "MÔ",
-    "Mưu mô"
+    "Mưu mô",
+    "ngang"
   ],
   [
     "DU",
-    "A Dua"
+    "A Dua",
+    "ngang"
   ],
   [
     "QUỈ",
-    "Dối"
+    "Dối",
+    "hoi"
   ],
   [
     "CHÚC",
-    "Trối"
+    "Trối",
+    "sac"
   ],
   [
     "DI",
-    "Noi"
+    "Noi",
+    "ngang"
   ],
   [
     "XUY",
-    "Roi"
+    "Roi",
+    "ngang"
   ],
   [
     "SÁCH",
-    "Vọt"
+    "Vọt",
+    "sac"
   ],
   [
     "TRÍCH",
-    "giọt"
+    "giọt",
+    "sac"
   ],
   [
     "NGUYÊN",
-    "Nguồn"
+    "Nguồn",
+    "ngang"
   ],
   [
     "MUỘN",
-    "Buồn"
+    "Buồn",
+    "nang"
   ],
   [
     "CƯỜNG",
-    "Mạnh"
+    "Mạnh",
+    "huyen"
   ],
   [
     "XƯƠNG",
-    "Thạnh"
+    "Thạnh",
+    "ngang"
   ],
   [
     "BẬT",
-    "An"
+    "An",
+    "nang"
   ],
   [
     "NGOAN",
-    "Ngoan"
+    "Ngoan",
+    "ngang"
   ],
   [
     "LỆ",
-    "Trái"
+    "Trái",
+    "nang"
   ],
   [
     "HỰU",
-    "Lại"
+    "Lại",
+    "nang"
   ],
   [
     "TINH",
-    "Gồm"
+    "Gồm",
+    "ngang"
   ],
   [
     "DU",
-    "Dòm"
+    "Dòm",
+    "ngang"
   ],
   [
     "ĐỊCH",
-    "Thấy"
+    "Thấy",
+    "nang"
   ],
   [
     "BÀNH",
-    "Cáy"
+    "Cáy",
+    "huyen"
   ],
   [
     "GIẢI",
-    "Cua"
+    "Cua",
+    "hoi"
   ],
   [
     "QUY",
-    "Rùa"
+    "Rùa",
+    "ngang"
   ],
   [
     "BIẾC",
-    "Giải"
+    "Giải",
+    "sac"
   ],
   [
     "MẪU",
-    "Bà vãi"
+    "Bà vãi",
+    "nga"
   ],
   [
     "TỲ",
-    "Nô tỳ"
+    "Nô tỳ",
+    "huyen"
   ],
   [
     "ĐỈNH",
-    "Thoi"
+    "Thoi",
+    "hoi"
   ],
   [
     "MÂN",
-    "Lõi"
+    "Lõi",
+    "ngang"
   ],
   [
     "SÁCH",
-    "Hỏi"
+    "Hỏi",
+    "sac"
   ],
   [
     "NHU",
-    "Chờ"
+    "Chờ",
+    "ngang"
   ],
   [
     "CƯƠNG",
-    "Bờ"
+    "Bờ",
+    "ngang"
   ],
   [
     "GIỚI",
-    "Cõi"
+    "Cõi",
+    "sac"
   ],
   [
     "LỊCH",
-    "Sỏi"
+    "Sỏi",
+    "nang"
   ],
   [
     "NHƯ",
-    "Lầy"
+    "Lầy",
+    "ngang"
   ],
   [
     "SẤU",
-    "Gầy"
+    "Gầy",
+    "sac"
   ],
   [
     "BÀNG",
-    "Lớn"
+    "Lớn",
+    "huyen"
   ],
   [
     "VẤN",
-    "Bợn"
+    "Bợn",
+    "sac"
   ],
   [
     "QUYÊN",
-    "Trong"
+    "Trong",
+    "ngang"
   ],
   [
     "HUÂN",
-    "Xông"
+    "Xông",
+    "ngang"
   ],
   [
     "NHIỆT",
-    "Sốt"
+    "Sốt",
+    "nang"
   ],
   [
     "HUỶ",
-    "Đốt"
+    "Đốt",
+    "hoi"
   ],
   [
     "THÔI",
-    "Thui"
+    "Thui",
+    "ngang"
   ],
   [
     "GIÁM",
-    "Soi"
+    "Soi",
+    "sac"
   ],
   [
     "KÌNH",
-    "Chống"
+    "Chống",
+    "huyen"
   ],
   [
     "CỐNG",
-    "Tiến cống"
+    "Tiến cống",
+    "sac"
   ],
   [
     "ĐAM",
-    "Mê man"
+    "Mê man",
+    "ngang"
   ],
   [
     "THOÁN",
-    "Nấu cơm"
+    "Nấu cơm",
+    "sac"
   ],
   [
     "THUNG",
-    "Giã gạo"
+    "Giã gạo",
+    "ngang"
   ],
   [
     "SÓC",
-    "Giáo"
+    "Giáo",
+    "sac"
   ],
   [
     "QUA",
-    "Đòng"
+    "Đòng",
+    "ngang"
   ],
   [
     "SẬU",
-    "Giong"
+    "Giong",
+    "nang"
   ],
   [
     "ĐẰNG",
-    "Ruổi"
+    "Ruổi",
+    "huyen"
   ],
   [
     "LINH",
-    "Tuổi"
+    "Tuổi",
+    "ngang"
   ],
   [
     "TỰ",
-    "Năm (tế lễ)"
+    "Năm (tế lễ)",
+    "nang"
   ],
   [
     "BÁ",
-    "Trăm"
+    "Trăm",
+    "sac"
   ],
   [
     "CHU",
-    "Khắp"
+    "Khắp",
+    "ngang"
   ],
   [
     "THẬP",
-    "Thập"
+    "Thập",
+    "nang"
   ],
   [
     "CAI",
-    "Cai"
+    "Cai",
+    "ngang"
   ],
   [
     "TAI",
-    "Tai"
+    "Tai",
+    "ngang"
   ],
   [
     "HOẠ",
-    "Hoạ"
+    "Hoạ",
+    "nang"
   ],
   [
     "NHIẾP",
-    "Gá"
+    "Gá",
+    "sac"
   ],
   [
     "TỰ",
-    "Dường"
+    "Dường",
+    "nang"
   ],
   [
     "THƯƠNG",
-    "Thương"
+    "Thương",
+    "ngang"
   ],
   [
     "HẠI",
-    "Hại"
+    "Hại",
+    "nang"
   ],
   [
     "GIẢI",
-    "Con Giải"
+    "Con Giải",
+    "hoi"
   ],
   [
     "ĐÀ",
-    "Lạc đà"
+    "Lạc đà",
+    "huyen"
   ],
   [
     "TOẠ",
-    "Toà"
+    "Toà",
+    "nang"
   ],
   [
     "THỨ",
-    "Thứ"
+    "Thứ",
+    "sac"
   ],
   [
     "DỰ",
-    "Dự"
+    "Dự",
+    "nang"
   ],
   [
     "BỒI",
-    "Thêm"
+    "Thêm",
+    "huyen"
   ],
   [
     "THUỴ",
-    "Tên hèm"
+    "Tên hèm",
+    "nang"
   ],
   [
     "HÀM",
-    "Tên chức"
+    "Tên chức",
+    "huyen"
   ],
   [
     "BỨC",
-    "Bức"
+    "Bức",
+    "sac"
   ],
   [
     "KỲ",
-    "Khăn"
+    "Khăn",
+    "huyen"
   ],
   [
     "CANG",
-    "Thằn lằn"
+    "Thằn lằn",
+    "ngang"
   ],
   [
     "ĐỈNH",
-    "Rắn mối"
+    "Rắn mối",
+    "hoi"
   ],
   [
     "BỘI",
-    "Bội"
+    "Bội",
+    "nang"
   ],
   [
     "THỪA",
-    "Nhân"
+    "Nhân",
+    "huyen"
   ],
   [
     "TRÌ",
-    "Sân"
+    "Sân",
+    "huyen"
   ],
   [
     "THÁT",
-    "Cửa"
+    "Cửa",
+    "sac"
   ],
   [
     "ĐỊCH",
-    "Rửa"
+    "Rửa",
+    "nang"
   ],
   [
     "SƠ",
-    "Khơi"
+    "Khơi",
+    "ngang"
   ],
   [
     "HỒ",
-    "Ôi !"
+    "Ôi !",
+    "huyen"
   ],
   [
     "ĐÃN",
-    "Những"
+    "Những",
+    "nga"
   ],
   [
     "CỦNG",
-    "Vững"
+    "Vững",
+    "hoi"
   ],
   [
     "BÀN",
-    "Đá"
+    "Đá",
+    "huyen"
   ],
   [
     "VỌNG",
-    "Trá"
+    "Trá",
+    "nang"
   ],
   [
     "NỊNH",
-    "hót"
+    "hót",
+    "nang"
   ],
   [
     "THƯ",
-    "nhọt"
+    "nhọt",
+    "ngang"
   ],
   [
     "CHÍ",
-    "Nốt ruồi"
+    "Nốt ruồi",
+    "sac"
   ],
   [
     "DƯỠNG",
-    "Nuôi"
+    "Nuôi",
+    "nga"
   ],
   [
     "TRANG",
-    "Sửa"
+    "Sửa",
+    "ngang"
   ],
   [
     "TRẠC",
-    "Rửa"
+    "Rửa",
+    "nang"
   ],
   [
     "BIÊM",
-    "Lể"
+    "Lể",
+    "ngang"
   ],
   [
     "SỔ",
-    "Kể"
+    "Kể",
+    "hoi"
   ],
   [
     "THAM",
-    "Xét"
+    "Xét",
+    "ngang"
   ],
   [
     "TẢO",
-    "Quét"
+    "Quét",
+    "hoi"
   ],
   [
     "LÊ",
-    "Cày"
+    "Cày",
+    "ngang"
   ],
   [
     "TRIỆU",
-    "Gây"
+    "Gây",
+    "nang"
   ],
   [
     "CHIÊU",
-    "Sáng"
+    "Sáng",
+    "ngang"
   ],
   [
     "ĐÁNG",
-    "Đáng"
+    "Đáng",
+    "sac"
   ],
   [
     "CÔNG",
-    "Ông"
+    "Ông",
+    "ngang"
   ],
   [
     "TẮNG",
-    "Nồi hông"
+    "Nồi hông",
+    "sac"
   ],
   [
     "LINH",
-    "Cái thống"
+    "Cái thống",
+    "ngang"
   ],
   [
     "ĐÀO",
-    "Sóng"
+    "Sóng",
+    "huyen"
   ],
   [
     "HỘ",
-    "Nước đông"
+    "Nước đông",
+    "nang"
   ],
   [
     "TRIỆT",
-    "Thông"
+    "Thông",
+    "nang"
   ],
   [
     "KHÁNG",
-    "Chống"
+    "Chống",
+    "sac"
   ],
   [
     "KHOÁNG",
-    "Rộng"
+    "Rộng",
+    "sac"
   ],
   [
     "LIÊU",
-    "Xa"
+    "Xa",
+    "ngang"
   ],
   [
     "QUÁ",
-    "Qua"
+    "Qua",
+    "sac"
   ],
   [
     "THƯƠNG",
-    "Nhảy"
+    "Nhảy",
+    "ngang"
   ],
   [
     "TRÍCH",
-    "Lấy"
+    "Lấy",
+    "sac"
   ],
   [
     "SAN",
-    "Chia"
+    "Chia",
+    "ngang"
   ],
   [
     "TIÊU",
-    "Tia"
+    "Tia",
+    "ngang"
   ],
   [
     "ÁNH",
-    "Ánh"
+    "Ánh",
+    "sac"
   ],
   [
     "PHẠT",
-    "Phạt"
+    "Phạt",
+    "nang"
   ],
   [
     "DAO",
-    "Lay"
+    "Lay",
+    "ngang"
   ],
   [
     "LAI",
-    "Cỏ may"
+    "Cỏ may",
+    "ngang"
   ],
   [
     "HỦ",
-    "Mục"
+    "Mục",
+    "hoi"
   ],
   [
     "XÚC",
-    "Giục"
+    "Giục",
+    "sac"
   ],
   [
     "CÙ",
-    "Siêng"
+    "Siêng",
+    "huyen"
   ],
   [
     "KỴ",
-    "Kiêng"
+    "Kiêng",
+    "nang"
   ],
   [
     "ĐÀO",
-    "Trốn"
+    "Trốn",
+    "huyen"
   ],
   [
     "BẢN",
-    "Vốn"
+    "Vốn",
+    "hoi"
   ],
   [
     "BÀNG",
-    "Bên"
+    "Bên",
+    "huyen"
   ],
   [
     "TIỆN",
-    "Khen"
+    "Khen",
+    "nang"
   ],
   [
     "VU",
-    "Dối"
+    "Dối",
+    "ngang"
   ],
   [
     "KẾ",
-    "Nối"
+    "Nối",
+    "sac"
   ],
   [
     "HÀI",
-    "Hoà"
+    "Hoà",
+    "huyen"
   ],
   [
     "DU",
-    "Xô"
+    "Xô",
+    "ngang"
   ],
   [
     "MẠT",
-    "Sổ"
+    "Sổ",
+    "nang"
   ],
   [
     "VŨ",
-    "Vỗ"
+    "Vỗ",
+    "nga"
   ],
   [
     "TUY",
-    "An"
+    "An",
+    "ngang"
   ],
   [
     "TRÁNH",
-    "Can"
+    "Can",
+    "sac"
   ],
   [
     "DI ",
-    "Để"
+    "Để",
+    "ngang"
   ],
   [
     "KHI",
-    "Dễ"
+    "Dễ",
+    "ngang"
   ],
   [
     "LẠI",
-    "Nhờ"
+    "Nhờ",
+    "nang"
   ],
   [
     "QUÁT",
-    "Vơ"
+    "Vơ",
+    "sac"
   ],
   [
     "MY",
-    "Buộc"
+    "Buộc",
+    "ngang"
   ],
   [
     "Y",
-    "Thuốc"
+    "Thuốc",
+    "ngang"
   ],
   [
     "KHOÁ",
-    "Khoa"
+    "Khoa",
+    "sac"
   ],
   [
     "VŨ",
-    "Mái nhà"
+    "Mái nhà",
+    "nga"
   ],
   [
     "MY",
-    "Mí cửa"
+    "Mí cửa",
+    "ngang"
   ],
   [
     "PHONG",
-    "Ngọn lửa"
+    "Ngọn lửa",
+    "ngang"
   ],
   [
     "HẠN",
-    "Nắng lâu"
+    "Nắng lâu",
+    "nang"
   ],
   [
     "THỐNG",
-    "Đau"
+    "Đau",
+    "sac"
   ],
   [
     "THUYÊN",
-    "Đã khỏi"
+    "Đã khỏi",
+    "ngang"
   ],
   [
     "LÃ",
-    "Ông Lã"
+    "Ông Lã",
+    "nga"
   ],
   [
     "THI",
-    "Cỏ thi"
+    "Cỏ thi",
+    "ngang"
   ],
   [
     "KỲ",
-    "Ngựa kỳ"
+    "Ngựa kỳ",
+    "huyen"
   ],
   [
     "ĐẶC",
-    "Nghé (trâu)"
+    "Nghé (trâu)",
+    "nang"
   ],
   [
     "TỂ",
-    "Quan Tể"
+    "Quan Tể",
+    "hoi"
   ],
   [
     "HẦU",
-    "Tước Hầu"
+    "Tước Hầu",
+    "huyen"
   ],
   [
     "MÂU",
-    "Cái mâu"
+    "Cái mâu",
+    "ngang"
   ],
   [
     "THUẪN",
-    "Cái thuẫn"
+    "Cái thuẫn",
+    "nga"
   ],
   [
     "TẬP",
-    "Áo vắn"
+    "Áo vắn",
+    "nang"
   ],
   [
     "KHÂM",
-    "Nệm giường"
+    "Nệm giường",
+    "ngang"
   ],
   [
     "LỘ",
-    "Đường"
+    "Đường",
+    "nang"
   ],
   [
     "NHAI",
-    "Ngõ"
+    "Ngõ",
+    "ngang"
   ],
   [
     "GIÁNG",
-    "Đỏ"
+    "Đỏ",
+    "sac"
   ],
   [
     "TRI",
-    "Đen"
+    "Đen",
+    "ngang"
   ],
   [
     "PHÀN",
-    "Phèn"
+    "Phèn",
+    "huyen"
   ],
   [
     "BẠC",
-    "Mưa đá"
+    "Mưa đá",
+    "nang"
   ],
   [
     "DUY",
-    "Dạ"
+    "Dạ",
+    "ngang"
   ],
   [
     "DU",
-    "Ừ è"
+    "Ừ è",
+    "ngang"
   ],
   [
     "HOÈ",
-    "Cây hoè"
+    "Cây hoè",
+    "huyen"
   ],
   [
     "TỬ",
-    "Cây tử"
+    "Cây tử",
+    "hoi"
   ],
   [
     "CHỬ ",
-    ""
+    "",
+    "hoi"
   ],
   [
     "KINH",
-    "Cây kinh"
+    "Cây kinh",
+    "ngang"
   ],
   [
     "LINH",
-    "Cái linh"
+    "Cái linh",
+    "ngang"
   ],
   [
     "THÁC",
-    "Cái trắc"
+    "Cái trắc",
+    "sac"
   ],
   [
     "HOẠCH",
-    "Vạc"
+    "Vạc",
+    "nang"
   ],
   [
     "DUNG",
-    "Chuông"
+    "Chuông",
+    "ngang"
   ],
   [
     "KHUÔNG",
-    "Cáo khuông"
+    "Cáo khuông",
+    "ngang"
   ],
   [
     "CỬ",
-    "Cái cử"
+    "Cái cử",
+    "hoi"
   ],
   [
     "NGỮ",
-    "Nhà ngữ"
+    "Nhà ngữ",
+    "nga"
   ],
   [
     "LINH",
-    "Nhà linh (tù)"
+    "Nhà linh (tù)",
+    "ngang"
   ],
   [
     "TRÀNG",
-    "Hùm tinh"
+    "Hùm tinh",
+    "huyen"
   ],
   [
     "CHẾ",
-    "Chó dại"
+    "Chó dại",
+    "sac"
   ],
   [
     "DUYẾN",
-    "Lại"
+    "Lại",
+    "sac"
   ],
   [
     "NHA",
-    "Nha"
+    "Nha",
+    "ngang"
   ],
   [
     "XA",
-    "Xa"
+    "Xa",
+    "ngang"
   ],
   [
     "CÁCH",
-    "Cách"
+    "Cách",
+    "sac"
   ],
   [
     "LIỆT",
-    "Rách"
+    "Rách",
+    "nang"
   ],
   [
     "HÁO",
-    "Hao"
+    "Hao",
+    "sac"
   ],
   [
     "TÀO",
-    "Sông Tào"
+    "Sông Tào",
+    "huyen"
   ],
   [
     "BIỆN",
-    "Sông Biện"
+    "Sông Biện",
+    "nang"
   ],
   [
     "MIỆN",
-    "Sông Miện"
+    "Sông Miện",
+    "nang"
   ],
   [
     "NGHI",
-    "Sông Nghi"
+    "Sông Nghi",
+    "ngang"
   ],
   [
     "KỲ",
-    "thần kỳ"
+    "thần kỳ",
+    "huyen"
   ],
   [
     "NỄ",
-    "Ông vải"
+    "Ông vải",
+    "nga"
   ],
   [
     "TRỮ",
-    "Đợi"
+    "Đợi",
+    "nga"
   ],
   [
     "XÍ",
-    "Mong"
+    "Mong",
+    "sac"
   ],
   [
     "DẬT",
-    "Thong dong"
+    "Thong dong",
+    "nang"
   ],
   [
     "UNG",
-    "Hoà nhã"
+    "Hoà nhã",
+    "ngang"
   ],
   [
     "PHI",
-    "Cả"
+    "Cả",
+    "ngang"
   ],
   [
     "ĐẢN",
-    "Tin"
+    "Tin",
+    "hoi"
   ],
   [
     "CÁI",
-    "xin"
+    "xin",
+    "sac"
   ],
   [
     "SƯU",
-    "Dấu"
+    "Dấu",
+    "ngang"
   ],
   [
     "XI",
-    "Xấu"
+    "Xấu",
+    "ngang"
   ],
   [
     "LIỆT",
-    "Hèn"
+    "Hèn",
+    "nang"
   ],
   [
     "TẠ O",
-    "Đen"
+    "Đen",
+    "nang"
   ],
   [
     "PHI",
-    "Đỏ"
+    "Đỏ",
+    "ngang"
   ],
   [
     "SÔ",
-    "Cỏ"
+    "Cỏ",
+    "ngang"
   ],
   [
     "PHỐ",
-    "Vườn"
+    "Vườn",
+    "sac"
   ],
   [
     "PHONG",
-    "Bò rừng"
+    "Bò rừng",
+    "ngang"
   ],
   [
     "HÝ",
-    "Lợn"
+    "Lợn",
+    "sac"
   ],
   [
     "KHÔI",
-    "Lớn"
+    "Lớn",
+    "ngang"
   ],
   [
     "NUỴ",
-    "Lùn"
+    "Lùn",
+    "nang"
   ],
   [
     "SÚC",
-    "Đùn đùn"
+    "Đùn đùn",
+    "sac"
   ],
   [
     "NGỘT",
-    "Vòi vọi"
+    "Vòi vọi",
+    "nang"
   ],
   [
     "TRÁC",
-    "Chót vót"
+    "Chót vót",
+    "sac"
   ],
   [
     "PHÂN",
-    "Bời bời"
+    "Bời bời",
+    "ngang"
   ],
   [
     "DAO",
-    "Noi"
+    "Noi",
+    "ngang"
   ],
   [
     "CÁCH",
-    "Đổi"
+    "Đổi",
+    "sac"
   ],
   [
     "NGHIÊU",
-    "Đá sỏi"
+    "Đá sỏi",
+    "ngang"
   ],
   [
     "LỆ",
-    "Đá mài"
+    "Đá mài",
+    "nang"
   ],
   [
     "LỴ",
-    "Hoa lài"
+    "Hoa lài",
+    "nang"
   ],
   [
     "BA",
-    "Bông sói"
+    "Bông sói",
+    "ngang"
   ],
   [
     "SÀI",
-    "Chó sói"
+    "Chó sói",
+    "huyen"
   ],
   [
     "PHẤT",
-    "Lợn lòi"
+    "Lợn lòi",
+    "sac"
   ],
   [
     "NHỊ",
-    "Hai"
+    "Hai",
+    "nang"
   ],
   [
     "YÊU",
-    "Nhỏ"
+    "Nhỏ",
+    "ngang"
   ],
   [
     "QUỲNH",
-    "Vò võ"
+    "Vò võ",
+    "huyen"
   ],
   [
     "KHOÁI",
-    "Ngùi ngùi"
+    "Ngùi ngùi",
+    "sac"
   ],
   [
     "VẪN",
-    "Ngậm môi"
+    "Ngậm môi",
+    "nga"
   ],
   [
     "LUYẾN",
-    "Co cánh"
+    "Co cánh",
+    "sac"
   ],
   [
     "Á",
-    "Sánh"
+    "Sánh",
+    "sac"
   ],
   [
     "SÀI",
-    "Tày"
+    "Tày",
+    "huyen"
   ],
   [
     "ĐỀ",
-    "Chỉ gai"
+    "Chỉ gai",
+    "huyen"
   ],
   [
     "NHỨ",
-    "Bông vải"
+    "Bông vải",
+    "sac"
   ],
   [
     "KẾ",
-    "Búi tóc"
+    "Búi tóc",
+    "sac"
   ],
   [
     "KHÔN",
-    "Cạo đầu"
+    "Cạo đầu",
+    "ngang"
   ],
   [
     "DIỆU",
-    "Mầu"
+    "Mầu",
+    "nang"
   ],
   [
     "TU",
-    "Hổ"
+    "Hổ",
+    "ngang"
   ],
   [
     "TÍCH",
-    "Mổ"
+    "Mổ",
+    "sac"
   ],
   [
     "DỊCH",
-    "Xoi"
+    "Xoi",
+    "nang"
   ],
   [
     "LỆ",
-    "Đôi"
+    "Đôi",
+    "nang"
   ],
   [
     "MÂU",
-    "Sánh"
+    "Sánh",
+    "ngang"
   ],
   [
     "MỆNH",
-    "Mệnh"
+    "Mệnh",
+    "nang"
   ],
   [
     "THẦN",
-    "Ngôi"
+    "Ngôi",
+    "huyen"
   ],
   [
     "THIỀU",
-    "Ngùi ngùi"
+    "Ngùi ngùi",
+    "huyen"
   ],
   [
     "CĂNG",
-    "Năm nắm"
+    "Năm nắm",
+    "ngang"
   ],
   [
     "NGHIỄM",
-    "Chăm chắm"
+    "Chăm chắm",
+    "nga"
   ],
   [
     "XÂM",
-    "Dần dần"
+    "Dần dần",
+    "ngang"
   ],
   [
     "VẬN",
-    "Vần"
+    "Vần",
+    "nang"
   ],
   [
     "THOẠI",
-    "Nói"
+    "Nói",
+    "nang"
   ],
   [
     "PHỦ",
-    "Mới"
+    "Mới",
+    "hoi"
   ],
   [
     "TÀO",
-    "Tàn"
+    "Tàn",
+    "huyen"
   ],
   [
     "THAO",
-    "Tham ăn"
+    "Tham ăn",
+    "ngang"
   ],
   [
     "BIỂU",
-    "Chết đói"
+    "Chết đói",
+    "hoi"
   ],
   [
     "UY",
-    "Thân ái"
+    "Thân ái",
+    "ngang"
   ],
   [
     "BẰNG",
-    "Dựa nương"
+    "Dựa nương",
+    "huyen"
   ],
   [
     "DŨNG",
-    "Bồi đường"
+    "Bồi đường",
+    "nga"
   ],
   [
     "KỲ",
-    "Đống"
+    "Đống",
+    "huyen"
   ],
   [
     "NGHÊ",
-    "Mống"
+    "Mống",
+    "ngang"
   ],
   [
     "VẬN",
-    "Vầng"
+    "Vầng",
+    "nang"
   ],
   [
     "ĐÌNH",
-    "Dừng"
+    "Dừng",
+    "huyen"
   ],
   [
     "TRỤ",
-    "Trọ"
+    "Trọ",
+    "nang"
   ],
   [
     "CHỈ",
-    "Mỡ"
+    "Mỡ",
+    "hoi"
   ],
   [
     "MẠC",
-    "Màng"
+    "Màng",
+    "nang"
   ],
   [
     "HOÀNG",
-    "Bàng hoàng"
+    "Bàng hoàng",
+    "huyen"
   ],
   [
     "PHẤT",
-    "Phưởng phất"
+    "Phưởng phất",
+    "sac"
   ],
   [
     "THUẤN",
-    "Chợp mắt"
+    "Chợp mắt",
+    "sac"
   ],
   [
     "THIÊU",
-    "Ù tai"
+    "Ù tai",
+    "ngang"
   ],
   [
     "PHỈ",
-    "Cái đài"
+    "Cái đài",
+    "hoi"
   ],
   [
     "SAO",
-    "Cái rá"
+    "Cái rá",
+    "ngang"
   ],
   [
     "ĐÍCH",
-    "Con cả"
+    "Con cả",
+    "sac"
   ],
   [
     "LÝ",
-    "Em dâu"
+    "Em dâu",
+    "sac"
   ],
   [
     "LƯƠNG",
-    "Cầu"
+    "Cầu",
+    "ngang"
   ],
   [
     "SẠN",
-    "Nhà sạn"
+    "Nhà sạn",
+    "nang"
   ],
   [
     "ĐIẾM",
-    "Nhà quán"
+    "Nhà quán",
+    "sac"
   ],
   [
     "CỔ",
-    "Đi buôn"
+    "Đi buôn",
+    "hoi"
   ],
   [
     "ĐỘC",
-    "Đọc ôn"
+    "Đọc ôn",
+    "nang"
   ],
   [
     "CHÚ",
-    "Thích nghĩa"
+    "Thích nghĩa",
+    "sac"
   ],
   [
     "UYỂN",
-    "Chén dĩa"
+    "Chén dĩa",
+    "hoi"
   ],
   [
     "ÂU",
-    "Bình"
+    "Bình",
+    "ngang"
   ],
   [
     "CÁT",
-    "Lành"
+    "Lành",
+    "sac"
   ],
   [
     "HUNG",
-    "Dữ"
+    "Dữ",
+    "ngang"
   ],
   [
     "TỰ",
-    "Thứ"
+    "Thứ",
+    "nang"
   ],
   [
     "BỐI",
-    "Loài"
+    "Loài",
+    "sac"
   ],
   [
     "SAI",
-    "Sai"
+    "Sai",
+    "ngang"
   ],
   [
     "SUYỄN",
-    "Suyễn"
+    "Suyễn",
+    "nga"
   ],
   [
     "DỊCH",
-    "Diễn"
+    "Diễn",
+    "nang"
   ],
   [
     "SAO",
-    "Sao"
+    "Sao",
+    "ngang"
   ],
   [
     "CHIỂU",
-    "Ao"
+    "Ao",
+    "hoi"
   ],
   [
     "ĐẬU",
-    "Lỗ"
+    "Lỗ",
+    "nang"
   ],
   [
     "THOÁ",
-    "Nhổ"
+    "Nhổ",
+    "sac"
   ],
   [
     "HAO",
-    "hen"
+    "hen",
+    "ngang"
   ],
   [
     "HUYÊN",
-    "Cỏ huyên"
+    "Cỏ huyên",
+    "ngang"
   ],
   [
     "UNG",
-    "Rau muống"
+    "Rau muống",
+    "ngang"
   ],
   [
     "TRI",
-    "Làm ruộng"
+    "Làm ruộng",
+    "ngang"
   ],
   [
     "CẤU",
-    "Làm nhà"
+    "Làm nhà",
+    "sac"
   ],
   [
     "DUNG",
-    "Cây đa"
+    "Cây đa",
+    "ngang"
   ],
   [
     "UÝ",
-    "Ích mẫu"
+    "Ích mẫu",
+    "sac"
   ],
   [
     "ĐIÊU ",
-    "Gian giảo"
+    "Gian giảo",
+    "ngang"
   ],
   [
     "MÃ",
-    "Mã La"
+    "Mã La",
+    "nga"
   ],
   [
     "GIÁ",
-    "Chim đa đa"
+    "Chim đa đa",
+    "sac"
   ],
   [
     "THUẦN",
-    "Chim cút"
+    "Chim cút",
+    "huyen"
   ],
   [
     "TÊ",
-    "Tê giác"
+    "Tê giác",
+    "ngang"
   ],
   [
     "BÁC",
-    "Ngựa lang"
+    "Ngựa lang",
+    "sac"
   ],
   [
     "HẠO",
-    "Mênh mang"
+    "Mênh mang",
+    "nang"
   ],
   [
     "NHÂN",
-    "Nghi ngút"
+    "Nghi ngút",
+    "ngang"
   ],
   [
     "BÚT",
-    "Bút"
+    "Bút",
+    "sac"
   ],
   [
     "ĐAO",
-    "Đao"
+    "Đao",
+    "ngang"
   ],
   [
     "NGAO",
-    "Ngao"
+    "Ngao",
+    "ngang"
   ],
   [
     "HIẾN",
-    "Hiến"
+    "Hiến",
+    "sac"
   ],
   [
     "GIẢ",
-    "Chén"
+    "Chén",
+    "hoi"
   ],
   [
     "HỒ",
-    "Hồ"
+    "Hồ",
+    "huyen"
   ],
   [
     "XƯƠNG ",
-    "Xương bồ"
+    "Xương bồ",
+    "ngang"
   ],
   [
     "Ý",
-    "Ý dĩ"
+    "Ý dĩ",
+    "sac"
   ],
   [
     "KỶ",
-    "Cây kỷ"
+    "Cây kỷ",
+    "hoi"
   ],
   [
     "NHU",
-    "Hương nhu"
+    "Hương nhu",
+    "ngang"
   ],
   [
     "SA",
-    "Áo thầy tu"
+    "Áo thầy tu",
+    "ngang"
   ],
   [
     "NẠP",
-    "Áo vá"
+    "Áo vá",
+    "nang"
   ],
   [
     "SA",
-    "Cát"
+    "Cát",
+    "ngang"
   ],
   [
     "NHỊ",
-    "Mềm"
+    "Mềm",
+    "nang"
   ],
   [
     "LỘNG",
-    "Lăng loàn"
+    "Lăng loàn",
+    "nang"
   ],
   [
     "NGÂN",
-    "Ngang trái"
+    "Ngang trái",
+    "ngang"
   ],
   [
     "NGA",
-    "Ngải"
+    "Ngải",
+    "ngang"
   ],
   [
     "NGHIỆT",
-    "Riềng"
+    "Riềng",
+    "nang"
   ],
   [
     "LÂN",
-    "Giềng"
+    "Giềng",
+    "ngang"
   ],
   [
     "LỮ",
-    "Nhà"
+    "Nhà",
+    "nga"
   ],
   [
     "GIAO",
-    "Qua"
+    "Qua",
+    "ngang"
   ],
   [
     "GIÁP",
-    "Bè"
+    "Bè",
+    "sac"
   ],
   [
     "PHƯƠNG",
-    "Cá mè"
+    "Cá mè",
+    "ngang"
   ],
   [
     "LẠC",
-    "Cá mối"
+    "Cá mối",
+    "nang"
   ],
   [
     "HỖ",
-    "Đắp đổi"
+    "Đắp đổi",
+    "nga"
   ],
   [
     "SAI",
-    "So le"
+    "So le",
+    "ngang"
   ],
   [
     "LÊ",
-    "Rau lê"
+    "Rau lê",
+    "ngang"
   ],
   [
     "TRÚC",
-    "Cây trúc"
+    "Cây trúc",
+    "sac"
   ],
   [
     "CHÚC",
-    "Lời chúc"
+    "Lời chúc",
+    "sac"
   ],
   [
     "NHÂN",
-    "Lễ cầu"
+    "Lễ cầu",
+    "ngang"
   ],
   [
     "SƠ",
-    "Chải đầu"
+    "Chải đầu",
+    "ngang"
   ],
   [
     "THẤU",
-    "Súc miệng"
+    "Súc miệng",
+    "sac"
   ],
   [
     "TA",
-    "Lúng liếng"
+    "Lúng liếng",
+    "ngang"
   ],
   [
     "ĐẬU",
-    "Tạm lưu"
+    "Tạm lưu",
+    "nang"
   ],
   [
     "SÀO",
-    "Ươm tơ"
+    "Ươm tơ",
+    "huyen"
   ],
   [
     "TÍCH",
-    "Chắp sợi"
+    "Chắp sợi",
+    "sac"
   ],
   [
     "PHAN",
-    "Phơi phới"
+    "Phơi phới",
+    "ngang"
   ],
   [
     "ƯỞNG",
-    "Bùi ngùi"
+    "Bùi ngùi",
+    "hoi"
   ],
   [
     "THOAN",
-    "Rồi"
+    "Rồi",
+    "ngang"
   ],
   [
     "CỨC",
-    "Giục"
+    "Giục",
+    "sac"
   ],
   [
     "LAO",
-    "Rượu"
+    "Rượu",
+    "ngang"
   ],
   [
     "CÚC",
-    "Men"
+    "Men",
+    "sac"
   ],
   [
     "THIÊN",
-    "Ven"
+    "Ven",
+    "ngang"
   ],
   [
     "MẠCH",
-    "Đường mạch"
+    "Đường mạch",
+    "nang"
   ],
   [
     "HOẠCH",
-    "Vạch"
+    "Vạch",
+    "nang"
   ],
   [
     "CÂU",
-    "Lưỡi câu"
+    "Lưỡi câu",
+    "ngang"
   ],
   [
     "THIỀU",
-    "Cá dầu"
+    "Cá dầu",
+    "huyen"
   ],
   [
     "TIỂU",
-    "Cá bổn"
+    "Cá bổn",
+    "hoi"
   ],
   [
     "CỔN",
-    "Áo cổn"
+    "Áo cổn",
+    "hoi"
   ],
   [
     "CỪU ",
-    "Áo Cừu"
+    "Áo Cừu",
+    "huyen"
   ],
   [
     "HÀO",
-    "Hào"
+    "Hào",
+    "huyen"
   ],
   [
     "QUÁI",
-    "Quẻ"
+    "Quẻ",
+    "sac"
   ],
   [
     "KÍNH",
-    "Nể"
+    "Nể",
+    "sac"
   ],
   [
     "ĐIỆU",
-    "Thương"
+    "Thương",
+    "nang"
   ],
   [
     "BẠC",
-    "Rèm"
+    "Rèm",
+    "nang"
   ],
   [
     "CHIÊM",
-    "Đá nện"
+    "Đá nện",
+    "ngang"
   ],
   [
     "GIỚI",
-    "Đến"
+    "Đến",
+    "sac"
   ],
   [
     "TỒ",
-    "Qua"
+    "Qua",
+    "huyen"
   ],
   [
     "NHẬM",
-    "Làm thuê"
+    "Làm thuê",
+    "nang"
   ],
   [
     "DƯ",
-    "Làm ruộng"
+    "Làm ruộng",
+    "ngang"
   ],
   [
     "TỊCH",
-    "Nước cạn"
+    "Nước cạn",
+    "nang"
   ],
   [
     "ĐÔN",
-    "Mặt trời"
+    "Mặt trời",
+    "ngang"
   ],
   [
     "LÔ",
-    "Cá rìa"
+    "Cá rìa",
+    "ngang"
   ],
   [
     "DỰ",
-    "Cá lẹp"
+    "Cá lẹp",
+    "nang"
   ],
   [
     "YÊU",
-    "Ép"
+    "Ép",
+    "ngang"
   ],
   [
     "HÃN",
-    "Theo"
+    "Theo",
+    "nga"
   ],
   [
     "TRỊCH",
-    "Gieo"
+    "Gieo",
+    "nang"
   ],
   [
     "CHÂM",
-    "Rót"
+    "Rót",
+    "ngang"
   ],
   [
     "CẮNG",
-    "Suốt"
+    "Suốt",
+    "sac"
   ],
   [
     "ĐẠT",
-    "Thông"
+    "Thông",
+    "nang"
   ],
   [
     "KHƯƠNG",
-    "Bọ hung"
+    "Bọ hung",
+    "ngang"
   ],
   [
     "GIỚI",
-    "Con sâu"
+    "Con sâu",
+    "sac"
   ],
   [
     "LÂU",
-    "Sâu"
+    "Sâu",
+    "ngang"
   ],
   [
     "YẾT",
-    "Hà"
+    "Hà",
+    "sac"
   ],
   [
     "THẾ",
-    "Tha"
+    "Tha",
+    "sac"
   ],
   [
     "TRÁCH",
-    "Trách"
+    "Trách",
+    "sac"
   ],
   [
     "LỊCH",
-    "Lịch"
+    "Lịch",
+    "nang"
   ],
   [
     "TAO",
-    "Xôn xao"
+    "Xôn xao",
+    "ngang"
   ],
   [
     "CAO",
-    "Cao"
+    "Cao",
+    "ngang"
   ],
   [
     "LUỸ",
-    "Luỹ"
+    "Luỹ",
+    "nga"
   ],
   [
     "LƯU",
-    "Chim cú"
+    "Chim cú",
+    "ngang"
   ],
   [
     "ĐỀ",
-    "Chim Đề"
+    "Chim Đề",
+    "huyen"
   ],
   [
     "PHÙ",
-    "Le le"
+    "Le le",
+    "huyen"
   ],
   [
     "LIỄM",
-    "Chim sáo"
+    "Chim sáo",
+    "nga"
   ],
   [
     "PHÁO",
-    "Pháo"
+    "Pháo",
+    "sac"
   ],
   [
     "XA",
-    "Xe"
+    "Xe",
+    "ngang"
   ],
   [
     "THƯ",
-    "So le"
+    "So le",
+    "ngang"
   ],
   [
     "TRÙ",
-    "Thủng thẳng"
+    "Thủng thẳng",
+    "huyen"
   ],
   [
     "CHỈNH",
-    "Ngay ngắn"
+    "Ngay ngắn",
+    "hoi"
   ],
   [
     "NGHIÊM",
-    "Nghiêm"
+    "Nghiêm",
+    "ngang"
   ],
   [
     "LIÊM",
-    "Câu liêm"
+    "Câu liêm",
+    "ngang"
   ],
   [
     "BẢN",
-    "Sọt"
+    "Sọt",
+    "hoi"
   ],
   [
     "CẢ",
-    "Được"
+    "Được",
+    "hoi"
   ],
   [
     "SÀN",
-    "Yếu"
+    "Yếu",
+    "huyen"
   ],
   [
     "NẠI",
-    "Chịu"
+    "Chịu",
+    "nang"
   ],
   [
     "THẨM",
-    "Xét"
+    "Xét",
+    "hoi"
   ],
   [
     "SÁP",
-    "Rít"
+    "Rít",
+    "sac"
   ],
   [
     "THÔ",
-    "To"
+    "To",
+    "ngang"
   ],
   [
     "NGHĨ",
-    "So"
+    "So",
+    "nga"
   ],
   [
     "SÚC",
-    "Rút"
+    "Rút",
+    "sac"
   ],
   [
     "PHIỀN",
-    "Đốt"
+    "Đốt",
+    "huyen"
   ],
   [
     "BÁI",
-    "Mưa rào"
+    "Mưa rào",
+    "sac"
   ],
   [
     "QUẬT",
-    "Đào"
+    "Đào",
+    "nang"
   ],
   [
     "XÚC",
-    "Giục"
+    "Giục",
+    "sac"
   ],
   [
     "PHẦU",
-    "Vục"
+    "Vục",
+    "huyen"
   ],
   [
     "KHỐNG",
-    "Đem"
+    "Đem",
+    "sac"
   ],
   [
     "DUYỆT",
-    "Xem"
+    "Xem",
+    "nang"
   ],
   [
     "TUÂN",
-    "Hỏi"
+    "Hỏi",
+    "ngang"
   ],
   [
     "TUỴ",
-    "Mỏi"
+    "Mỏi",
+    "nang"
   ],
   [
     "CÙ",
-    "Gầy"
+    "Gầy",
+    "huyen"
   ],
   [
     "HUÂN",
-    "Say"
+    "Say",
+    "ngang"
   ],
   [
     "NỊCH",
-    "Đắm"
+    "Đắm",
+    "nang"
   ],
   [
     "NGỘT",
-    "Chằm hẳm"
+    "Chằm hẳm",
+    "nang"
   ],
   [
     "HOÀN",
-    "Hăm hăm"
+    "Hăm hăm",
+    "huyen"
   ],
   [
     "LỤC",
-    "Rau răm"
+    "Rau răm",
+    "nang"
   ],
   [
     "BỒ",
-    "Cây lác"
+    "Cây lác",
+    "huyen"
   ],
   [
     "ĐỔ",
-    "Đánh bạc"
+    "Đánh bạc",
+    "hoi"
   ],
   [
     "CANH",
-    "Hoạ thơ"
+    "Hoạ thơ",
+    "ngang"
   ],
   [
     "NHAI",
-    "Bờ"
+    "Bờ",
+    "ngang"
   ],
   [
     "ĐẢO",
-    "Đảo"
+    "Đảo",
+    "hoi"
   ],
   [
     "SỬU",
-    "Sửu"
+    "Sửu",
+    "hoi"
   ],
   [
     "MÙI",
-    "Mùi"
+    "Mùi",
+    "huyen"
   ],
   [
     "THỨC",
-    "Chùi"
+    "Chùi",
+    "sac"
   ],
   [
     "HUY",
-    "Rách"
+    "Rách",
+    "ngang"
   ],
   [
     "HÁC",
-    "Hách"
+    "Hách",
+    "sac"
   ],
   [
     "NGA",
-    "Ngâm nga"
+    "Ngâm nga",
+    "ngang"
   ],
   [
     "XA",
-    "Xa"
+    "Xa",
+    "ngang"
   ],
   [
     "XỈ",
-    "Xỉ"
+    "Xỉ",
+    "hoi"
   ],
   [
     "THƯ",
-    "Con khỉ"
+    "Con khỉ",
+    "ngang"
   ],
   [
     "BI",
-    "Con Bi"
+    "Con Bi",
+    "ngang"
   ],
   [
     "YẾN",
-    "Chim gi"
+    "Chim gi",
+    "sac"
   ],
   [
     "HUY",
-    "Chim trả"
+    "Chim trả",
+    "ngang"
   ],
   [
     "XUYẾT",
-    "Vá"
+    "Vá",
+    "sac"
   ],
   [
     "TRIỀN",
-    "Ràng"
+    "Ràng",
+    "huyen"
   ],
   [
     "CƯƠNG",
-    "Dây cương"
+    "Dây cương",
+    "ngang"
   ],
   [
     "TIẾT",
-    "Dây buộc"
+    "Dây buộc",
+    "sac"
   ],
   [
     "BÀN",
-    "Sẹo (thẹo)"
+    "Sẹo (thẹo)",
+    "huyen"
   ],
   [
     "HUYỄN",
-    "Hoa mắt"
+    "Hoa mắt",
+    "nga"
   ],
   [
     "SẢNH",
-    "Nhà khách"
+    "Nhà khách",
+    "hoi"
   ],
   [
     "HẠP",
-    "Cửa"
+    "Cửa",
+    "nang"
   ],
   [
     "DU",
-    "Thửa"
+    "Thửa",
+    "ngang"
   ],
   [
     "DUẬT",
-    "Bèn"
+    "Bèn",
+    "nang"
   ],
   [
     "THƯỢNG",
-    "Trên"
+    "Trên",
+    "nang"
   ],
   [
     "ƯƠNG",
-    "Giữa"
+    "Giữa",
+    "ngang"
   ],
   [
     "KHUÔNG",
-    "Chứa"
+    "Chứa",
+    "ngang"
   ],
   [
     "SẮC",
-    "Răn"
+    "Răn",
+    "sac"
   ],
   [
     "CAN",
-    "Cần"
+    "Cần",
+    "ngang"
   ],
   [
     "QUYẾT",
-    "Cột"
+    "Cột",
+    "sac"
   ],
   [
     "LƯ",
-    "Con cộc"
+    "Con cộc",
+    "ngang"
   ],
   [
     "CẢM",
-    "Cá măng"
+    "Cá măng",
+    "hoi"
   ],
   [
     "NÁ",
-    "Chăng"
+    "Chăng",
+    "sac"
   ],
   [
     "PHẢ",
-    "Vã"
+    "Vã",
+    "hoi"
   ],
   [
     "XẠ",
-    "Con xạ"
+    "Con xạ",
+    "nang"
   ],
   [
     "NGHÊ ",
-    "cá nghê"
+    "cá nghê",
+    "ngang"
   ],
   [
     "LÝ",
-    "Quê"
+    "Quê",
+    "sac"
   ],
   [
     "TƯ",
-    "Đẹp"
+    "Đẹp",
+    "ngang"
   ],
   [
     "TRÁCH",
-    "Đẹp"
+    "Đẹp",
+    "sac"
   ],
   [
     "KIÊU",
-    "Xấc"
+    "Xấc",
+    "ngang"
   ],
   [
     "SIỀM",
-    "Hót"
+    "Hót",
+    "huyen"
   ],
   [
     "CẨN",
-    "Kín"
+    "Kín",
+    "hoi"
   ],
   [
     "KIÊN",
-    "Sẻn"
+    "Sẻn",
+    "ngang"
   ],
   [
     "ĐỐ",
-    "Ghen"
+    "Ghen",
+    "sac"
   ],
   [
     "ĐĂNG",
-    "Lên"
+    "Lên",
+    "ngang"
   ],
   [
     "TỰ",
-    "Nối"
+    "Nối",
+    "nang"
   ],
   [
     "GIAO",
-    "Cá đuối"
+    "Cá đuối",
+    "ngang"
   ],
   [
     "KỶ",
-    "Con hươu"
+    "Con hươu",
+    "hoi"
   ],
   [
     "A",
-    "Theo"
+    "Theo",
+    "ngang"
   ],
   [
     "TUẬN",
-    "Tuần"
+    "Tuần",
+    "nang"
   ],
   [
     "HUYỀN",
-    "Dây cung"
+    "Dây cung",
+    "huyen"
   ],
   [
     "CẤU",
-    "Giương"
+    "Giương",
+    "sac"
   ],
   [
     "BẰNG",
-    "Nương"
+    "Nương",
+    "huyen"
   ],
   [
     "LUYẾN",
-    "Mến"
+    "Mến",
+    "sac"
   ],
   [
     "DẬT",
-    "Nén"
+    "Nén",
+    "nang"
   ],
   [
     "QUÂN",
-    "30 cân"
+    "30 cân",
+    "ngang"
   ],
   [
     "TRÁCH",
-    "Khăn"
+    "Khăn",
+    "sac"
   ],
   [
     "THÂN",
-    "Giải"
+    "Giải",
+    "ngang"
   ],
   [
     "CHÂU",
-    "Bãi"
+    "Bãi",
+    "ngang"
   ],
   [
     "HỰU",
-    "Vườn"
+    "Vườn",
+    "nang"
   ],
   [
     "QUỸ",
-    "Bát đàn"
+    "Bát đàn",
+    "nga"
   ],
   [
     "CÙNG",
-    "Gậy trúc"
+    "Gậy trúc",
+    "huyen"
   ],
   [
     "TRIÊU",
-    "Dài tóc"
+    "Dài tóc",
+    "ngang"
   ],
   [
     "TƯ ",
-    "Rậm râu"
+    "Rậm râu",
+    "ngang"
   ],
   [
     "TỐC",
-    "Rau"
+    "Rau",
+    "sac"
   ],
   [
     "ÂU",
-    "Cây lác"
+    "Cây lác",
+    "ngang"
   ],
   [
     "HOẮC",
-    "Trâu bạc"
+    "Trâu bạc",
+    "sac"
   ],
   [
     "LY",
-    "Ngựa đen"
+    "Ngựa đen",
+    "ngang"
   ],
   [
     "NÔ",
-    "Dốt hèn"
+    "Dốt hèn",
+    "ngang"
   ],
   [
     "XUẪN",
-    "Ngây dại"
+    "Ngây dại",
+    "nga"
   ],
   [
     "TỨC",
-    "Con dâu"
+    "Con dâu",
+    "sac"
   ],
   [
     "MÔ",
-    "Đàn bà"
+    "Đàn bà",
+    "ngang"
   ],
   [
     "NÙNG",
-    "Ta"
+    "Ta",
+    "huyen"
   ],
   [
     "BẠN",
-    "Bạn"
+    "Bạn",
+    "nang"
   ],
   [
     "DỊ",
-    "Hàng quán"
+    "Hàng quán",
+    "nang"
   ],
   [
     "ĐÀI",
-    "Quý đài"
+    "Quý đài",
+    "huyen"
   ],
   [
     "KINH",
-    "Gai"
+    "Gai",
+    "ngang"
   ],
   [
     "ĐỂ",
-    "Rễ"
+    "Rễ",
+    "hoi"
   ],
   [
     "HÀNG",
-    "Vượt bể"
+    "Vượt bể",
+    "huyen"
   ],
   [
     "NGHỈ",
-    "Chống đò"
+    "Chống đò",
+    "hoi"
   ],
   [
     "VU",
-    "Vò"
+    "Vò",
+    "ngang"
   ],
   [
     "ÁNG",
-    "Chậu"
+    "Chậu",
+    "sac"
   ],
   [
     "TƯ",
-    "Đau đáu"
+    "Đau đáu",
+    "ngang"
   ],
   [
     "NGẬT",
-    "Đầm đầm"
+    "Đầm đầm",
+    "nang"
   ],
   [
     "CỦ",
-    "Hăm hăm"
+    "Hăm hăm",
+    "hoi"
   ],
   [
     "BÂN",
-    "Rầy rậy"
+    "Rầy rậy",
+    "ngang"
   ],
   [
     "TÀI",
-    "Xảy"
+    "Xảy",
+    "huyen"
   ],
   [
     "TÁI",
-    "Hai"
+    "Hai",
+    "sac"
   ],
   [
     "MẬU",
-    "Dài"
+    "Dài",
+    "nang"
   ],
   [
     "VẶN",
-    "Rối"
+    "Rối",
+    "nang"
   ],
   [
     "NGHÊ",
-    "Mối"
+    "Mối",
+    "ngang"
   ],
   [
     "DẬT",
-    "Hàng"
+    "Hàng",
+    "nang"
   ],
   [
     "QUỸ",
-    "Lương"
+    "Lương",
+    "nga"
   ],
   [
     "TRÙ",
-    "Bột"
+    "Bột",
+    "huyen"
   ],
   [
     "TÚ",
-    "Lúa tốt"
+    "Lúa tốt",
+    "sac"
   ],
   [
     "NHUNG",
-    "Sừng non"
+    "Sừng non",
+    "ngang"
   ],
   [
     "ĐỒN",
-    "Heo con"
+    "Heo con",
+    "huyen"
   ],
   [
     "THUẦN",
-    "Trâu nghé"
+    "Trâu nghé",
+    "huyen"
   ],
   [
     "TRÍ",
-    "Để"
+    "Để",
+    "sac"
   ],
   [
     "ĐẠO",
-    "Noi"
+    "Noi",
+    "nang"
   ],
   [
     "ĐỒ",
-    "Bôi"
+    "Bôi",
+    "huyen"
   ],
   [
     "TỊCH",
-    "Mở"
+    "Mở",
+    "nang"
   ],
   [
     "QUYNH",
-    "Then cửa"
+    "Then cửa",
+    "ngang"
   ],
   [
     "VŨ",
-    "Chái nhà"
+    "Chái nhà",
+    "nga"
   ],
   [
     "PHÁC",
-    "Thật thà"
+    "Thật thà",
+    "sac"
   ],
   [
     "KIỆT",
-    "Dữ dội"
+    "Dữ dội",
+    "nang"
   ],
   [
     "LIỆT",
-    "Chói lói"
+    "Chói lói",
+    "nang"
   ],
   [
     "HOÀNG",
-    "Rõ ràng"
+    "Rõ ràng",
+    "huyen"
   ],
   [
     "HIỂN",
-    "Vinh vang"
+    "Vinh vang",
+    "hoi"
   ],
   [
     "BIẾM",
-    "Biếm"
+    "Biếm",
+    "sac"
   ],
   [
     "KIỆM",
-    "Kiệm"
+    "Kiệm",
+    "nang"
   ],
   [
     "CẦN",
-    "Cần"
+    "Cần",
+    "huyen"
   ],
   [
     "CẬT",
-    "Hỏi phăng"
+    "Hỏi phăng",
+    "nang"
   ],
   [
     "CUỐNG",
-    "Nói liều"
+    "Nói liều",
+    "sac"
   ],
   [
     "HUÂN",
-    "Nắng chiều"
+    "Nắng chiều",
+    "ngang"
   ],
   [
     "DÂM",
-    "Mưa dầm"
+    "Mưa dầm",
+    "ngang"
   ],
   [
     "LÂN",
-    "Ầm ầm"
+    "Ầm ầm",
+    "ngang"
   ],
   [
     "LỤC",
-    "Lục tục"
+    "Lục tục",
+    "nang"
   ],
   [
     "HỒN",
-    "Nước đục"
+    "Nước đục",
+    "huyen"
   ],
   [
     "PHỈ",
-    "Vẻ vang"
+    "Vẻ vang",
+    "hoi"
   ],
   [
     "BẢO",
-    "Chăn"
+    "Chăn",
+    "hoi"
   ],
   [
     "THIÊN",
-    "Mang đá gót"
+    "Mang đá gót",
+    "ngang"
   ],
   [
     "PHẠM",
-    "Nhà bụt"
+    "Nhà bụt",
+    "nang"
   ],
   [
     "THIỀN",
-    "Nhà chùa"
+    "Nhà chùa",
+    "huyen"
   ],
   [
     "BI",
-    "A dua"
+    "A dua",
+    "ngang"
   ],
   [
     "CHUẾ",
-    "Gởi rể"
+    "Gởi rể",
+    "sac"
   ],
   [
     "NHÂN",
-    "Tế lễ"
+    "Tế lễ",
+    "ngang"
   ],
   [
     "TIẾN",
-    "Dâng cơm"
+    "Dâng cơm",
+    "sac"
   ],
   [
     "TRÙ",
-    "Bếp nấu cơm"
+    "Bếp nấu cơm",
+    "huyen"
   ],
   [
     "CHỬ",
-    "Chày giã gạo"
+    "Chày giã gạo",
+    "hoi"
   ],
   [
     "TÍCH",
-    "Ráo"
+    "Ráo",
+    "sac"
   ],
   [
     "CANG",
-    "Khô"
+    "Khô",
+    "ngang"
   ],
   [
     "BỘC",
-    "Ồ Ồ"
+    "Ồ Ồ",
+    "nang"
   ],
   [
     "KHANH",
-    "Sang sảng"
+    "Sang sảng",
+    "ngang"
   ],
   [
     "THÔNG",
-    "Sáng"
+    "Sáng",
+    "ngang"
   ],
   [
     "ÁM",
-    "Mờ"
+    "Mờ",
+    "sac"
   ],
   [
     "PHẾ",
-    "Cờ"
+    "Cờ",
+    "sac"
   ],
   [
     "QUYẾN",
-    "Lụa"
+    "Lụa",
+    "sac"
   ],
   [
     "KHANH",
-    "Lỗ"
+    "Lỗ",
+    "ngang"
   ],
   [
     "TỈNH",
-    "Hang to"
+    "Hang to",
+    "hoi"
   ],
   [
     "PHA",
-    "Bờ"
+    "Bờ",
+    "ngang"
   ],
   [
     "DŨ",
-    "vựa"
+    "vựa",
+    "nga"
   ],
   [
     "PHẪN",
-    "Tóc ngựa"
+    "Tóc ngựa",
+    "nga"
   ],
   [
     "KINH",
-    "Ống chân trâu"
+    "Ống chân trâu",
+    "ngang"
   ],
   [
     "HOẰNG",
-    "Sâu"
+    "Sâu",
+    "huyen"
   ],
   [
     "VẬT",
-    "Bợn"
+    "Bợn",
+    "nang"
   ],
   [
     "THIỀU",
-    "Tóc mượn"
+    "Tóc mượn",
+    "huyen"
   ],
   [
     "TẢ",
-    "Tay chiêu"
+    "Tay chiêu",
+    "hoi"
   ],
   [
     "QUÂN",
-    "Đều"
+    "Đều",
+    "ngang"
   ],
   [
     "BIẾU",
-    "Biếu"
+    "Biếu",
+    "sac"
   ],
   [
     "TIẾU",
-    "Làm tiếu"
+    "Làm tiếu",
+    "sac"
   ],
   [
     "TRAI",
-    "Làm chay"
+    "Làm chay",
+    "ngang"
   ],
   [
     "MÊ ",
-    "Say"
+    "Say",
+    "ngang"
   ],
   [
     "TỈNH",
-    "Tỉnh"
+    "Tỉnh",
+    "hoi"
   ],
   [
     "LƯU",
-    "Thủng thỉnh"
+    "Thủng thỉnh",
+    "ngang"
   ],
   [
     "KHỐNG",
-    "Vội vàng"
+    "Vội vàng",
+    "sac"
   ],
   [
     "GIÀM",
-    "Ràng"
+    "Ràng",
+    "huyen"
   ],
   [
     "TỔNG",
-    "Tóm"
+    "Tóm",
+    "hoi"
   ],
   [
     "ĐỚI",
-    "Núm"
+    "Núm",
+    "sac"
   ],
   [
     "BA",
-    "Hoa"
+    "Hoa",
+    "ngang"
   ],
   [
     "THIỀU",
-    "Xa"
+    "Xa",
+    "huyen"
   ],
   [
     "TỊCH",
-    "Vắng"
+    "Vắng",
+    "nang"
   ],
   [
     "LUYỆN",
-    "Lụa trắng"
+    "Lụa trắng",
+    "nang"
   ],
   [
     "CƠ",
-    "Hàng xanh"
+    "Hàng xanh",
+    "ngang"
   ],
   [
     "THỤC",
-    "Lành"
+    "Lành",
+    "nang"
   ],
   [
     "KIÊU",
-    "Mạnh"
+    "Mạnh",
+    "ngang"
   ],
   [
     "XÍ",
-    "Thạnh"
+    "Thạnh",
+    "sac"
   ],
   [
     "HÂN",
-    "Vui"
+    "Vui",
+    "ngang"
   ],
   [
     "YỂM",
-    "Nốt ruồi"
+    "Nốt ruồi",
+    "hoi"
   ],
   [
     "CHI",
-    "Chín giạn"
+    "Chín giạn",
+    "ngang"
   ],
   [
     "PHÁO",
-    "Đạn"
+    "Đạn",
+    "sac"
   ],
   [
     "THỈ",
-    "Tên"
+    "Tên",
+    "hoi"
   ],
   [
     "THỈNH",
-    "Xin"
+    "Xin",
+    "hoi"
   ],
   [
     "NGHỆ",
-    "Lại"
+    "Lại",
+    "nang"
   ],
   [
     "HUY",
-    "Nắng giại"
+    "Nắng giại",
+    "ngang"
   ],
   [
     "LÂM",
-    "Mưa lâu"
+    "Mưa lâu",
+    "ngang"
   ],
   [
     "ÂU",
-    "Ca chầu"
+    "Ca chầu",
+    "ngang"
   ],
   [
     "TẠ",
-    "Tạ"
+    "Tạ",
+    "nang"
   ],
   [
     "DŨ",
-    "Đã"
+    "Đã",
+    "nga"
   ],
   [
     "THIỆM",
-    "Đầy"
+    "Đầy",
+    "nang"
   ],
   [
     "TĂNG",
-    "Thầy"
+    "Thầy",
+    "ngang"
   ],
   [
     "TƯỢNG",
-    "Thợ"
+    "Thợ",
+    "nang"
   ],
   [
     "TẦN",
-    "Rau ngổ"
+    "Rau ngổ",
+    "huyen"
   ],
   [
     "TẢO",
-    "Rau rong"
+    "Rau rong",
+    "hoi"
   ],
   [
     "BỒNG",
-    "Cỏ bồng"
+    "Cỏ bồng",
+    "huyen"
   ],
   [
     "HẠNH",
-    "Cây hạnh"
+    "Cây hạnh",
+    "nang"
   ],
   [
     "HÙNG",
-    "Mạnh"
+    "Mạnh",
+    "huyen"
   ],
   [
     "HÚNG",
-    "Say"
+    "Say",
+    "sac"
   ],
   [
     "KHẢN",
-    "Ngay"
+    "Ngay",
+    "hoi"
   ],
   [
     "XANG",
-    "Thật"
+    "Thật",
+    "ngang"
   ],
   [
     "THÚC",
-    "Giây phút"
+    "Giây phút",
+    "sac"
   ],
   [
     "LIÊU",
-    "Vắng xa"
+    "Vắng xa",
+    "ngang"
   ],
   [
     "LƯ",
-    "Nhà"
+    "Nhà",
+    "ngang"
   ],
   [
     "LẪM",
-    "Lẫm"
+    "Lẫm",
+    "nga"
   ],
   [
     "PHẨM",
-    "Phẩm"
+    "Phẩm",
+    "hoi"
   ],
   [
     "BAN",
-    "Ban"
+    "Ban",
+    "ngang"
   ],
   [
     "PHAN",
-    "Thịt xay"
+    "Thịt xay",
+    "ngang"
   ],
   [
     "",
-    ""
+    "",
+    "ngang"
   ],
   [
     "THÍCH",
-    "Bướu cây"
+    "Bướu cây",
+    "sac"
   ],
   [
     "CHÂU",
-    "Cây"
+    "Cây",
+    "ngang"
   ],
   [
     "LUỴ",
-    "Dây"
+    "Dây",
+    "nang"
   ],
   [
     "LÂU (LŨ)",
-    "Lụa"
+    "Lụa",
+    "nga"
   ],
   [
     "ĐỘT",
-    "Doạ"
+    "Doạ",
+    "nang"
   ],
   [
     "ĐÔ",
-    "Ừ"
+    "Ừ",
+    "ngang"
   ],
   [
     "TƯ",
-    "Quan tư"
+    "Quan tư",
+    "ngang"
   ],
   [
     "ĐẢNG",
-    "Đảng"
+    "Đảng",
+    "hoi"
   ],
   [
     "TẢNG",
-    "Đá tảng"
+    "Đá tảng",
+    "hoi"
   ],
   [
     "TƯ",
-    "Cỏ tranh"
+    "Cỏ tranh",
+    "ngang"
   ],
   [
     "HƯU",
-    "Lành"
+    "Lành",
+    "ngang"
   ],
   [
     "THỊNH",
-    "Thịnh đạt"
+    "Thịnh đạt",
+    "nang"
   ],
   [
     "TIẾT",
-    "Cây tiết"
+    "Cây tiết",
+    "sac"
   ],
   [
     "TÔ",
-    "Cây tô"
+    "Cây tô",
+    "ngang"
   ],
   [
     "TRẪM",
-    "Ta"
+    "Ta",
+    "nga"
   ],
   [
     "QUAN",
-    "Goá"
+    "Goá",
+    "ngang"
   ],
   [
     "CHẾ",
-    "Phép"
+    "Phép",
+    "sac"
   ],
   [
     "TANG",
-    "Tang"
+    "Tang",
+    "ngang"
   ],
   [
     "BIỀN",
-    "Mũ biền"
+    "Mũ biền",
+    "huyen"
   ],
   [
     "HỐT",
-    "Cái hốt"
+    "Cái hốt",
+    "sac"
   ],
   [
     "KHIÊN",
-    "Tuốt"
+    "Tuốt",
+    "ngang"
   ],
   [
     "BỈNH",
-    "Cầm"
+    "Cầm",
+    "hoi"
   ],
   [
     "TRIÊM",
-    "Dầm"
+    "Dầm",
+    "ngang"
   ],
   [
     "TẢ",
-    "Iả chảy"
+    "Iả chảy",
+    "hoi"
   ],
   [
     "CỤ",
-    "Gió cả"
+    "Gió cả",
+    "nang"
   ],
   [
     "VIÊM",
-    "Lửa xông"
+    "Lửa xông",
+    "ngang"
   ],
   [
     "ĐỒNG",
-    "Cùng"
+    "Cùng",
+    "huyen"
   ],
   [
     "NIẾP",
-    "Nắm"
+    "Nắm",
+    "sac"
   ],
   [
     "THANH",
-    "Cá trắm"
+    "Cá trắm",
+    "ngang"
   ],
   [
     "LỆ",
-    "Cá rưa"
+    "Cá rưa",
+    "nang"
   ],
   [
     "BÔ",
-    "Trưa"
+    "Trưa",
+    "ngang"
   ],
   [
     "VÃN",
-    "Muộn"
+    "Muộn",
+    "nga"
   ],
   [
     "UYỂN",
-    "Uốn"
+    "Uốn",
+    "hoi"
   ],
   [
     "BÀN",
-    "Quanh"
+    "Quanh",
+    "huyen"
   ],
   [
     "OANH",
-    ""
+    "",
+    "ngang"
   ],
   [
     "VŨ",
-    "Chim vũ"
+    "Chim vũ",
+    "nga"
   ],
   [
     "TRẦN",
-    "Cũ"
+    "Cũ",
+    "huyen"
   ],
   [
     "CỔ",
-    "Xưa"
+    "Xưa",
+    "hoi"
   ],
   [
     "NGỰ",
-    "Ngừa"
+    "Ngừa",
+    "nang"
   ],
   [
     "THẢO",
-    "Đánh"
+    "Đánh",
+    "hoi"
   ],
   [
     "MÃNH",
-    "Mạnh"
+    "Mạnh",
+    "nga"
   ],
   [
     "ĐÁNG",
-    "Ngăn"
+    "Ngăn",
+    "sac"
   ],
   [
     "THẦN",
-    "Thần"
+    "Thần",
+    "huyen"
   ],
   [
     "TƯỢNG",
-    "Tượng"
+    "Tượng",
+    "nang"
   ],
   [
     "ỐC",
-    "Trướng"
+    "Trướng",
+    "sac"
   ],
   [
     "VI",
-    "Màn"
+    "Màn",
+    "ngang"
   ],
   [
     "HÀN",
-    "Khoan"
+    "Khoan",
+    "huyen"
   ],
   [
     "ĐỊNH",
-    "Định"
+    "Định",
+    "nang"
   ],
   [
     "DẦN",
-    "Kính"
+    "Kính",
+    "huyen"
   ],
   [
     "NGOẠN",
-    "Lờn"
+    "Lờn",
+    "nang"
   ],
   [
     "LẪM",
-    "Nhơn nhơn"
+    "Nhơn nhơn",
+    "nga"
   ],
   [
     "HIÊU",
-    "Ong óng"
+    "Ong óng",
+    "ngang"
   ],
   [
     "QUỸ",
-    "Bóng"
+    "Bóng",
+    "nga"
   ],
   [
     "MAI",
-    "Rêu"
+    "Rêu",
+    "ngang"
   ],
   [
     "TIÊU",
-    "Thêu"
+    "Thêu",
+    "ngang"
   ],
   [
     "HỘI",
-    "Vẽ"
+    "Vẽ",
+    "nang"
   ],
   [
     "PHÁN",
-    "Rẽ"
+    "Rẽ",
+    "sac"
   ],
   [
     "CHƯƠNG",
-    "Rõ ràng"
+    "Rõ ràng",
+    "ngang"
   ],
   [
     "BI",
-    "Thương"
+    "Thương",
+    "ngang"
   ],
   [
     "NÃO",
-    "Sầu não"
+    "Sầu não",
+    "nga"
   ],
   [
     "KỲ",
-    "Lão"
+    "Lão",
+    "huyen"
   ],
   [
     "CẤU",
-    "Già"
+    "Già",
+    "sac"
   ],
   [
     "CÔ",
-    "Oa"
+    "Oa",
+    "ngang"
   ],
   [
     "QUYẾT",
-    "Từ giã"
+    "Từ giã",
+    "sac"
   ],
   [
     "CỰ",
-    "Cái giá"
+    "Cái giá",
+    "nang"
   ],
   [
     "NAO",
-    "Cái chiêng"
+    "Cái chiêng",
+    "ngang"
   ],
   [
     "DƯ",
-    "Khiêng"
+    "Khiêng",
+    "ngang"
   ],
   [
     "TẤN ",
-    ""
+    "",
+    "sac"
   ],
   [
     "KHUÔN",
-    "Mí mắt"
+    "Mí mắt",
+    "ngang"
   ],
   [
     "NGẠC",
-    "Hàm răng"
+    "Hàm răng",
+    "nang"
   ],
   [
     "NHAI",
-    "Dùng dằng"
+    "Dùng dằng",
+    "ngang"
   ],
   [
     "NGHỄ",
-    "Chờ đợi"
+    "Chờ đợi",
+    "nga"
   ],
   [
     "PHI",
-    "Phơi phới"
+    "Phơi phới",
+    "ngang"
   ],
   [
     "OANH",
-    "ầm ầm"
+    "ầm ầm",
+    "ngang"
   ],
   [
     "Ế",
-    "Râm"
+    "Râm",
+    "sac"
   ],
   [
     "DƯƠNG",
-    "Nắng"
+    "Nắng",
+    "ngang"
   ],
   [
     "CẢO",
-    "Trắng"
+    "Trắng",
+    "hoi"
   ],
   [
     "TƯƠNG",
-    "Vàng"
+    "Vàng",
+    "ngang"
   ],
   [
     "ĐỘNG",
-    "Hang"
+    "Hang",
+    "nang"
   ],
   [
     "KHOA",
-    "Tổ"
+    "Tổ",
+    "ngang"
   ],
   [
     "TRÁC",
-    "Đẽo gỗ"
+    "Đẽo gỗ",
+    "sac"
   ],
   [
     "THỜI",
-    "trồng cây"
+    "trồng cây",
+    "huyen"
   ],
   [
     "NINH",
-    "Lầy"
+    "Lầy",
+    "ngang"
   ],
   [
     "VÂN",
-    "Gợn"
+    "Gợn",
+    "ngang"
   ],
   [
     "KỲ",
-    "Lớn"
+    "Lớn",
+    "huyen"
   ],
   [
     "KHOẢ",
-    "Nhiều"
+    "Nhiều",
+    "hoi"
   ],
   [
     "TIÊU",
-    "Thiêu"
+    "Thiêu",
+    "ngang"
   ],
   [
     "THUẾ",
-    "Mọt"
+    "Mọt",
+    "sac"
   ],
   [
     "SẤM",
-    "Rót"
+    "Rót",
+    "sac"
   ],
   [
     "UYÊN",
-    "Sâu"
+    "Sâu",
+    "ngang"
   ],
   [
     "LỆ",
-    "Hàu"
+    "Hàu",
+    "nang"
   ],
   [
     "DU",
-    "Chạch"
+    "Chạch",
+    "ngang"
   ],
   [
     "CÁC",
-    "Nách"
+    "Nách",
+    "sac"
   ],
   [
     "THI",
-    "Thây"
+    "Thây",
+    "ngang"
   ],
   [
     "ĐỀ",
-    "Lụa dày"
+    "Lụa dày",
+    "huyen"
   ],
   [
     "HUỆ",
-    "Vải nhỏ"
+    "Vải nhỏ",
+    "nang"
   ],
   [
     "GIẢ",
-    "Đỏ"
+    "Đỏ",
+    "hoi"
   ],
   [
     "LÊ",
-    "Đen"
+    "Đen",
+    "ngang"
   ],
   [
     "ĐOAN",
-    "Đoan"
+    "Đoan",
+    "ngang"
   ],
   [
     "NẶC",
-    ""
+    "",
+    "nang"
   ],
   [
     "THÚC",
-    "Đậu"
+    "Đậu",
+    "sac"
   ],
   [
     "THẦM",
-    "Quả dâu"
+    "Quả dâu",
+    "huyen"
   ],
   [
     "DỰNG",
-    "Nàng hầu"
+    "Nàng hầu",
+    "nang"
   ],
   [
     "PHI",
-    "Vợ vua"
+    "Vợ vua",
+    "ngang"
   ],
   [
     "TRIỀN",
-    "Chợ"
+    "Chợ",
+    "huyen"
   ],
   [
     "TỨ",
-    "Hàng"
+    "Hàng",
+    "sac"
   ],
   [
     "HƯỚNG",
-    "Lương"
+    "Lương",
+    "sac"
   ],
   [
     "BỘT",
-    "Bột"
+    "Bột",
+    "nang"
   ],
   [
     "KIẾT",
-    "Côi cút"
+    "Côi cút",
+    "sac"
   ],
   [
     "SẦU",
-    "Buồn rầu"
+    "Buồn rầu",
+    "huyen"
   ],
   [
     "LÔ",
-    "Cây lau"
+    "Cây lau",
+    "ngang"
   ],
   [
     "GIỚI",
-    "Củ kiệu"
+    "Củ kiệu",
+    "sac"
   ],
   [
     "QUÁN",
-    "Chim sếu"
+    "Chim sếu",
+    "sac"
   ],
   [
     "THU",
-    "Chim Thu"
+    "Chim Thu",
+    "ngang"
   ],
   [
     "HOANG",
-    "Hoang vu"
+    "Hoang vu",
+    "ngang"
   ],
   [
     "ĐIỆN",
-    "Cõi điện"
+    "Cõi điện",
+    "nang"
   ],
   [
     "TOAN",
-    "Kiện"
+    "Kiện",
+    "ngang"
   ],
   [
     "CẠNH",
-    "Đua"
+    "Đua",
+    "nang"
   ],
   [
     "TƯ",
-    "Lo"
+    "Lo",
+    "ngang"
   ],
   [
     "HỐI",
-    "Dạy"
+    "Dạy",
+    "sac"
   ],
   [
     "KHƯ",
-    "Ngáy"
+    "Ngáy",
+    "ngang"
   ],
   [
     "THÁO",
-    "Kêu"
+    "Kêu",
+    "sac"
   ],
   [
     "THIÊM",
-    "Đều"
+    "Đều",
+    "ngang"
   ],
   [
     "PHÓ",
-    "Nhiếp"
+    "Nhiếp",
+    "sac"
   ],
   [
     "KHAM",
-    "Dẹp"
+    "Dẹp",
+    "ngang"
   ],
   [
     "TOẢ",
-    "Giằn"
+    "Giằn",
+    "hoi"
   ],
   [
     "DUY",
-    "Riêng"
+    "Riêng",
+    "ngang"
   ],
   [
     "CÁNH",
-    "Lại"
+    "Lại",
+    "sac"
   ],
   [
     "ĐẠI",
-    "Thanh đại"
+    "Thanh đại",
+    "nang"
   ],
   [
     "TINH",
-    "Thuỷ tinh"
+    "Thuỷ tinh",
+    "ngang"
   ],
   [
     "SINH",
-    "Tam sinh"
+    "Tam sinh",
+    "ngang"
   ],
   [
     "SÚC",
-    "Lục súc"
+    "Lục súc",
+    "sac"
   ],
   [
     "DUNG",
-    "Đúc"
+    "Đúc",
+    "ngang"
   ],
   [
     "LUYỆN",
-    "Rèn"
+    "Rèn",
+    "nang"
   ],
   [
     "TƯƠNG",
-    "Nên"
+    "Nên",
+    "ngang"
   ],
   [
     "HOÁ",
-    "Dậy"
+    "Dậy",
+    "sac"
   ],
   [
     "CẤU",
-    "Thấy"
+    "Thấy",
+    "sac"
   ],
   [
     "CHIÊM",
-    "Xem"
+    "Xem",
+    "ngang"
   ],
   [
     "DẪN",
-    "Đem"
+    "Đem",
+    "nga"
   ],
   [
     "XÂM",
-    "Lấn"
+    "Lấn",
+    "ngang"
   ],
   [
     "ĐINH",
-    "Dặn"
+    "Dặn",
+    "ngang"
   ],
   [
     "HỰU",
-    "Khuyên"
+    "Khuyên",
+    "nang"
   ],
   [
     "TÊ",
-    "Lên"
+    "Lên",
+    "ngang"
   ],
   [
     "SĨ",
-    "Đợi"
+    "Đợi",
+    "nga"
   ],
   [
     "TRÁCH",
-    "Hỡi"
+    "Hỡi",
+    "sac"
   ],
   [
     "Y",
-    "Ôi"
+    "Ôi",
+    "ngang"
   ],
   [
     "TOẢ",
-    "Nồi"
+    "Nồi",
+    "hoi"
   ],
   [
     "HỘC",
-    "Hộc"
+    "Hộc",
+    "nang"
   ],
   [
     "CHẤT",
-    "Bông thóc"
+    "Bông thóc",
+    "sac"
   ],
   [
     "SAO",
-    "Tiền"
+    "Tiền",
+    "ngang"
   ],
   [
     "TUẤN",
-    "Hiền"
+    "Hiền",
+    "sac"
   ],
   [
     "GIAI",
-    "Tốt"
+    "Tốt",
+    "ngang"
   ],
   [
     "HỐT",
-    "Một hốt"
+    "Một hốt",
+    "sac"
   ],
   [
     "THÙ",
-    "Một thù"
+    "Một thù",
+    "huyen"
   ],
   [
     "MÔNG",
-    "Mịt mù"
+    "Mịt mù",
+    "ngang"
   ],
   [
     "LÃNG",
-    "Sáng"
+    "Sáng",
+    "nga"
   ],
   [
     "KIẾN",
-    "Đầu tháng"
+    "Đầu tháng",
+    "sac"
   ],
   [
     "TẠP",
-    "Ba mươi"
+    "Ba mươi",
+    "nang"
   ],
   [
     "HÀ",
-    "Rươi"
+    "Rươi",
+    "huyen"
   ],
   [
     "TRÁ",
-    "Mắm"
+    "Mắm",
+    "sac"
   ],
   [
     "ĐƠN",
-    "Thắm"
+    "Thắm",
+    "ngang"
   ],
   [
     "LỤC",
-    "Xanh"
+    "Xanh",
+    "nang"
   ],
   [
     "PHẦU",
-    "Mành mành"
+    "Mành mành",
+    "huyen"
   ],
   [
     "MẠC",
-    "Màn trướng"
+    "Màn trướng",
+    "nang"
   ],
   [
     "HÀ",
-    "Mây ráng"
+    "Mây ráng",
+    "huyen"
   ],
   [
     "HỒNG",
-    "Cầu vồng"
+    "Cầu vồng",
+    "huyen"
   ],
   [
     "ĐÔNG",
-    "Mống đông"
+    "Mống đông",
+    "ngang"
   ],
   [
     "LÔI",
-    "Sấm"
+    "Sấm",
+    "ngang"
   ],
   [
     "NHẪM",
-    "Vạt áo"
+    "Vạt áo",
+    "nga"
   ],
   [
     "THUẾ",
-    "Khăn"
+    "Khăn",
+    "sac"
   ],
   [
     "TRÙ",
-    "Chăn"
+    "Chăn",
+    "huyen"
   ],
   [
     "ĐẠI",
-    "Đãy"
+    "Đãy",
+    "nang"
   ],
   [
     "CÁO",
-    "Dạy"
+    "Dạy",
+    "sac"
   ],
   [
     "THỆ",
-    "Thề"
+    "Thề",
+    "nang"
   ],
   [
     "BÁNG",
-    "Chê"
+    "Chê",
+    "sac"
   ],
   [
     "TẠC",
-    "Xấu"
+    "Xấu",
+    "nang"
   ],
   [
     "UẨN",
-    "Giấu"
+    "Giấu",
+    "hoi"
   ],
   [
     "PHONG",
-    "Giàu"
+    "Giàu",
+    "ngang"
   ],
   [
     "UYÊN",
-    "Sâu"
+    "Sâu",
+    "ngang"
   ],
   [
     "BÍ",
-    "Mật"
+    "Mật",
+    "sac"
   ],
   [
     "VI",
-    "Nhặt"
+    "Nhặt",
+    "ngang"
   ],
   [
     "TIỆM",
-    "Dần"
+    "Dần",
+    "nang"
   ],
   [
     "CẢNH",
-    "Răn"
+    "Răn",
+    "hoi"
   ],
   [
     "ÁC",
-    "Dữ"
+    "Dữ",
+    "sac"
   ],
   [
     "TỰ",
-    "Chữ"
+    "Chữ",
+    "nang"
   ],
   [
     "TỪ",
-    "Tờ"
+    "Tờ",
+    "huyen"
   ]
 ]

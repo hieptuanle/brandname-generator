@@ -2,7 +2,6 @@ $break-small: 320px;
 $break-large: 500px;
 
 :root {
-  box-sizing: border-box;
   font-size: 62.5%;
 
   @media screen and (min-width: $break-small) {
@@ -12,6 +11,10 @@ $break-large: 500px;
   @media screen and (min-width: $break-large) {
     font-size: 100%;
   }
+}
+
+body {
+  box-sizing: border-box;
 }
 
 body * {

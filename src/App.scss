@@ -6,13 +6,16 @@
   margin: 1em;
 }
 
-.brandname-container {
+.card {
   margin: auto;
-  max-width: 500px;
   box-shadow: 2px 4px 10px 3px rgba(39, 39, 39, 0.3);
   background-color: #fff;
   border-radius: 1em;
   padding: 0.5em;
+}
+
+.brandname-container {
+  max-width: 640px;
   display: flex;
   flex-flow: column;
   align-items: center;
@@ -59,5 +62,24 @@
 
   .generate-button:focus {
     outline: none;
+  }
+}
+
+.settings-container {
+  max-width: 300px;
+  padding: 1em 2em;
+  margin-top: 3em;
+
+  .option-field {
+    display: flex;
+    justify-content: space-between;
+
+    .select-tone {
+      margin-top: -0.3em;
+    }
+  }
+
+  .option-field:not(:first-child) {
+    margin-top: 1em;
   }
 }
