@@ -1,28 +1,39 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react'
+import './App.scss'
+import names from './data/names.json'
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.tsx</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
-    );
-  }
+function sample<T>(array: T[]): T {
+  return array[Math.floor(Math.random() * array.length)]
 }
 
-export default App;
+function getRandomBrandname({ length = 2 } = {}) {
+  const elements = Array.from({ length }, () => sample(names))
+  const words = elements.map(element => element[0]).join(' ')
+  const meaning = elements.map(element => element[1]).join(' ')
+  console.log({ words, meaning, elements })
+  return { words, meaning, elements }
+}
+
+function App() {
+  const [brandnameData, updateBrandnameData] = useState(getRandomBrandname())
+
+  return (
+    <div className="container">
+      <h1 className="header">Brandname Generator</h1>
+      <div className="brandname-container">
+        <p className="brandname">{brandnameData.words}</p>
+        <p className="meaning">{brandnameData.meaning}</p>
+        <button
+          className="generate-button"
+          onClick={() => {
+            updateBrandnameData(getRandomBrandname())
+          }}
+        >
+          Generate
+        </button>
+      </div>
+    </div>
+  )
+}
+
+export default App
