@@ -17,8 +17,30 @@
 .brandname-container {
   max-width: 640px;
   position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+
+  .forward,
+  .back {
+    color: #848484;
+    font-size: 1.5rem;
+    margin-top: 0;
+    cursor: pointer;
+    flex-basis: 3em;
+    flex-shrink: 1;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+  }
+
+  .forward {
+    justify-content: flex-end;
+  }
 
   .brandname-layout {
+    flex-shrink: 0;
+    flex-grow: 0;
     margin-top: 0;
     display: flex;
     flex-flow: column;
@@ -152,6 +174,7 @@
 }
 
 a.heart {
+  align-self: flex-start;
   display: block;
   position: absolute;
   cursor: pointer;

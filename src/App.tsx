@@ -11,6 +11,8 @@ type TBrandname = {
   elements: string[][]
 }
 
+const MAX_HISTORY = 100
+
 function sample<T>(array: T[]): T {
   return array[Math.floor(Math.random() * array.length)]
 }
@@ -73,9 +75,12 @@ function removeBrandname(
 }
 
 function App() {
-  const [brandnameData, updateBrandnameData] = useState(getRandomBrandname())
+  const initialBrandname = getRandomBrandname()
+  const [brandnameData, updateBrandnameData] = useState(initialBrandname)
   const [toneData, updateToneData] = useState(['', ''] as TTone[])
   const [storedBrandnames, updateStoredBrandnames] = useStoredBrandnames()
+  const [brandNameHistory, updateBrandnameHistory] = useState([initialBrandname] as TBrandname[])
+  const [historyIndex, updateHistoryIndex] = useState(0)
 
   return (
     <div className="container">
@@ -89,18 +94,48 @@ function App() {
         >
           ❤️
         </a>
+        <a
+          className="back"
+          onClick={() => {
+            if (brandNameHistory[historyIndex + 1]) {
+              updateBrandnameData(brandNameHistory[historyIndex + 1])
+              updateHistoryIndex(historyIndex + 1)
+            }
+          }}
+        >
+          {!!brandNameHistory[historyIndex + 1] && <span>◀︎</span>}
+        </a>
         <div className="brandname-layout">
           <p className="brandname">{brandnameData.words}</p>
           <p className="meaning">{brandnameData.meaning}</p>
           <button
             className="generate-button"
             onClick={() => {
-              updateBrandnameData(getRandomBrandname({ toneData }))
+              const brandData = getRandomBrandname({ toneData })
+              updateBrandnameData(brandData)
+              updateHistoryIndex(0)
+              brandNameHistory.splice(0, historyIndex)
+              brandNameHistory.unshift(brandData)
+              if (brandNameHistory.length > MAX_HISTORY) {
+                brandNameHistory.splice(MAX_HISTORY, brandNameHistory.length - MAX_HISTORY)
+              }
+              updateBrandnameHistory(brandNameHistory)
             }}
           >
             Generate
           </button>
         </div>
+        <a
+          className="forward"
+          onClick={() => {
+            if (brandNameHistory[historyIndex - 1]) {
+              updateBrandnameData(brandNameHistory[historyIndex - 1])
+              updateHistoryIndex(historyIndex - 1)
+            }
+          }}
+        >
+          {!!brandNameHistory[historyIndex - 1] && <span>►</span>}
+        </a>
       </div>
 
       <div className="card settings-container">
