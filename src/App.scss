@@ -92,7 +92,7 @@
 
 .container-stored-brandnames {
   margin-top: 2em;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 
   .header {
     font-size: 1.3rem;
@@ -186,4 +186,17 @@ a.link-remove {
 
 .divider {
   border-color: azure;
+}
+
+footer {
+  margin-top: 4em;
+  margin-bottom: 2em;
+  color: #8a8989;
+  text-align: center;
+
+  a {
+    font-size: 0.8rem;
+    text-decoration: none;
+    color: #8a8989;
+  }
 }

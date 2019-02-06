@@ -132,38 +132,47 @@ function App() {
       </div>
 
       {storedBrandnames.length > 0 && (
-        <Fragment>
-          <div className="container-stored-brandnames">
-            <hr className="divider" />
-            <h2 className="header">Stored Brandnames</h2>
-            <ul className="list-brandname">
-              {storedBrandnames.map(brandname => (
-                <li key={brandname.words + ' ' + brandname.meaning} className="item-brandname">
-                  <span className="words">{brandname.words}</span>
-                  <span className="meaning">{brandname.meaning}</span>
-                  <a
-                    className="link-remove"
-                    onClick={() => {
-                      removeBrandname(storedBrandnames, updateStoredBrandnames, brandname)
-                    }}
-                  >
-                    remove
-                  </a>
-                </li>
-              ))}
-            </ul>
-            <div className="clear-all">
-              <a
-                onClick={() => {
-                  updateStoredBrandnames([])
-                }}
-              >
-                Clear all
-              </a>
-            </div>
+        <div className="container-stored-brandnames">
+          <hr className="divider" />
+          <h2 className="header">Stored Brandnames</h2>
+          <ul className="list-brandname">
+            {storedBrandnames.map(brandname => (
+              <li key={brandname.words + ' ' + brandname.meaning} className="item-brandname">
+                <span className="words">{brandname.words}</span>
+                <span className="meaning">{brandname.meaning}</span>
+                <a
+                  className="link-remove"
+                  onClick={() => {
+                    removeBrandname(storedBrandnames, updateStoredBrandnames, brandname)
+                  }}
+                >
+                  remove
+                </a>
+              </li>
+            ))}
+          </ul>
+          <div className="clear-all">
+            <a
+              onClick={() => {
+                updateStoredBrandnames([])
+              }}
+            >
+              Clear all
+            </a>
           </div>
-        </Fragment>
+        </div>
       )}
+
+      <footer>
+        <a href="https://twitter.com/jokyspy" target="_blank">
+          Follow me on Twitter
+        </a>
+        .{' '}
+        <a href="https://github.com/hieptuanle/brandname-generator" target="_blank">
+          Fork on Github
+        </a>
+        .
+      </footer>
     </div>
   )
 }
