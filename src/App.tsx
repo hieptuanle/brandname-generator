@@ -58,7 +58,6 @@ function addBrandname(
   if (!matchBrandname) {
     const newBrandnames = storedBrandnames.concat(brandname)
     updateStoredBrandnames(newBrandnames)
-    store.set('brandnames', newBrandnames)
   }
 }
 
@@ -71,7 +70,6 @@ function removeBrandname(
     return !(_brandname.words === brandname.words && _brandname.meaning === brandname.meaning)
   })
   updateStoredBrandnames(newBrandnames)
-  store.set('brandnames', newBrandnames)
 }
 
 function App() {
