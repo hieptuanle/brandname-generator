@@ -2,7 +2,7 @@
   text-align: center;
   color: #8a8989;
   text-transform: uppercase;
-  font-size: 1.5em;
+  font-size: 1.5rem;
   margin: 1em;
 }
 
@@ -16,9 +16,14 @@
 
 .brandname-container {
   max-width: 640px;
-  display: flex;
-  flex-flow: column;
-  align-items: center;
+  position: relative;
+
+  .brandname-layout {
+    margin-top: 0;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+  }
 
   .brandname {
     font-size: 3rem;
@@ -49,19 +54,20 @@
     font-weight: bold;
     transition: 0.2s ease;
     box-shadow: 1px 1px 1px 0px rgba(39, 39, 39, 0.3);
-  }
-  .generate-button:hover {
-    transform: translate(-2px, -2px);
-    box-shadow: 2px 4px 10px 3px rgba(39, 39, 39, 0.2);
-  }
 
-  .generate-button:active {
-    transform: translate(2px, 2px);
-    box-shadow: 1px 1px 1px 0px rgba(39, 39, 39, 0.3);
-  }
+    &:hover {
+      transform: translate(-2px, -2px);
+      box-shadow: 2px 4px 10px 3px rgba(39, 39, 39, 0.2);
+    }
 
-  .generate-button:focus {
-    outline: none;
+    &:active {
+      transform: translate(2px, 2px);
+      box-shadow: 1px 1px 1px 0px rgba(39, 39, 39, 0.3);
+    }
+
+    &:focus {
+      outline: none;
+    }
   }
 }
 
@@ -82,4 +88,101 @@
   .option-field:not(:first-child) {
     margin-top: 1em;
   }
+}
+
+.container-stored-brandnames {
+  margin-top: 2em;
+
+  .header {
+    font-size: 1.3rem;
+  }
+
+  .list-brandname {
+    list-style: none;
+    padding-left: 0;
+
+    .item-brandname + .item-brandname {
+      margin-top: 0.5em;
+    }
+
+    .item-brandname {
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+      justify-content: space-between;
+      max-width: 300px;
+      align-items: center;
+
+      * + * {
+        margin-top: 0;
+      }
+    }
+  }
+
+  .words {
+    color: #1f1e1e;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  .meaning {
+    color: #2c2c2c;
+    font-size: 0.8rem;
+    text-transform: lowercase;
+    font-style: italic;
+  }
+
+  .clear-all {
+    text-align: center;
+
+    a {
+      text-transform: uppercase;
+      cursor: pointer;
+      font-weight: bold;
+      font-size: 0.8rem;
+      color: #848484;
+
+      &:hover {
+        color: #000;
+      }
+    }
+  }
+}
+
+a.heart {
+  display: block;
+  position: absolute;
+  cursor: pointer;
+  left: auto;
+  right: 0.6em;
+  transition: 0.2s ease;
+
+  &:hover {
+    transform: translate(-2px, -2px);
+  }
+
+  &:active {
+    transform: translate(2px, 2px);
+  }
+
+  &:focus {
+    outline: none;
+  }
+}
+
+a.link-remove {
+  cursor: pointer;
+  text-transform: uppercase;
+  font-size: 0.5rem;
+  color: #8a8989;
+  font-weight: bold;
+  margin-left: 0.5em;
+
+  &:hover {
+    color: #000;
+  }
+}
+
+.divider {
+  border-color: azure;
 }

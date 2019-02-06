@@ -1,9 +1,15 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect, Dispatch, SetStateAction, Fragment } from 'react'
 import './App.scss'
 import names from './data/names.json'
+import store from 'store'
 
 type TTone = 'ngang' | 'huyen' | 'sac' | 'hoi' | 'nga' | 'nang' | ''
 type TGetRandomBrandnamProps = { length?: number; toneData?: TTone[] }
+type TBrandname = {
+  words: string
+  meaning: string
+  elements: string[][]
+}
 
 function sample<T>(array: T[]): T {
   return array[Math.floor(Math.random() * array.length)]
@@ -25,24 +31,78 @@ function getRandomBrandname({ length = 2, toneData = ['', ''] }: TGetRandomBrand
   return { words, meaning, elements }
 }
 
+function useStoredBrandnames(): [TBrandname[], any] {
+  const [storedBrandnames, updateStoredBrandnames] = useState([] as TBrandname[])
+  useEffect(() => {
+    const brandnames: TBrandname[] | undefined = store.get('brandnames')
+    if (brandnames && brandnames.length) {
+      updateStoredBrandnames(brandnames)
+    }
+  })
+
+  function handleUpdateStoredBrandnames(brandnames: TBrandname[]) {
+    updateStoredBrandnames(brandnames)
+    store.set('brandnames', brandnames)
+  }
+  return [storedBrandnames, handleUpdateStoredBrandnames]
+}
+
+function addBrandname(
+  storedBrandnames: TBrandname[],
+  updateStoredBrandnames: Dispatch<SetStateAction<TBrandname[]>>,
+  brandname: TBrandname
+) {
+  const matchBrandname = storedBrandnames.find(_brandname => {
+    return _brandname.words === brandname.words && _brandname.meaning === brandname.meaning
+  })
+  if (!matchBrandname) {
+    const newBrandnames = storedBrandnames.concat(brandname)
+    updateStoredBrandnames(newBrandnames)
+    store.set('brandnames', newBrandnames)
+  }
+}
+
+function removeBrandname(
+  storedBrandnames: TBrandname[],
+  updateStoredBrandnames: Dispatch<SetStateAction<TBrandname[]>>,
+  brandname: TBrandname
+) {
+  const newBrandnames = storedBrandnames.filter(_brandname => {
+    return !(_brandname.words === brandname.words && _brandname.meaning === brandname.meaning)
+  })
+  updateStoredBrandnames(newBrandnames)
+  store.set('brandnames', newBrandnames)
+}
+
 function App() {
   const [brandnameData, updateBrandnameData] = useState(getRandomBrandname())
   const [toneData, updateToneData] = useState(['', ''] as TTone[])
+  const [storedBrandnames, updateStoredBrandnames] = useStoredBrandnames()
 
   return (
     <div className="container">
       <h1 className="header">Brandname Generator</h1>
       <div className="card brandname-container">
-        <p className="brandname">{brandnameData.words}</p>
-        <p className="meaning">{brandnameData.meaning}</p>
-        <button
-          className="generate-button"
+        <a
+          className="heart"
           onClick={() => {
-            updateBrandnameData(getRandomBrandname({ toneData }))
+            addBrandname(storedBrandnames, updateStoredBrandnames, brandnameData)
           }}
         >
-          Generate
-        </button>
+          ❤️
+        </a>
+        <div className="brandname-layout">
+          <p className="brandname">{brandnameData.words}</p>
+          <p className="meaning">{brandnameData.meaning}</p>
+          <button
+            className="generate-button"
+            onClick={() => {
+              updateBrandnameData(getRandomBrandname({ toneData }))
+            }}
+          >
+            Generate
+          </button>
+        </div>
       </div>
 
       <div className="card settings-container">
@@ -70,6 +130,40 @@ function App() {
           ))}
         </form>
       </div>
+
+      {storedBrandnames.length > 0 && (
+        <Fragment>
+          <div className="container-stored-brandnames">
+            <hr className="divider" />
+            <h2 className="header">Stored Brandnames</h2>
+            <ul className="list-brandname">
+              {storedBrandnames.map(brandname => (
+                <li key={brandname.words + ' ' + brandname.meaning} className="item-brandname">
+                  <span className="words">{brandname.words}</span>
+                  <span className="meaning">{brandname.meaning}</span>
+                  <a
+                    className="link-remove"
+                    onClick={() => {
+                      removeBrandname(storedBrandnames, updateStoredBrandnames, brandname)
+                    }}
+                  >
+                    remove
+                  </a>
+                </li>
+              ))}
+            </ul>
+            <div className="clear-all">
+              <a
+                onClick={() => {
+                  updateStoredBrandnames([])
+                }}
+              >
+                Clear all
+              </a>
+            </div>
+          </div>
+        </Fragment>
+      )}
     </div>
   )
 }
