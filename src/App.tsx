@@ -29,7 +29,7 @@ function getRandomBrandname({ length = 2, toneData = ['', ''] }: TGetRandomBrand
     return sample(filterByTone(names, toneData[k]))
   })
   const words = elements.map(element => element[0]).join(' ')
-  const meaning = elements.map(element => element[1]).join(' ')
+  const meaning = elements.map(element => element[1]).join(' + ')
   return { words, meaning, elements }
 }
 
