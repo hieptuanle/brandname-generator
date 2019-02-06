@@ -174,9 +174,11 @@
 }
 
 a.heart {
-  align-self: flex-start;
+  text-align: center;
   display: block;
   position: absolute;
+  min-width: 3em;
+  min-height: 3em;
   cursor: pointer;
   left: auto;
   right: 0.6em;
