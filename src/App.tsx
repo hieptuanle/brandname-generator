@@ -157,7 +157,7 @@ function App() {
                 <option value="hoi">Hỏi</option>
                 <option value="nga">Ngã</option>
                 <option value="nang">Nặng</option>
-                <option value="">Bất kỳ</option>
+                <option value="">Dấu bất kỳ</option>
               </select>
             </div>
           ))}
